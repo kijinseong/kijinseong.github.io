@@ -9,15 +9,14 @@ layout: default
 <p>Ph.D. Urban and Regional Sciences, Texas A&M University<br />
 M.S. Community and Regional Planning, University of Texas at Austin<br />
 M.S. Architecture, Seoul National University<br />
-B.S. Architecture, Yonsei University<br />
-</p>
+B.S. Architecture, Yonsei University</p>
 
 <br />
         
 ### What'new
 
-<p style="color: #5F6D7A;">Aug 2024</p>
-<br /><P>A systems medicine disease map is a high-quality expert community-driven representation of disease mechanisms, a conceptual model of a disease. The detailed layer consists of interconnected signalling, metabolic and gene regulatory pathways stored in standard formats such as <a href="http://sbgn.org/" target="_blank">SBGN</a>, <a href="http://sbml.org/" target="_blank">SBML</a> and <a href="http://biopax.org/" target="_blank">BioPAX</a>. The involvement of domain experts (clinicians and biologists) ensures that all the disease hallmarks are covered and relevant knowledge is adequately represented.</p>
+<p style="color: #2F4F4F;">Aug 2024</p>
+<P>A systems medicine disease map is a high-quality expert community-driven representation of disease mechanisms, a conceptual model of a disease. The detailed layer consists of interconnected signalling, metabolic and gene regulatory pathways stored in standard formats such as <a href="http://sbgn.org/" target="_blank">SBGN</a>, <a href="http://sbml.org/" target="_blank">SBML</a> and <a href="http://biopax.org/" target="_blank">BioPAX</a>. The involvement of domain experts (clinicians and biologists) ensures that all the disease hallmarks are covered and relevant knowledge is adequately represented.</p>
         
 ### What are the disease maps for?  
 
