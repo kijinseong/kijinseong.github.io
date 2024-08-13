@@ -1,19 +1,119 @@
----
-layout: default
----
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-<p style="font-size:110%;">Welcome to the portal for communication, news, guidelines, and other information about the Disease Maps Project, an open community effort to comprehensively represent disease mechanisms for various diseases.</p>
+[Link to another page](./another-page.html).
 
-<br />
-        
-### What is a disease map?
+There should be whitespace between paragraphs.
 
-<p>A systems medicine disease map is a high-quality expert community-driven representation of disease mechanisms, a conceptual model of a disease. The detailed layer consists of interconnected signalling, metabolic and gene regulatory pathways stored in standard formats such as <a href="http://sbgn.org/" target="_blank">SBGN</a>, <a href="http://sbml.org/" target="_blank">SBML</a> and <a href="http://biopax.org/" target="_blank">BioPAX</a>. The involvement of domain experts (clinicians and biologists) ensures that all the disease hallmarks are covered and relevant knowledge is adequately represented.</p>
-        
-### What are the disease maps for?  
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-<p>In translational medicine projects disease maps are used for advanced ‘omics data interpretation and hypothesis generation, as the basis for mathematical models, for predictive analysis and for building clinical decision support systems. The maps can be used for educational purposes as teaching aids.</p>
-        
-### The community     
+# Header 1
 
-<p>The Disease Maps Project is designed as a large-scale community effort. It is a network of groups that work together in order to better understand disease mechanisms. We exchange best practices, share information, develop tools to make it easier for all the involved groups to achieve their goals.</p>
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+## Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+### Header 3
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
+#### Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
+
+* * *
+
+### Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+### And an ordered list:
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+
+### Definition lists can be used with HTML syntax.
+
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
+
+```
+The final element.
+```
