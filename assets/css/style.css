@@ -1,0 +1,15 @@
+body {
+    color: #424242; /* Replace this with your desired color */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #2e2e2e; /* Example for headings */
+}
+
+p {
+    color: #424242; /* Example for paragraph text */
+}
+
+a {
+    color: #124F90; /* Example for links */
+}
