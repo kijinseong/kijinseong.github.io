@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p style="font-size:110%;">Welcome to the portal for communication, news, guidelines, and other information about the Disease Maps Project, an open community effort to comprehensively represent disease mechanisms for various diseases.</p>
+<p style="font-size:110%;">Hi! I am Kijin Seong and I am a postdoctoral researcher at the Urban Information Lab in the School of Architecture at the University of Texas at Austin. My research centers on leveraging urban informatics and emerging technologies to enhance the climate resilience of smart cities. I am passionate about using data-driven approaches to improve urban planning and address environmental challenges, and I continually seek opportunities to expand my expertise in this field.</p>
 
 <br />
         
