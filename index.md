@@ -16,15 +16,15 @@ B.S. Architecture, Yonsei University</p>
 ### What'new
 
 <p>
-  <strong style="color: #7da0ca;">Aug 2024</strong><br />
+  <strong style="color: #a54893,;">Aug 2024</strong><br />
   Excited to launch <a href="http://kijinseong.github.io/" target="_blank">Kijin Seong's personal website!</a>  
 </p>
 <p>
-  <strong style="color: #7da0ca;">Aug 2024</strong><br />
+  <strong style="color: #a54893,;">Aug 2024</strong><br />
   A systems medicine disease map is a high-quality expert community-driven representation of disease mechanisms, a conceptual model of a disease. The detailed layer consists of interconnected signalling.
 </p>
 <p>
-  <strong style="color: #7da0ca;">July 2024</strong><br />
+  <strong style="color: #a54893,;">July 2024</strong><br />
   A systems medicine disease map is a high-quality expert community-driven representation of disease mechanisms, a conceptual model of a disease. The detailed layer consists of interconnected signalling, metabolic and gene regulatory.
 </p>
 
