@@ -24,4 +24,4 @@ plugins:
 
 # Custom styles
 include:
-  - assets/css/style.css
+  - assets/css/style.scss
