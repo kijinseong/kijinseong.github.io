@@ -1,16 +1,9 @@
+<p align="justify" style="font-size: 20px; font-weight: bold;">
 title: Kijin Seong, 
   <br>PhD, AICP
-  </p>
+</p>
 
-# Site Author
-author:
-  name             : "Jiawei Wang"
-  avatar           : "/files/Images/KijinSeong_headshot_sq.jpg"
-  bio              : #"To go as far as your talent and hardwork would allow"
-  location         : "Austin, TX, USA"
-
-
-# logo: "/assets/img/KijinSeong_headshot_sq.jpg"
+logo: "/files/Images/KijinSeong_headshot_sq.jpg"
 description: 
   <p align="center">
   Austin, TX, USA
