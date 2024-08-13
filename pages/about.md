@@ -6,24 +6,24 @@ permalink: /about/
        
 # About
         
-<p>The Disease Maps Project as a large-scale community effort was initiated by the <a href="http://wwwen.uni.lu/lcsb" target="_blank">Luxembourg Centre for Systems Biomedicine</a>, the <a href="http://www.eisbm.org/" target="_blank">European Institute for Systems Biology and Medicine</a> and the <a href="http://www.institut-curie.org/" target="_blank">Institut Curie</a>.</p>
+<p>(DUMMY TEXT) The Disease Maps Project as a large-scale community effort was initiated by the <a href="http://wwwen.uni.lu/lcsb" target="_blank">Luxembourg Centre for Systems Biomedicine</a>, the <a href="http://www.eisbm.org/" target="_blank">European Institute for Systems Biology and Medicine</a> and the <a href="http://www.institut-curie.org/" target="_blank">Institut Curie</a>.</p>
 
 ## Get involved
 
-<p>We are actively expanding the list of diseases covered by the Disease Maps Project and are looking for new contributors interested in molecular mechanisms of diseases: computational biology teams working on disease models and clinicians or experimental biologists who would like to contribute as domain experts. If you are working on one of the diseases which are already listed on this website, please do not be discouraged: we would be happy to collaborate and integrate your work in the overall effort.</p>
+<p>(DUMMY TEXT) We are actively expanding the list of diseases covered by the Disease Maps Project and are looking for new contributors interested in molecular mechanisms of diseases: computational biology teams working on disease models and clinicians or experimental biologists who would like to contribute as domain experts. If you are working on one of the diseases which are already listed on this website, please do not be discouraged: we would be happy to collaborate and integrate your work in the overall effort.</p>
         
 ## Principal Investigators
 
 
 ## Acknowledgements
 
-<p>We would like to thank Rudi Balling, the Director of the <a href="http://lcsb.uni.lu" target="_blank">Luxembourg Centre for Systems Biomedicine</a> for his longstanding and enthusiastic support to the concept of disease maps. He is one of the key people that helped to catalyse the Disease Maps Project.</p>
+<p>(DUMMY TEXT)We would like to thank Rudi Balling, the Director of the <a href="http://lcsb.uni.lu" target="_blank">Luxembourg Centre for Systems Biomedicine</a> for his longstanding and enthusiastic support to the concept of disease maps. He is one of the key people that helped to catalyse the Disease Maps Project.</p>
 
-<p>Many published disease maps were developed in collaboration with the <a href="http://www.sbi.jp/" target="_blank">Systems Biology Institute</a>, Tokyo, Japan (Mizuno et al., 2012, <a href="https://www.ncbi.nlm.nih.gov/pubmed/22647208" target="_blank">PMID 22647208</a>; Matsuoka et al., 2013, <a href="https://www.ncbi.nlm.nih.gov/pubmed/24088197" target="_blank">PMID 24088197</a>; Fujita et al., 2014, <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PMID 23832570</a>; Kuperstein et al., 2015, <a href="https://www.ncbi.nlm.nih.gov/pubmed/26192618" target="_blank">PMID 26192618</a>). We would like to underline the role of Prof. Hiroaki Kitano in pioneering the process description representation of signalling networks and initiating first comprehensive disease-relevant extensive reconstructions of signalling pathways (Oda et al., 2005, <a href="https://www.ncbi.nlm.nih.gov/pubmed/16729045" target="_blank">PMID 16729045</a>; Oda and Kitano, 2006, <a href="https://www.ncbi.nlm.nih.gov/pubmed/16738560" target="_blank">PMID 16738560</a>; Caron et al., 2010, <a href="https://www.ncbi.nlm.nih.gov/pubmed/21179025" target="_blank">PMID 21179025</a>).</p>
+<p>(DUMMY TEXT)Many published disease maps were developed in collaboration with the <a href="http://www.sbi.jp/" target="_blank">Systems Biology Institute</a>, Tokyo, Japan (Mizuno et al., 2012, <a href="https://www.ncbi.nlm.nih.gov/pubmed/22647208" target="_blank">PMID 22647208</a>; Matsuoka et al., 2013, <a href="https://www.ncbi.nlm.nih.gov/pubmed/24088197" target="_blank">PMID 24088197</a>; Fujita et al., 2014, <a href="https://www.ncbi.nlm.nih.gov/pubmed/23832570" target="_blank">PMID 23832570</a>; Kuperstein et al., 2015, <a href="https://www.ncbi.nlm.nih.gov/pubmed/26192618" target="_blank">PMID 26192618</a>). We would like to underline the role of Prof. Hiroaki Kitano in pioneering the process description representation of signalling networks and initiating first comprehensive disease-relevant extensive reconstructions of signalling pathways (Oda et al., 2005, <a href="https://www.ncbi.nlm.nih.gov/pubmed/16729045" target="_blank">PMID 16729045</a>; Oda and Kitano, 2006, <a href="https://www.ncbi.nlm.nih.gov/pubmed/16738560" target="_blank">PMID 16738560</a>; Caron et al., 2010, <a href="https://www.ncbi.nlm.nih.gov/pubmed/21179025" target="_blank">PMID 21179025</a>).</p>
 
 ## Funding
 
-The Disease Maps Project was funded in part by [IMI eTRIKS n°115446](http://www.imi.europa.eu/projects-results/project-factsheets/etriks) ([eTRIKS](https://www.etriks.org/), European Translational Information and Knowledge Management Services).
+(DUMMY TEXT)The Disease Maps Project was funded in part by [IMI eTRIKS n°115446](http://www.imi.europa.eu/projects-results/project-factsheets/etriks) ([eTRIKS](https://www.etriks.org/), European Translational Information and Knowledge Management Services).
 
 The Parkinson’s Disease Map is funded by the <a href="http://wwwen.uni.lu/lcsb" target="_blank">Luxembourg Centre for Systems Biomedicine</a> (LCSB): Institutional Funds and supported by a donation from <a href="http://www.oeuvre.lu/" target="_blank">L’Œuvre Nationale de Secours Grande-Duchesse Charlotte</a>.  
  
