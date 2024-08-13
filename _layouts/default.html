@@ -13,18 +13,20 @@
 
     <style>
           .header-title {
-            font-size: 1.5em; /* Smaller font size */
-            background: linear-gradient(to right, #0066ff 0%, #6600cc 100%);
+            font-size: 2.5em; /* Smaller font size */
+            background: linear-gradient(to right, #003399 0%, #9933ff 100%);
             -webkit-background-clip: text;
             color: transparent;
             text-align: center;
-            margin: 20px 0;
+            margin: 10px 0;
           }
     
           .header-title .sub-title {
             display: block;  /* Ensures "PhD, AICP" is on the next line */
-            font-size: 1em;  /* Smaller font size for the subtitle */
-            color: #003366;  /* Dark Blue color for the subtitle */
+            font-size: 1.5em;  /* Smaller font size for the subtitle */
+            background: linear-gradient(to right, #003399 0%, #9933ff 100%);
+            -webkit-background-clip: text;
+            color: transparent;  
           }
         </style>
     
@@ -54,16 +56,13 @@
       <br />
       <br />
         
-        <p style="line-height:6px;"><a href="/about">ABOUT</a></p>
-        <p style="line-height:6px;"><a href="/projects">PROJECTS</a></p>
-        <p style="line-height:6px;"><a href="/events">EVENTS</a></p>
-        <p style="line-height:6px;"><a href="/guidelines">GUIDELINES</a></p>
-        <p style="line-height:6px;"><a href="/tools">TOOLS</a></p>
-        <p style="line-height:6px;"><a href="/relatedefforts">RELATED EFFORTS</a></p>
-        <p style="line-height:6px;"><a href="/publications">PUBLICATIONS</a></p>
-        <p style="line-height:6px;"><a href="/howtocite">HOW TO CITE</a></p>
-        <p style="line-height:6px;"><a href="/contact">CONTACT</a></p>
-        
+        <p style="line-height:10px;"><a href="/about">ABOUT</a></p>
+        <p style="line-height:10px;"><a href="/research">RESEARCH</a></p>
+        <p style="line-height:10px;"><a href="/publications">PUBLICATIONS</a></p>
+        <p style="line-height:10px;"><a href="/teaching">TEACHING</a></p>
+        <p style="line-height:10px;"><a href="/cv">CV</a></p>
+        <p style="line-height:10px;"><a href="/blog">BLOG</a></p>
+              
       </header>
       
       <section>
@@ -76,6 +75,9 @@
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
+
+        <p class="footer-text">© 2024 Kijin Seong. Hosted by GitHub Pages minimal; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        
         <!--<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>-->
       </footer>
     </div>
