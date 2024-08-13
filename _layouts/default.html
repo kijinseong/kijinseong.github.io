@@ -10,15 +10,35 @@
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <meta name="viewport" content="width=device-width">
+
+    <style>
+          .header-title {
+            font-size: 1.5em; /* Smaller font size */
+            background: linear-gradient(to right, #0066ff 0%, #6600cc 100%);
+            -webkit-background-clip: text;
+            color: transparent;
+            text-align: center;
+            margin: 20px 0;
+          }
+    
+          .header-title .sub-title {
+            display: block;  /* Ensures "PhD, AICP" is on the next line */
+            font-size: 1em;  /* Smaller font size for the subtitle */
+            color: #003366;  /* Dark Blue color for the subtitle */
+          }
+        </style>
     
   </head>
   <body>
     <div class="wrapper">
       <header>
         
-      <a href="/"><img id="logo" src="/files/Images/KijinSeong_headshot_sq.jpg" style="width:160px;"/></a>
+      <a href="/"><img id="logo" src="/files/Images/KijinSeong_headshot_sq.jpg" style="width:240px;"/></a>
      
-      <h1>Kijin Seong, PhD, AICP</h1>
+      <div class="header-title">
+        Kijin Seong
+        <span class="sub-title">PhD, AICP</span>
+      </div>
         
       <p align="center">
         Austin, TX, USA
