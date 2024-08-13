@@ -15,8 +15,8 @@ B.S. Architecture, Yonsei University</p>
         
 ### What'new
 
-<p style="color: #2F4F4F;">Aug 2024</p>
-<P>A systems medicine disease map is a high-quality expert community-driven representation of disease mechanisms, a conceptual model of a disease. The detailed layer consists of interconnected signalling, metabolic and gene regulatory pathways stored in standard formats such as <a href="http://sbgn.org/" target="_blank">SBGN</a>, <a href="http://sbml.org/" target="_blank">SBML</a> and <a href="http://biopax.org/" target="_blank">BioPAX</a>. The involvement of domain experts (clinicians and biologists) ensures that all the disease hallmarks are covered and relevant knowledge is adequately represented.</p>
+<p style="color: #2F4F4F; font-weight: bold;">Aug 2024<br />
+A systems medicine disease map is a high-quality expert community-driven representation of disease mechanisms, a conceptual model of a disease. The detailed layer consists of interconnected signalling, metabolic and gene regulatory pathways stored in standard formats such as <a href="http://sbgn.org/" target="_blank">SBGN</a>, <a href="http://sbml.org/" target="_blank">SBML</a> and <a href="http://biopax.org/" target="_blank">BioPAX</a>. The involvement of domain experts (clinicians and biologists) ensures that all the disease hallmarks are covered and relevant knowledge is adequately represented.</p>
         
 ### What are the disease maps for?  
 
