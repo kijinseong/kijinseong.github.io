@@ -23,7 +23,7 @@ layout: default
 </p>
 <p>
   <strong style="color: #b76ca8;">July 2024</strong><br />
-  Virtually attended the <a href="/files/Documents/2024-JAPA-Writing-Workshop-for-Emerging-Scholarsv2.pdf/">2024 JAPA Writing Workshop for Emerging Scholars</a>
+  Virtually attended the [2024 JAPA Writing Workshop for Emerging Scholars](/files/Documents/2024-JAPA-Writing-Workshop-for-Emerging-Scholarsv2.pdf)
 </p>
 <p>
   <strong style="color: #b76ca8;">July 2024</strong><br />
