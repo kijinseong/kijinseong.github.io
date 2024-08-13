@@ -23,10 +23,13 @@ layout: default
 </p>
 <p>
   <strong style="color: #b76ca8;">July 2024</strong><br />
-  Virtually attended the [2024 JAPA Writing Workshop for Emerging Scholars](/files/Documents/2024-JAPA-Writing-Workshop-for-Emerging-Scholarsv2.pdf)
+  Virtually attended the <a href="/files/Documents/2024-JAPA-Writing-Workshop-for-Emerging-Scholarsv2.pdf">2024 JAPA Writing Workshop for Emerging Scholars</a>
 </p>
 <p>
   <strong style="color: #b76ca8;">July 2024</strong><br />
   Paper on <a href="https://doi.org/10.1371/journal.pclm.0000448">Evaluating urban fire vulnerability and accessibility to fire stations and hospitals in Austin, Texas</a> accepted to <a href="https://journals.plos.org/climate/">PLOS Climate</a> 
 </p>
 
+
+
+[def]: files/Documents/2024-JAPA-Writing-Workshop-for-Emerging-Scholarsv2.pd
