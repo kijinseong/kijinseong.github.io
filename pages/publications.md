@@ -1,7 +1,9 @@
 ---
-title: Research
+title: Publications
 layout: default
-permalink: /research/
+permalink: /publications/
 ---
 
-TBD
+# Publications
+        
+<p> TBD </p>
