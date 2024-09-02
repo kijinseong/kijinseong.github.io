@@ -5,6 +5,7 @@ layout: default
 <p style="font-size:110%;">Hi! I am <b>Kijin Seong</b> and a postdoctoral researcher at the Urban Information Lab in the School of Architecture at the University of Texas at Austin. My research focuses on leveraging <b>urban informatics and emerging technologies</b> to enhance the <b>climate resilience of smart cities</b>. I am passionate about using data-driven approaches to improve urban planning and address environmental challenges, and I continually seek opportunities to expand my expertise in this field.</p>
 
 <br />
+
 ### Education 
 <p>
 <span style="display:inline-block; width: 42px;">Ph.D.</span>Urban and Regional Science, Texas A&M University<br />
@@ -16,6 +17,10 @@ layout: default
 <br />
         
 ### What' new
+<p>
+  <strong style="color: #b76ca8;">Aug 2024</strong><br />
+  My citation count on <a href="https://scholar.google.com/citations?hl=en&user=GcRv_SUAAAAJ&view_op=list_works&sortby=pubdate/" target="_blank">Google Scholar</a> has surpassed last year's total. Yay!  
+</p>
 
 <p>
   <strong style="color: #b76ca8;">Aug 2024</strong><br />
