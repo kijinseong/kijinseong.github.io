@@ -30,6 +30,10 @@ a:hover {
 // Custom styles to adjust the content width
 .wrapper {
     max-width: 1500px;  // Change this to your desired width
-    margin: 0 auto;     // Center the content
-    padding: 20px;      // Optional: Add padding to the sides
+    margin: 10px auto;     // Center the content
+    padding: 0px;      // Optional: Add padding to the sides
+}
+
+.text-colored {
+    color: #3d3d3d; /* Replace with your desired text color */
 }
