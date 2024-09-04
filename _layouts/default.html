@@ -25,6 +25,17 @@
           
         </style>
     
+    <script>
+      function showdropinfo(id) {
+          var element = document.getElementById(id);
+          if (element.style.display === "none") {
+              element.style.display = "block";
+          } else {
+              element.style.display = "none";
+          }
+      }
+    </script>
+
   </head>
   <body>
     <div class="wrapper">
@@ -99,17 +110,6 @@
         ga('create', '{{ site.google_analytics }}', 'auto');
         ga('send', 'pageview');
     </script>
-
-    <script>
-      function showdropinfo(id) {
-          var element = document.getElementById(id);
-          if (element.style.display === "none") {
-              element.style.display = "block";
-          } else {
-              element.style.display = "none";
-          }
-      }
-      </script>
   {% endif %}
   </body>
 </html>
