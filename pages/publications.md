@@ -19,6 +19,8 @@ permalink: /publications/
 <p> ( * Corresponding Author ) </p>
 
 ## Working Papers
+
+<p>
 <ol>
     <li>
         <b>Seong, K.*</b>, Jiao, J., Lewis, R. H., Farahi, A., Navratil, P., Casebeer, N., Jones, J., and Niyogi, D.  Towards a Digital Twin for Smart Resilient Cities: Real-time fire and smoke tracking and prediction platform for community awareness (FireCom). (Under Review: _Journal of Urban Technology_)
@@ -39,10 +41,15 @@ permalink: /publications/
         <b>Seong, K.*</b>, Kota, S., Jiao, J. Assessing the Impact of Heat Vulnerability on Heat Discomfort through Twitter Data Analysis in Austin-Travis County. (Plan to submit it in Sep 2024: _PLOS One_)
     </li>
 </ol>
+</p>
 
 ## Peer-reviewed Journal Articles  
+<p>
+
+</p>
 
 ### 2024 
+<p>
 <ol start="13">
     <li>
         <b>Seong, K.*</b>, Jiao, J., Mandalapu, A., and Niyogi, D. (2024). Spatio-Temporal Patterns of Heat Index and Heat-Related Emergency Medical Services (EMS). <i>Sustainable Cities and Society</i>, 111, 105562. [ <a href="javascript:void(0);" onclick="showdropinfo('Spatio-temporal2024')">abstract</a> | <a href="https://linkinghub.elsevier.com/retrieve/pii/S2210670724003883" target="_blank">official link</a> ]
@@ -64,7 +71,7 @@ permalink: /publications/
     Fires and burning are the chief causes of particulate matter (PM2.5), a key measurement of air quality in communities and cities worldwide. This work develops a live fire tracking platform to show active reported fires from over twenty cities in the U.S., as well as predict their smoke paths and impacts on the air quality of regions within their range. Specifically, our close to real-time tracking and predictions culminates in a digital twin to protect public health and inform the public of fire and air quality risk. This tool tracks fire incidents in real-time, utilizes the 3D building footprints of Austin to simulate smoke outputs, and predicts fire incident smoke falloffs within the complex city environment. Results from this study include a complete fire and smoke digital twin model for Austin. We work in cooperation with the City of Austin Fire Department to ensure the accuracy of our forecast and also show that air quality sensor density within our cities cannot validate urban fire presence. We additionally release code and methodology to replicate these results for any city in the world. This work paves the path for similar digital twin models to be developed and deployed to better protect the health and safety of citizens.
     <br><br>
 </div>
-
+</p>
 
 
 
@@ -74,25 +81,41 @@ permalink: /publications/
 
 
 ### 2023 
+<p>
+
+</p>
 
 ### 2022
+<p>
+
+</p>
 
 ### 2021
+<p>
 
+</p>
 
 ### 2020
+<p>
 
+</p>
 
 ### 2019
+<p>
 
+</p>
 
 
 ## Peer-reviewed Professional Reports 
+<p>
 
+</p>
 
 
 ## Published Data 
+<p>
 
+</p>
 
 
 
