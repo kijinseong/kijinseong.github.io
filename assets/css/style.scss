@@ -34,29 +34,3 @@ a:hover {
 .text-colored ul li {
     font-size: 15px; /* Set the font size to 15px */
 }
-
-/* Ensure the container spans the full width of the viewport */
-.container {
-    display: flex;
-    width: 100%; /* Full width of the viewport */
-    max-width: 1400px; /* Maximum width for larger screens */
-    margin: 0 auto; /* Center the container */
-    padding: 0 20px; /* Padding around the content */
-}
-
-/* Define the sidebar width and keep it responsive */
-.sidebar {
-    width: 20%; /* 20% width for the sidebar */
-    min-width: 200px; /* Minimum width to maintain usability */
-    max-width: 300px; /* Maximum width to prevent it from taking too much space */
-    padding: 20px; /* Padding inside the sidebar */
-    background-color: #f0f0f0; /* Background color for sidebar */
-}
-
-/* Make the main content wider */
-.main-content {
-    width: 80%; /* 80% width for main content */
-    flex-grow: 1; /* Allows it to grow and fill the available space */
-    padding: 20px; /* Padding inside the main content */
-    background-color: #ffffff; /* Background color for main content */
-}

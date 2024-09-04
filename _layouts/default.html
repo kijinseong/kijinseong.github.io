@@ -21,27 +21,6 @@
             text-align: center;
             margin: 5px 0;
             font-weight: bold;
-          }
-          .container {
-            display: flex;
-            width: 100%;
-            max-width: 1400px;
-            margin: 0 auto;
-            padding: 0 20px;
-          }
-          .sidebar {
-              width: 20%;
-              min-width: 200px;
-              max-width: 300px;
-              padding: 20px;
-              background-color: #f0f0f0;
-          }
-          .main-content {
-              width: 80%;
-              flex-grow: 1;
-              padding: 20px;
-              background-color: #ffffff;
-          }
     </style>
     
     <script>
@@ -57,9 +36,6 @@
 
   </head>
   <body>
-    <div class="container">
-      <aside class="sidebar">
-
       <header>
         
       <a href="/" style="display: block; text-align: center;"><img id="logo" src="/files/Images/KijinSeong_headshot_sq.jpg" style="width:250px; display: block; margin: 0 auto; border-radius: 50%;"/></a>
@@ -103,10 +79,7 @@
 
       
       <section>
-      </aside>
-      <main class="main-content">
       {{ content }}
-      </main>
       </section>
       </main>
       <footer>
@@ -133,6 +106,5 @@
         ga('send', 'pageview');
     </script>
   {% endif %}
-    </div>
   </body>
 </html>
