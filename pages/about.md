@@ -64,14 +64,3 @@ Smart City Resilience, Environmental Equity, Environmental Health, Urban Data Sc
     </ul>  
 </div>
 
-
-
-
-<!-- Footer Section -->
-<footer>
-    {% if site.github.is_project_page %}
-    <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-    {% endif %}
-
-    <p class="footer-text" style="font-size: 13px;">© 2024 Kijin Seong. Hosted by GitHub Pages minimal; Theme by <a href="https://github.com/orderedlist" style="color: #124F90;">orderedlist</a></p>
-</footer>
