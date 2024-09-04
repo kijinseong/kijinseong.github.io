@@ -44,13 +44,15 @@ a:hover {
   // left side is 270
   // 1200-270 = 930
   // 30px free room
-  margin:20px auto;
-  padding: 10px;
+  margin:0 auto;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom:50px;
 }
 
 section {
-  max-width: 800px;
-  width: 90%;
+  max-width: 700px;
+  width: 100%;
   float:right;
   padding-bottom:50px;
   padding-left:20px;
