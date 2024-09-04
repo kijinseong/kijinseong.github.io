@@ -18,12 +18,12 @@ layout: default
         
 ### What' new
 <p>
-  <strong style="color: #b76ca8;">Aug 2024</strong><br />
+  <strong style="color: #b76ca8;">Sep, 2024</strong><br />
   My citation count on <a href="https://scholar.google.com/citations?hl=en&user=GcRv_SUAAAAJ&view_op=list_works&sortby=pubdate/" target="_blank">Google Scholar</a> has surpassed last year's total. Yay!  
 </p>
 
 <p>
-  <strong style="color: #b76ca8;">Aug 2024</strong><br />
+  <strong style="color: #b76ca8;">Aug, 2024</strong><br />
   Excited to launch <a href="http://kijinseong.github.io/" target="_blank">Kijin Seong's personal website!</a>  
 </p>
 <p>
