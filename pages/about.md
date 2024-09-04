@@ -18,13 +18,20 @@ Smart City Resilience, Environmental Equity, Environmental Health, Urban Data Sc
 
 ## Work Experience 
 <p>
-<span style="display:inline-block; width: 85px;">2024 -</span><b>Senior Research Fellow in Smart Cities</b>, Urban Information Lab, UT Austin<br />
-<span style="display:inline-block; width: 85px;">2022 - 2024</span><b>Postdoctoral Researcher</b>, Urban Information Lab, UT Austin<br />
-<span style="display:inline-block; width: 85px;">2021 </span><b>Lecturer</b>, Dept. of Landscape Architecture and Urban Planning, TAMU<br />
-<span style="display:inline-block; width: 85px;">2021 </span><b>Researcher Fellow</b>, Hazard Reduction & Recovery Center, TAMU<br />                                  
-<span style="display:inline-block; width: 85px;">2018 </span><b>Instructor of Record</b>, Dept. of Landscape Architecture and Urban Planning, TAMU<br />
-<span style="display:inline-block; width: 85px;">2017 - 2021 </span><b>Graduate Research Assistant</b>, Dept. of Landscape Architecture and Urban Planning, TAMU<br />
-<span style="display:inline-block; width: 85px;">2015 - 2016 </span><b>Graduate Teaching Assistant</b>, Dept. of Landscape Architecture and Urban Planning, TAMU
+<span style="display:inline-block; width: 95px;">2024 -</span><b>Senior Research Fellow in Smart Cities</b><br />
+<span style="display:inline-block; text-indent: 95px;">Urban Information Lab, UT Austin</span><br />
+<span style="display:inline-block; width: 95px;">2022 - 2024</span><b>Postdoctoral Researcher</b><br />
+<span style="display:inline-block; text-indent: 95px;">Urban Information Lab, UT Austin</span><br />
+<span style="display:inline-block; width: 95px;">2021 </span><b>Lecturer</b><br />
+<span style="display:inline-block; text-indent: 95px;">Dept. of Landscape Architecture and Urban Planning, TAMU</span><br />
+<span style="display:inline-block; width: 95px;">2021 </span><b>Researcher Fellow</b><br />
+<span style="display:inline-block; text-indent: 95px;">Hazard Reduction & Recovery Center, TAMU</span><br />                                  
+<span style="display:inline-block; width: 95px;">2018 </span><b>Instructor of Record</b><br />
+<span style="display:inline-block; text-indent: 95px;">Dept. of Landscape Architecture and Urban Planning, TAMU</span><br />
+<span style="display:inline-block; width: 95px;">2017 - 2021</span><b>Graduate Research Assistant</b><br />
+<span style="display:inline-block; text-indent: 95px;">Dept. of Landscape Architecture and Urban Planning, TAMU</span><br />
+<span style="display:inline-block; width: 95px;">2015 - 2016</span><b>Graduate Teaching Assistant</b><br />
+<span style="display:inline-block; text-indent: 95px;">Dept. of Landscape Architecture and Urban Planning, TAMU</span>
 </p>
 
 <br />
