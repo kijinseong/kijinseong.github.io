@@ -50,7 +50,7 @@ permalink: /publications/
 <div class="text-colored">
     <ol start="13">
         <li>
-            <b>Seong, K.*</b>, Jiao, J., Mandalapu, A., and Niyogi, D. (2024). Spatio-Temporal Patterns of Heat Index and Heat-Related Emergency Medical Services (EMS). <i>Sustainable Cities and Society</i>, 111, 105562. [ <a href="javascript:void(0);" onclick="showdropinfo('Spatio-temporal2024')">abstract</a> | <a href="https://linkinghub.elsevier.com/retrieve/pii/S2210670724003883" target="_blank">official link</a> ]
+            <b>Seong, K.*</b>, Jiao, J., Mandalapu, A., and Niyogi, D. (2024). Spatio-Temporal Patterns of Heat Index and Heat-Related Emergency Medical Services (EMS). <i>Sustainable Cities and Society</i>, 111, 105562. [ <a href="javascript:void(0);" onclick="showdropinfo('Spatio-temporal2024')">abstract</a> | <a href="https://linkinghub.elsevier.com/retrieve/pii/S2210670724003883" target="_blank">official link</a>]
         </li>
     </ol>
 
@@ -61,7 +61,7 @@ permalink: /publications/
 
     <ol start="12">
         <li>
-            Lewis, R. H.*, Jiao, J., <b>Seong, K.</b>, Farahi, A., Navrátil, P., Casebeer, N., & Niyogi, D. (2024). Fire and smoke digital twin – A computational framework for modeling fire incident outcomes. <i>Computers, Environment and Urban Systems</i>, 110, 102093. [ <a href="javascript:void(0);" onclick="showdropinfo('FireDT2024')">abstract</a> | <a href="https://linkinghub.elsevier.com/retrieve/pii/S019897152400022X" target="_blank">official link</a> ]
+            Lewis, R. H.*, Jiao, J., <b>Seong, K.</b>, Farahi, A., Navrátil, P., Casebeer, N., and Niyogi, D. (2024). Fire and smoke digital twin – A computational framework for modeling fire incident outcomes. <i>Computers, Environment and Urban Systems</i>, 110, 102093. [ <a href="javascript:void(0);" onclick="showdropinfo('FireDT2024')">abstract</a> | <a href="https://linkinghub.elsevier.com/retrieve/pii/S019897152400022X" target="_blank">official link</a> ]
         </li>
     </ol>
 
@@ -72,7 +72,7 @@ permalink: /publications/
 
     <ol start="11">
         <li>
-            <b>Seong, K.*</b>, Choi, S., Jiao, J. (2024). IoT sensors as a tool for assessing spatiotemporal risk to extreme heat.  <i>Journal of Environmental Planning and Management</i>. 1-23. [ <a href="javascript:void(0);" onclick="showdropinfo('IoT2024')">abstract</a> | <a href="https://www.tandfonline.com/doi/full/10.1080/09640568.2024.2320257" target="_blank">official link</a> ]
+            <b>Seong, K.*</b>, Choi, S., and Jiao, J. (2024). IoT sensors as a tool for assessing spatiotemporal risk to extreme heat.  <i>Journal of Environmental Planning and Management</i>. 1-23. [ <a href="javascript:void(0);" onclick="showdropinfo('IoT2024')">abstract</a> | <a href="https://www.tandfonline.com/doi/full/10.1080/09640568.2024.2320257" target="_blank">official link</a> ]
         </li>
     </ol>
 
@@ -81,13 +81,43 @@ permalink: /publications/
         <br><br>
     </div>
 
+    <ol start="10">
+        <li>
+            <b>Seong, K.*</b> and Jiao, J. (2024). Is a Smart City Framework the Key to Disaster Resilience? A Systematic Review. <i>Journal of Planning Literature</i>. [ <a href="javascript:void(0);" onclick="showdropinfo('Literature2024')">abstract</a> | <a href="http://journals.sagepub.com/doi/10.1177/08854122231199462" target="_blank">official link</a> ]
+        </li>
+    </ol>
 
+    <div id='Literature2024' class="abstractcollapsed" style="display:none;">
+        Despite a growing body of research on the smart city framework for disaster resilience, a comprehensive systematic literature review from urban planning perspectives has never been attempted. In this review of smart and resilient cities, we distill vital learning and shared concepts, identify research trends and limitations, and suggest avenues for future research. The results reveal that reviewed articles primarily focused on methodological approaches addressing how to adapt technologies for disaster resilience, yet rarely discussed the sociological approaches to environment, economy, and governance. This study will provide a reference to trace existing research and suggest equitable smart resilience.
+        <br><br>
+    </div>
 </div>
 
-
-
-
 ### 2023 
+<div class="text-colored">
+    <ol start="9">
+        <li>
+            <b>Seong, K.*</b>, Jiao, J., and Mandalapu, A. (2023). Hourly Associations between Heat Index and Heat-Related Emergency Medical Service (EMS) Calls in Austin-Travis County, Texas. <i>International Journal of Environmental Research and Public Health</i>. 20(19), 6853. [ <a href="javascript:void(0);" onclick="showdropinfo('Hourly2023')">abstract</a> | <a href="https://www.mdpi.com/1660-4601/20/19/6853" target="_blank">official link</a> ]
+        </li>
+    </ol>
+
+    <div id='Hourly2023' class="abstractcollapsed" style="display:none;">
+        This paper aims to investigate the following research questions: (1) what are the hourly patterns of heat index and heat-related emergency medical service (EMS) incidents during summertime?; and (2) how do the lagged effects of heat intensity and hourly excess heat (HEH) vary by heat-related symptoms? Using the hourly weather and heat-related EMS call data in Austin-Travis County, Texas, this paper reveals the relationship between heat index patterns on an hourly basis and heat-related health issues and evaluates the immediate health effects of extreme heat events by utilizing a distributed lag non-linear model (DLNM). Delving into the heat index intensity and HEH, our ﬁndings suggest that higher heat intensity has immediate, short-term lagged effects on all causes of heat-related EMS incidents, including in cardiovascular, respiratory, neurological, and non-severe cases, while its relative risk (RR) varies by time. HEH also shows a short-term cumulative lagged effect within 5 h in all-cause, cardiovascular, and non-severe symptoms, while there are no statistically signiﬁcant RRs found for respiratory and neurological cases in the short term. Our ﬁndings could be a reference for policymakers when devoting resources, developing extreme heat warning standards, and optimizing local EMS services, providing data-driven evidence for the effective deployment of ambulances.
+        <br><br>
+    </div>
+
+    <ol start="9">
+        <li>
+            <b>Seong, K.*</b>, Jiao, J., and Mandalapu, A. (2023). Hourly Associations between Heat Index and Heat-Related Emergency Medical Service (EMS) Calls in Austin-Travis County, Texas. <i>International Journal of Environmental Research and Public Health</i>. 20(19), 6853. [ <a href="javascript:void(0);" onclick="showdropinfo('Hourly2023')">abstract</a> | <a href="https://www.mdpi.com/1660-4601/20/19/6853" target="_blank">official link</a> ]
+        </li>
+    </ol>
+
+    <div id='Hourly2023' class="abstractcollapsed" style="display:none;">
+        This paper aims to investigate the following research questions: (1) what are the hourly patterns of heat index and heat-related emergency medical service (EMS) incidents during summertime?; and (2) how do the lagged effects of heat intensity and hourly excess heat (HEH) vary by heat-related symptoms? Using the hourly weather and heat-related EMS call data in Austin-Travis County, Texas, this paper reveals the relationship between heat index patterns on an hourly basis and heat-related health issues and evaluates the immediate health effects of extreme heat events by utilizing a distributed lag non-linear model (DLNM). Delving into the heat index intensity and HEH, our ﬁndings suggest that higher heat intensity has immediate, short-term lagged effects on all causes of heat-related EMS incidents, including in cardiovascular, respiratory, neurological, and non-severe cases, while its relative risk (RR) varies by time. HEH also shows a short-term cumulative lagged effect within 5 h in all-cause, cardiovascular, and non-severe symptoms, while there are no statistically signiﬁcant RRs found for respiratory and neurological cases in the short term. Our ﬁndings could be a reference for policymakers when devoting resources, developing extreme heat warning standards, and optimizing local EMS services, providing data-driven evidence for the effective deployment of ambulances.
+        <br><br>
+    </div>
+
+</div>
 
 
 ### 2022
