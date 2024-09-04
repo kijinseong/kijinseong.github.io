@@ -40,27 +40,26 @@ a:hover {
 
 .wrapper {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   max-width:1200px;
-  width: 90%;
+  width: 100%;
   // left side is 270
   // 1200-270 = 930
   // 30px free room
   margin:20px auto;
   gap: 20px;
+  box-sizing: border-box;
 }
 
 /* Sidebar styles */
 .sidebar {
   flex-basis: 270px;       /* Fix the sidebar width */
-  min-width: 250px;        /* Ensure the sidebar doesn't get too small */
-  max-width: 300px;        /* Optional max width */
   padding: 10px;
 }
 
 section {
   flex-grow: 1;
-  min-width: 600px;  
+  min-width: 0;  
   padding-bottom:50px;
 }
 
