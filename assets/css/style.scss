@@ -29,9 +29,11 @@ a:hover {
 
 // Custom styles to adjust the content width
 .wrapper {
-    max-width: 1500px;  // Change this to your desired width
-    margin: 10px auto;     // Center the content
-    padding: 0px;      // Optional: Add padding to the sides
+    width: 90%;
+    max-width: 1400px;  /* Set your desired maximum width */
+    min-width: 800px;
+    margin: 0 auto;    /* Center the content horizontally */
+    padding: 20px;     /* Add padding for better readability */
 }
 
 .text-colored {
