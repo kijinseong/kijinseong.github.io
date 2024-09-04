@@ -39,7 +39,59 @@ a:hover {
 // Newly added section widths.
 
 .wrapper {
-  max-width:1200px;
+    display: flex;           /* Use flexbox to create a flexible layout */
+    flex-wrap: wrap;         /* Allows items to wrap as needed on smaller screens */
+    max-width: 1200px;       /* Set a max-width for larger screens */
+    width: 90%;              /* Use 90% of the viewport width */
+    margin: 0 auto;          /* Center the wrapper horizontally */
+    padding: 20px;           /* Add some padding for content spacing */
+}
+  
+.sidebar {
+    width: 20%;              /* Sidebar takes 20% of the width on larger screens */
+    min-width: 250px;        /* Minimum width to maintain usability */
+    max-width: 270px;        /* Maximum width for the sidebar */
+    background-color: #f0f0f0; /* Background color for visual distinction */
+    padding: 10px;           /* Padding inside the sidebar */
+}
+  
+.section {
+    flex-grow: 1;            /* Allows the section to grow and fill available space */
+    width: 70%;              /* 70% width, can adjust based on the sidebar */
+    max-width: 930px;        /* Set the maximum width for content */
+    float: right;            /* Align section to the right (optional) */
+    padding: 20px;           /* Padding for readability */
+    background-color: #fff;  /* Background color for main content */
+}
+
+
+@media (max-width: 768px) {
+    .wrapper {
+      flex-direction: column; /* Stack items vertically on small screens */
+      width: 100%;            /* Use full width for small devices */
+      padding: 10px;          /* Reduce padding for smaller screens */
+    }
+    
+    .sidebar {
+      width: 100%;            /* Sidebar takes full width */
+      max-width: none;        /* Remove maximum width constraint */
+      order: 2;               /* Display sidebar below the main content */
+      padding: 10px 0;        /* Adjust padding */
+    }
+    
+    .section {
+      width: 100%;            /* Section takes full width */
+      max-width: none;        /* Remove maximum width constraint */
+      order: 1;               /* Display section above the sidebar */
+      padding-bottom: 20px;   /* Adjust padding */
+    }
+  }
+
+
+
+/*
+.wrapper {
+  width:1200px;
   // left side is 270
   // 1200-270 = 930
   // 30px free room
@@ -47,7 +99,9 @@ a:hover {
 }
 
 section {
-  max-width:900px;
+  width:900px;
   float:right;
   padding-bottom:50px;
 }
+
+*/
