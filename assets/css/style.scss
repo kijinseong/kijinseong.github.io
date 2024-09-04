@@ -43,12 +43,35 @@ a:hover {
   // left side is 270
   // 1200-270 = 930
   // 30px free room
-  margin:0 auto;
+  margin:20px auto;
 }
 
 section {
-  max-width: 900px;
+  width: 900px;
   float:right;
   padding-bottom:50px;
+}
+
+
+@media (max-width: 950px) {
+  .wrapper {
+    flex-direction: column; /* Stack items vertically on small screens */
+    width: 100%;            /* Use full width for small devices */
+    padding: 10px;          /* Reduce padding for smaller screens */
+  }
+  
+  .sidebar {
+    width: 100%;            /* Sidebar takes full width */
+    max-width: none;        /* Remove maximum width constraint */
+    order: 2;               /* Display sidebar below the main content */
+    padding: 10px 0;        /* Adjust padding */
+  }
+  
+  .section {
+    width: 100%;            /* Section takes full width */
+    max-width: none;        /* Remove maximum width constraint */
+    order: 1;               /* Display section above the sidebar */
+    padding-bottom: 20px;   /* Adjust padding */
+  }
 }
 
