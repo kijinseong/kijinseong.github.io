@@ -46,21 +46,20 @@ a:hover {
   // left side is 270
   // 1200-270 = 930
   // 30px free room
-  margin:20px auto;
+  margin:0 auto;
   gap: 20px;
   box-sizing: border-box;
+  padding: 0 20px;
 }
 
 /* Sidebar styles */
 .sidebar {
-  flex-basis: 250px;       /* Fix the sidebar width */
-  flex-shrink: 0;
+  flex: 0 0 250px;       /* Fix the sidebar width */
   padding: 10px;
 }
 
 section {
   flex-grow: 1;
-  flex-shrink: 1;
   min-width: 0;  
   padding-bottom:50px;
 }
