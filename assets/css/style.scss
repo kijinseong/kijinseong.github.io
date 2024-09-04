@@ -48,10 +48,9 @@ a:hover {
 }
   
 .sidebar {
-    width: 20%;              /* Sidebar takes 20% of the width on larger screens */
+    width: 30%;              /* Sidebar takes 20% of the width on larger screens */
     min-width: 250px;        /* Minimum width to maintain usability */
     max-width: 270px;        /* Maximum width for the sidebar */
-    background-color: #692121; /* Background color for visual distinction */
     padding: 10px;           /* Padding inside the sidebar */
 }
   
@@ -59,9 +58,8 @@ a:hover {
     flex-grow: 1;            /* Allows the section to grow and fill available space */
     width: 70%;              /* 70% width, can adjust based on the sidebar */
     max-width: 930px;        /* Set the maximum width for content */
-    float: right;            /* Align section to the right (optional) */
+    margin-left: auto;            /* Align section to the right (optional) */
     padding: 20px;           /* Padding for readability */
-    background-color: #dfbbbb;  /* Background color for main content */
 }
 
 
