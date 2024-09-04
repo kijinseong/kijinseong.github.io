@@ -28,8 +28,8 @@ a:hover {
 }
 
 // Custom styles to adjust the content width
-.site-content {
-    max-width: 1920px;  // Change this to your desired width
+.container, .content, .main {
+    max-width: 1000px;  // Change this to your desired width
     margin: 0 auto;     // Center the content
     padding: 20px;      // Optional: Add padding to the sides
 }
