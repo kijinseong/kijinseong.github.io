@@ -10,18 +10,37 @@ permalink: /publications/
 }
 </style>
 
+<style>
+    ol li {
+        margin-bottom: 10px; /* Adjust the margin value as needed */
+    }
+</style>
+
+<ol>
+
 # Publications
         
 <p> ( * Corresponding Author ) </p>
 
 ## Working Papers
-1.  <b>Seong, K.*</b>, Jiao, J., Lewis, R. H., Farahi, A., Navratil, P., Casebeer, N., Jones, J., and Niyogi, D.  Towards a Digital Twin for Smart Resilient Cities: Real-time fire and smoke tracking and prediction platform for community awareness (FireCom). (Under Review: _Journal of Urban Technology_)
-2.  <b>Seong, K.*</b>, Van Zandt, S., Peacock, W. G., Newman, G. Racial and Ethnic Change in Floodplain Buyout Neighborhoods: Twenty-five Years of Evidence from Houston. (Under Review: _Journal of Planning Education and Research_)
-3.  Sammer, M., <b>Seong, K.</b>, Olvera N., Gronseth S. L., Anderson-Fletcher, E., Jiao, J., Reese, A., Kakadiaris, I. A*. AI-FEED: Prototyping an AI-Powered Platform for the Food Charity Ecosystem. (Under Review: _International Journal of Computational Intelligence Systems_)
-4.  <b>Seong, K.*</b>, Jiao, J., and Mandalapu, A. The Legacy of Redlining: Unveiling the Impact on Natural Hazard Risk and Community Resilience (Under Review: _Journal of American Planning Association_)
-5.  Jiao, J., <b>Seong, K.*</b>, Sammer, M., Kakadiaris, I. A., Reese, A., Olvera N., Gronseth S. L., Anderson-Fletcher, E. Mapping Healthy Food Access and Suggesting AI-Driven Solutions: Development of a Healthy Food Access Index (HFAI) and Urban Planning Strategies (Plan to submit it in Sep 2024: _Cities_)
-6.  <b>Seong, K.*</b>, Kota, S., Jiao, J. Assessing the Impact of Heat Vulnerability on Heat Discomfort through Twitter Data Analysis in Austin-Travis County. (Plan to submit it in Sep 2024: _PLOS One_)
-
+<ol>
+    <li>
+        <b>Seong, K.*</b>, Jiao, J., Lewis, R. H., Farahi, A., Navratil, P., Casebeer, N., Jones, J., and Niyogi, D.  Towards a Digital Twin for Smart Resilient Cities: Real-time fire and smoke tracking and prediction platform for community awareness (FireCom). (Under Review: _Journal of Urban Technology_)
+    </li>
+    <li>
+        <b>Seong, K.*</b>, Van Zandt, S., Peacock, W. G., Newman, G. Racial and Ethnic Change in Floodplain Buyout Neighborhoods: Twenty-five Years of Evidence from Houston. (Under Review: _Journal of Planning Education and Research_)
+    </li>
+    <li>
+        Sammer, M., <b>Seong, K.</b>, Olvera N., Gronseth S. L., Anderson-Fletcher, E., Jiao, J., Reese, A., Kakadiaris, I. A*. AI-FEED: Prototyping an AI-Powered Platform for the Food Charity Ecosystem. (Under Review: _International Journal of Computational Intelligence Systems_)
+    </li>
+    <li>
+        <b>Seong, K.*</b>, Jiao, J., and Mandalapu, A. The Legacy of Redlining: Unveiling the Impact on Natural Hazard Risk and Community Resilience (Under Review: _Journal of American Planning Association_)
+    </li>
+    <li>   
+        Jiao, J., <b>Seong, K.*</b>, Sammer, M., Kakadiaris, I. A., Reese, A., Olvera N., Gronseth S. L., Anderson-Fletcher, E. Mapping Healthy Food Access and Suggesting AI-Driven Solutions: Development of a Healthy Food Access Index (HFAI) and Urban Planning Strategies (Plan to submit it in Sep 2024: _Cities_)
+    </li>
+    <li>    
+        <b>Seong, K.*</b>, Kota, S., Jiao, J. Assessing the Impact of Heat Vulnerability on Heat Discomfort through Twitter Data Analysis in Austin-Travis County. (Plan to submit it in Sep 2024: _PLOS One_)
 
 ## Peer-reviewed Journal Articles  
 
