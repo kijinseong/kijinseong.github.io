@@ -42,6 +42,8 @@ permalink: /publications/
     </ol>
 </div>
 
+<br>
+
 ## Peer-reviewed Journal Articles  
 <div class="text-colored">
 </div>
@@ -207,6 +209,8 @@ permalink: /publications/
     </div>
 </div>
 
+<br>
+
 ## Peer-reviewed Professional Reports 
 ### 2022 
 <div class="text-colored">
@@ -231,6 +235,8 @@ permalink: /publications/
         </li>
     </ol>    
 </div>
+
+<br>
 
 ## Published Data 
 ### 2021 
