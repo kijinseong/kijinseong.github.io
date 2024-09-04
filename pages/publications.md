@@ -171,7 +171,7 @@ permalink: /publications/
 
     <ol start="3">
         <li>
-            Park, Y., Kim, M., and <b>Seong, K.</b> (2021). Happy neighborhoods: Investigating neighborhood conditions and sentiments of a shrinking city with Twitter data. <i>Growth and Change</i>, 52(1), 539-566. [ <a href="javascript:void(0);" onclick="showdropinfo('Happy2021')">abstract</a> | <a href="https://onlinelibrary.wiley.com/doi/10.1111/grow.12451" target="_blank">official link</a> ]
+            Park, Y.*, Kim, M., and <b>Seong, K.</b> (2021). Happy neighborhoods: Investigating neighborhood conditions and sentiments of a shrinking city with Twitter data. <i>Growth and Change</i>, 52(1), 539-566. [ <a href="javascript:void(0);" onclick="showdropinfo('Happy2021')">abstract</a> | <a href="https://onlinelibrary.wiley.com/doi/10.1111/grow.12451" target="_blank">official link</a> ]
         </li>
     </ol>
 
