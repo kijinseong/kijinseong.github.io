@@ -7,7 +7,6 @@ permalink: /about/
 # About
 _TBD_
 
-
 <br />
 
 ## Research Interests
@@ -41,23 +40,22 @@ Smart City Resilience, Environmental Equity, Environmental Health, Urban Data Sc
 **Academic Service**
 <div class="text-colored">
     <ul>
-        <li>Reviewer for Environment and Planning B: Urban Analytics and City Science (EPB)
-        <li>Reviewer for the 1st International Symposium on Trustworthy Autonomous Systems (TAS ’23)  
-        <li>Reviewer for the 2nd International Symposium on Trustworthy Autonomous Systems (TAS ’24)  
-        <li>Reviewer for Computers, Environment and Urban Systems (CEUS)  
-        <li>Reviewer for the International Journal of Environmental Research and Public Health (IJERPH) 
-        <li>Reviewer for Journal of Planning Literature (JPL) 
-        <li>Reviewer for the International Journal of Disaster Risk Reduction (IJDRR) 
-        <li>Reviewer for Journal of Planning Education and Research (JPER)
+        <li>Reviewer for Environment and Planning B: Urban Analytics and City Science (EPB)</li>
+        <li>Reviewer for the 1st International Symposium on Trustworthy Autonomous Systems (TAS ’23)</li>  
+        <li>Reviewer for the 2nd International Symposium on Trustworthy Autonomous Systems (TAS ’24)</li>  
+        <li>Reviewer for Computers, Environment and Urban Systems (CEUS)</li>  
+        <li>Reviewer for the International Journal of Environmental Research and Public Health (IJERPH)</li> 
+        <li>Reviewer for Journal of Planning Literature (JPL)</li> 
+        <li>Reviewer for the International Journal of Disaster Risk Reduction (IJDRR)</li> 
+        <li>Reviewer for Journal of Planning Education and Research (JPER)</li>
     </ul> 
 </div>
 
 **Professional Service**
 <div class="text-colored">
     <ul>
-        <li>Program Coordinator, <a href="https://smartcitiessymposium2024.splashthat.com/" target="_blank">Smart Cities and AI Innovations Symposium 2024</a>, UT Austin, Austin, TX, 2024. 
-        <li>Program Coordinator, <a href="https://smartcitiessymposium.splashthat.com/" target="_blank">Smart Cities and Generative AI Symposium 2023</a>, UT Austin, Austin, TX, 2023.
-        <li>Council Liaison, A Good System for Smart Cities Advisory Group, 
-        UT Austin, Austin, TX, 2023 - Present.
+        <li>Program Coordinator, <a href="https://smartcitiessymposium2024.splashthat.com/" target="_blank">Smart Cities and AI Innovations Symposium 2024</a>, UT Austin, Austin, TX, 2024.</li> 
+        <li>Program Coordinator, <a href="https://smartcitiessymposium.splashthat.com/" target="_blank">Smart Cities and Generative AI Symposium 2023</a>, UT Austin, Austin, TX, 2023.</li>
+        <li>Council Liaison, A Good System for Smart Cities Advisory Group, UT Austin, Austin, TX, 2023 - Present.</li>
     </ul>  
 </div>
