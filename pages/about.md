@@ -5,16 +5,14 @@ permalink: /about/
 ---
        
 # About
-</p>
 _TBD_
-</p>
+
 
 <br />
 
 ## Research Interests
-</p>
+
 Smart City Resilience, Environmental Equity, Environmental Health, Urban Data Science
-</p>
 
 <br />
 
