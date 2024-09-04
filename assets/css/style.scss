@@ -40,7 +40,6 @@ a:hover {
 
 .wrapper {
     display: flex;           /* Use flexbox to create a flexible layout */
-    flex-wrap: wrap;         /* Allows items to wrap as needed on smaller screens */
     max-width: 1200px;       /* Set a max-width for larger screens */
     width: 90%;              /* Use 90% of the viewport width */
     margin: 0 auto;          /* Center the wrapper horizontally */
