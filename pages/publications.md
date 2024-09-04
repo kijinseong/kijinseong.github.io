@@ -37,6 +37,7 @@ permalink: /publications/
     </li>
     <li>    
         <b>Seong, K.*</b>, Kota, S., Jiao, J. Assessing the Impact of Heat Vulnerability on Heat Discomfort through Twitter Data Analysis in Austin-Travis County. (Plan to submit it in Sep 2024: _PLOS One_)
+    </li>
 </ol>
 
 ## Peer-reviewed Journal Articles  
