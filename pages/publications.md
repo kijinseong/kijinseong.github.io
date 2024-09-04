@@ -5,13 +5,6 @@ permalink: /publications/
 ---
 
 <style>
-    .wrapper {
-        width: 90%;
-        max-width: 1400px;  /* Set your desired maximum width */
-        margin: 0 auto;    /* Center the content horizontally */
-        padding: 20px;     /* Add padding for better readability */
-    }
-
     .abstractcollapsed {
         display: none; /* Ensures the element is hidden by default */
     }
