@@ -12,9 +12,9 @@ permalink: /research/
 
 <table>
 <tr>
-<td style="width: 300px;" valign="top"><a href="EnvironEquity1"><img src="../files/Images/SOA_Spring.jpg" class="image-hover-effect" width="400px"></a></td>
+<td style="width: 300px;" valign="top"><a href="/EnvironEquity1"><img src="../files/Images/SOA_Spring.jpg" class="image-hover-effect" width="400px"></a></td>
 <td valign="top">
-<strong><a href="EnvironEquity1" style="font-size: 15px;">
+<strong><a href="/EnvironEquity1" style="font-size: 15px;">
 Historical Redlining and Its Impact on Multi-Disaster Risk and Community Resilience</a></strong><br />
 A Spatial Analysis Using FEMA's National Risk Index<br /><br />
 <b>Keywords:</b> redlining; national risk index (NRI); community resilience; environmental justice; equity planning.
