@@ -53,12 +53,14 @@ a:hover {
 
 /* Sidebar styles */
 .sidebar {
-  flex-basis: 270px;       /* Fix the sidebar width */
+  flex-basis: 250px;       /* Fix the sidebar width */
+  flex-shrink: 0;
   padding: 10px;
 }
 
 section {
   flex-grow: 1;
+  flex-shrink: 1;
   min-width: 0;  
   padding-bottom:50px;
 }
