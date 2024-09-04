@@ -75,34 +75,25 @@ permalink: /publications/
 
 
 ### 2023 
-<div class="text-colored">
-</div>
+
 
 ### 2022
-<div class="text-colored">
-</div>
+
 
 ### 2021
-<div class="text-colored">
-</div>
+
 
 ### 2020
-<div class="text-colored">
-</div>
+
 
 ### 2019
-<div class="text-colored">
-</div>
 
 
 ## Peer-reviewed Professional Reports 
-<div class="text-colored">
-</div>
+
 
 
 ## Published Data 
-<div class="text-colored">
-</div>
 
 
 
