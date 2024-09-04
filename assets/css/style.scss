@@ -59,6 +59,8 @@ a:hover {
 }
 
 section {
+  width: 100%;               /* Take up 100% of the remaining space */
+  max-width: 900px;
   flex-grow: 1;
   min-width: 0;  
   padding-bottom:50px;
