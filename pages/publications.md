@@ -8,7 +8,6 @@ permalink: /publications/
     .wrapper {
         width: 90%;
         max-width: 1400px;  /* Set your desired maximum width */
-        min-width: 800px;
         margin: 0 auto;    /* Center the content horizontally */
         padding: 20px;     /* Add padding for better readability */
     }
