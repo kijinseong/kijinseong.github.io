@@ -40,14 +40,18 @@ Smart City Resilience, Environmental Equity, Environmental Health, Urban Data Sc
 **Academic Service**
 <div class="text-colored">
     <ul>
-        <li>Reviewer for Environment and Planning B: Urban Analytics and City Science (EPB)</li>
-        <li>Reviewer for the 1st International Symposium on Trustworthy Autonomous Systems (TAS ’23)</li>  
-        <li>Reviewer for the 2nd International Symposium on Trustworthy Autonomous Systems (TAS ’24)</li>  
-        <li>Reviewer for Computers, Environment and Urban Systems (CEUS)</li>  
-        <li>Reviewer for the International Journal of Environmental Research and Public Health (IJERPH)</li> 
-        <li>Reviewer for Journal of Planning Literature (JPL)</li> 
-        <li>Reviewer for the International Journal of Disaster Risk Reduction (IJDRR)</li> 
-        <li>Reviewer for Journal of Planning Education and Research (JPER)</li>
+        <li>Reviewer for journals: 
+            <ul>
+                <li>Environment and Planning B: Urban Analytics and City Science (EPB)</li>
+                <li>The 1st International Symposium on Trustworthy Autonomous Systems (TAS ’23)</li>  
+                <li>The 2nd International Symposium on Trustworthy Autonomous Systems (TAS ’24)</li>  
+                <li>Computers, Environment and Urban Systems (CEUS)</li>  
+                <li>International Journal of Environmental Research and Public Health (IJERPH)</li> 
+                <li>Journal of Planning Literature (JPL)</li> 
+                <li>International Journal of Disaster Risk Reduction (IJDRR)</li> 
+                <li>Journal of Planning Education and Research (JPER)</li>            
+            </ul>
+        </li>
     </ul> 
 </div>
 
