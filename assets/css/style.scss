@@ -75,15 +75,19 @@ section {
   width: 400px;
 }
 
-.image-hover-effect {
-	-webkit-filter: grayscale(100%);
-	filter: grayscale(100%);
-	-webkit-transition: .3s ease-in-out;
-	transition: .3s ease-in-out;
+.image-hover-effect img{
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  -webkit-transition: all .5s ease;
+  border-radius: 10px;
 }
-.image-hover-effect:hover {
-	-webkit-filter: grayscale(0);
-	filter: grayscale(0);
+
+.image-hover-effect img:hover {
+filter: grayscale(0%);
+filter: gray;
+-webkit-filter: grayscale(0%);
+filter: none;
+transition: .5s ease;
 }
 
 .credit-text {
