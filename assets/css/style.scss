@@ -76,15 +76,14 @@ section {
 }
 
 .image-hover-effect {
-  width: 100%;
-  border-radius: 15px;
-  filter: grayscale(100%); /* Initially black & white */
-  transition: filter 0.5s ease; /* Smooth transition effect */
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
 }
-
 .image-hover-effect:hover {
-  filter: grayscale(0%); /* Changes to color on hover */
-  opacity: 1;
+	-webkit-filter: grayscale(0);
+	filter: grayscale(0);
 }
 
 .credit-text {
