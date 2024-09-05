@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p style="font-size:110%;">Hi! I am <b>Kijin Seong</b>, a postdoctoral researcher at the Urban Information Lab in the School of Architecture at the University of Texas at Austin. My research focuses on leveraging <b>urban informatics and emerging technologies</b> to enhance the <b>climate resilience of smart cities</b>. I am deeply committed to employing data-driven approaches to advance urban planning and tackle environmental challenges. I am looking for apportunities to deepen my expertise in these areas and contribute to innovative solutions for smart city resilience.</p>
+<p style="font-size:110%;">Hi! I am <b>Kijin Seong</b>, a postdoctoral researcher at the Urban Information Lab in the School of Architecture at the University of Texas at Austin. My research focuses on leveraging <b>urban informatics and emerging technologies</b> to enhance the <b>climate resilience for smart cities</b>. I am passionate about employing data-driven approaches to advance urban planning and tackle environmental challenges. I am seeking opportunities to deepen my expertise in these areas and contribute to innovative solutions for smart city resilience.</p>
 
 <br />
 
