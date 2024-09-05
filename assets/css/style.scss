@@ -75,19 +75,18 @@ section {
   width: 400px;
 }
 
-.image-hover-effect img{
-  filter: grayscale(100%);
-  -webkit-filter: grayscale(100%);
-  -webkit-transition: all .5s ease;
+.image-hover-effect {
+  -webkit-filter: brightness(40%);
+  -webkit-transition: all 1s ease;
+  -moz-transition: all 1s ease;
+  -o-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  transition: all 1s ease;
   border-radius: 10px;
 }
 
 .image-hover-effect img:hover {
-filter: grayscale(0%);
-filter: gray;
--webkit-filter: grayscale(0%);
-filter: none;
-transition: .5s ease;
+  -webkit-filter: brightness(100%);
 }
 
 .credit-text {
