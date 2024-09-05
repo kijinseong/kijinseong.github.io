@@ -76,9 +76,14 @@ section {
 }
 
 .image-hover-effect {
-  opacity: 1;                /* Image is fully visible initially */
-  transition: opacity 0.5s;  /* Smooth transition when opacity changes */
-  border-radius: 8px; /* Adjust this value for more or less rounding */
+  width: 100%;
+  border-radius: 15px;
+  filter: grayscale(100%); /* Initially black & white */
+  transition: filter 0.5s ease; /* Smooth transition effect */
+}
+
+.image-hover-effect:hover {
+  filter: grayscale(0%); /* Changes to color on hover */
 }
 
 .credit-text {
