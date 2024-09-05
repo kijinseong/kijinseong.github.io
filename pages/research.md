@@ -16,7 +16,7 @@ permalink: /research/
 <td style="width: 300px;" valign="top"><a href="/RedliningNRI"><img src="../files/Images/SOA_Spring.jpg" class="image-hover-effect" width="400px"></a></td>
 <td valign="top">
 <strong><a href="/RedliningNRI" style="font-size: 15px;">
-<a>Historical Redlining and Its Impact on Disaster Resilience</a></strong><br />
+Historical Redlining and Its Impact on Disaster Resilience</a></strong><br />
 <b>A Spatial Analysis Using FEMA's National Risk Index</b><br />
 
 Examining the influence of redlining on contemporary urban vulnerability and resilience to natural hazards.<br />
