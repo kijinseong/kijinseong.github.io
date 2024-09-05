@@ -13,15 +13,13 @@ permalink: /research/
 
 <table>
 <tr>
-<td style="width: 300px;" valign="top"><a href="/EnvironEquity1"><img src="../files/Images/SOA_Spring.jpg" class="image-hover-effect" width="400px"></a></td>
+<td style="width: 300px;" valign="top"><a href="/RedliningNRI"><img src="../files/Images/SOA_Spring.jpg" class="image-hover-effect" width="400px"></a></td>
 <td valign="top">
-<strong><a href="/EnvironEquity1" style="font-size: 15px;">
+<strong><a href="/RedliningNRI" style="font-size: 15px;">
 Historical Redlining and Its Impact on Disaster Resilience</a></strong><br />
 <b>A Spatial Analysis Using FEMA's National Risk Index</b><br />
 
 Examining the influence of redlining on contemporary urban vulnerability and resilience to natural hazards.<br />
-
-<b>Keywords:</b> redlining; national risk index (NRI); community resilience; environmental justice; equity planning.
 </td>
 </tr>
 </table> 
@@ -33,7 +31,6 @@ Examining the influence of redlining on contemporary urban vulnerability and res
 <strong><a href="/EnvironEquity1" style="font-size: 15px;">
 Heat Vulnerability in Underserved Communities</a></strong><br />
 Studying the heightened exposure of low-income and minority communities to extreme heat and the role of urban design in mitigating these effects.<br /><br />
-<b>Keywords:</b> heat vulnerability; environmental justice; heat islands;  extreme heat exposure.
 </td>
 </tr>
 </table> 
@@ -45,7 +42,6 @@ Studying the heightened exposure of low-income and minority communities to extre
 <strong><a href="/EnvironEquity1" style="font-size: 15px;">
 Disaster Risk and Recovery Disparities</a></strong><br />
 Analyzing variations in disaster preparedness, response, and recovery across socio-economic and racial groups.<br /><br />
-<b>Keywords:</b> disaster disparities, socioeconomic vulnerability, recovery inequities, climate justice, marginalized communities.
 </td>
 </tr>
 </table> 
@@ -64,8 +60,6 @@ Analyzing variations in disaster preparedness, response, and recovery across soc
 Public Health Impacts of Extreme Heat Events</a></strong><br />
 
 Assessing how prolonged heatwaves affect vulnerable populations, with a focus on cardiovascular, respiratory, neurological, and non-severe cases.<br />
-
-<b>Keywords:</b> public health, extreme heat, heat index, health disparities, heat-related illnesses.
 </td>
 </tr>
 </table> 
@@ -78,7 +72,6 @@ Assessing how prolonged heatwaves affect vulnerable populations, with a focus on
 Heat-Related Emergency Medical Services (EMS) Demand</a></strong><br />
 
 Exploring spatiotemporal patterns of EMS calls related to heat emergencies and their relationship to environmental factors.<br />
-<b>Keywords:</b> emergency medical services (EMS), spatiotemporal analysis, heat stress, health infrastructure, climate resilience.
 </td>
 </tr>
 </table> 
@@ -91,7 +84,6 @@ Exploring spatiotemporal patterns of EMS calls related to heat emergencies and t
 Urban Fire Risk and Vulnerability</a></strong><br />
 
 Evaluating the risk of fire in densely populated urban areas and the deployment of smart technologies for early detection and mitigation.<br />
-<b>Keywords:</b> urban fire risk, fire vulnerability, smoke spread, public safety, fire mitigation.
 </td>
 </tr>
 </table> 
@@ -109,7 +101,6 @@ Evaluating the risk of fire in densely populated urban areas and the deployment 
 GeoAI for Food Security Monitoring and Risk Prediction</a></strong><br />
 
 Applying GeoAI to map and predict unhealthy food access, areas with limited access to nutritious food, and food distribution gaps.<br />
-<b>Keywords:</b> Healthy Food Access Index (HFAI); food insecurity, AI-driven solutions, hot spot analysis; urban food systems; food resilience.
 </td>
 </tr>
 </table> 
@@ -122,8 +113,6 @@ Applying GeoAI to map and predict unhealthy food access, areas with limited acce
 Digital Twin for Smart City Resilience</a></strong><br />
 
 Developing and applying digital twin technologies to simulate urban environments and enhance decision-making in fire risk management.<br />
-
-<b>Keywords:</b> digital twin, urban resilience, smart cities, real-time simulation, disaster management, predictive analytics.
 </td>
 </tr>
 </table> 
@@ -136,8 +125,6 @@ Developing and applying digital twin technologies to simulate urban environments
 Topic and Sentiment Analysis on Extreme Heat Events </a></strong><br />
 
 Analyzing social media data to understand sentiments around extreme heat events.<br />
-
-<b>Keywords:</b> topic analysis, sentiment analysis, public perception, social media analytics, urban resilience.
 </td>
 </tr>
 </table> 
@@ -150,7 +137,6 @@ Analyzing social media data to understand sentiments around extreme heat events.
 Systematic Review of Smart City Frameworks for Disaster Resilience</a></strong><br />
 
 Conducting a comprehensive review of how smart city infrastructures improve disaster resilience, with a focus on identifying best practices and knowledge gaps.<br />
-<b>Keywords:</b> systematic literature review, smart city frameworks, disaster resilience, urban informatics, smart technology.
 </td>
 </tr>
 </table> 

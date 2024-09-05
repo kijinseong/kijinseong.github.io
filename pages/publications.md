@@ -50,6 +50,17 @@ permalink: /publications/
 
 ### 2024 
 <div class="text-colored">
+    <ol start="14">
+        <li>
+            Mandalapu, A., <b>Seong, K.*</b>, & Jiao, J. (2024). Evaluating urban fire vulnerability and accessibility to fire stations and hospitals in Austin, Texas. <i>PLOS Climate</i>, 3(7), e0000448. [ <a href="javascript:void(0);" onclick="showdropinfo('FireVulnerability2024')">abstract</a> | <a href="https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000448" target="_blank">official link</a>]
+        </li>
+    </ol>
+
+    <div id='FireVulnerability2024' class="abstractcollapsed" style="display:none;">
+        Anthropogenic climate change has increased the frequency and intensity of fires. Despite their widespread consequences, current research has largely overlooked urban fires and their associated vulnerability. This study seeks to identify patterns of fire vulnerability, map out areas with high fire vulnerability and limited access to fire stations and hospitals, and ultimately determine the factors contributing to increased fire incidents. Principal Component Analysis was used to develop a fire vulnerability index comprising variables capturing health status and socio-environmental factors. Enhanced 2-step floating catchment area (E2SFCA) analysis was conducted to determine relative accessibility to resources such as hospitals and fire stations. Ordinary least squares (OLS) regression and geographically weighted regression (GWR) were utilized to determine factors associated with higher fire incident counts. The results of the fire vulnerability analysis highlight areas of high fire vulnerability in the eastern periphery and the north-central parts of Austin. Moreover, the eastern periphery experiences decreased accessibility to fire stations and hospitals. Finally, the results of the GWR analysis highlight a varied negative relationship between health vulnerability and fire incidents and a positive relationship with socio-environmental vulnerability. The GWR model (R2: 0.332) was able to predict a greater extent of the variance compared to OLS (R2: 0.056). Results of this study underscore that areas with socio-environmental vulnerabilities are likely to face a higher number of fire incidents and have reduced access to hospitals and fire stations. These findings can inform public health officials, city planners, and emergency services departments in developing targeted strategies to mitigate the harm caused by fire incidents.
+        <br><br>
+    </div>
+
     <ol start="13">
         <li>
             <b>Seong, K.*</b>, Jiao, J., Mandalapu, A., and Niyogi, D. (2024). Spatio-Temporal Patterns of Heat Index and Heat-Related Emergency Medical Services (EMS). <i>Sustainable Cities and Society</i>, 111, 105562. [ <a href="javascript:void(0);" onclick="showdropinfo('Spatio-temporal2024')">abstract</a> | <a href="https://linkinghub.elsevier.com/retrieve/pii/S2210670724003883" target="_blank">official link</a>]
