@@ -45,8 +45,6 @@ permalink: /publications/
 <br>
 
 ## Peer-reviewed Journal Articles  
-<div class="text-colored">
-</div>
 
 ### 2024 
 <div class="text-colored">
