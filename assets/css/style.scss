@@ -87,8 +87,9 @@ section {
 }
 
 .image-hover-effect:hover {
+  filter: grayscale(0%);
   -webkit-filter: brightness(100%);
-}
+}S
 
 .credit-text {
   position: absolute;
