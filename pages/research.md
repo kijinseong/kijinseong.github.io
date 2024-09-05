@@ -16,16 +16,16 @@ permalink: /research/
 <td style="width: 300px;" valign="top">
     <div class="image-container">
         <a href="/RedliningNRI">
-        <img src="../files/Images/SOA_Spring.jpg" class="image-hover-effect" width="400px">
+        <img src="../files/Images/ResearchPic/Redlining_Thumb.jpg" class="image-hover-effect" width="400px">
         </a>
-        <div class="credit-text">1935 map of Austin, Texas, with redline demarcations</div>
+        <div class="credit-text">Image from 1935 map of Austin, Texas, with redline demarcations</div>
     </div>
 </td>
 <td valign="top">
 <strong><a href="/RedliningNRI" style="font-size: 15px;">
 Historical Redlining and Its Impact on Disaster Resilience</a></strong><br />
 <b>A Spatial Analysis Using FEMA's National Risk Index</b><br />
-
+<br />
 Examining the influence of redlining on contemporary urban vulnerability and resilience to natural hazards.<br />
 </td>
 </tr>
@@ -33,7 +33,14 @@ Examining the influence of redlining on contemporary urban vulnerability and res
 
 <table>
 <tr>
-<td style="width: 300px;" valign="top"><a href="/EnvironEquity1"><img src="../files/Images/SOA_Spring.jpg" class="image-hover-effect" width="400px"></a></td>
+<td style="width: 300px;" valign="top">
+    <div class="image-container">
+        <a href="/RedliningNRI">
+        <img src="../files/Images/ResearchPic/HeatVul.jfif" class="image-hover-effect" width="400px">
+        </a>
+        <div class="credit-text">Image from Genaro Molina/Los Angeles Times</div>
+    </div>
+</td>
 <td valign="top">
 <strong><a href="/EnvironEquity1" style="font-size: 15px;">
 Heat Vulnerability in Underserved Communities</a></strong><br />
