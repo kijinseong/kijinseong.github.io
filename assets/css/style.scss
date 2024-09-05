@@ -78,7 +78,7 @@ section {
 .image-hover-effect {
   opacity: 1;                /* Image is fully visible initially */
   transition: opacity 0.5s;  /* Smooth transition when opacity changes */
-  border-radius: 15px; /* Adjust this value for more or less rounding */
+  border-radius: 8px; /* Adjust this value for more or less rounding */
 }
 
 .credit-text {
@@ -87,9 +87,9 @@ section {
   left: 10px;
   color: white;
   background-color: rgba(0, 0, 0, 0.5); /* Transparent background */
-  padding: 5px;
+  padding: 3px;
   font-size: 9px;
-  border-radius: 5px;
+  border-radius: 3px;
 }
 
 
