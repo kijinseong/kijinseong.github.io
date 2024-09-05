@@ -13,7 +13,14 @@ permalink: /research/
 
 <table>
 <tr>
-<td style="width: 300px;" valign="top"><a href="/RedliningNRI"><img src="../files/Images/SOA_Spring.jpg" class="image-hover-effect" width="400px"></a></td>
+<td style="width: 300px;" valign="top">
+    <div class="image-container">
+        <a href="/RedliningNRI">
+        <img src="../files/Images/SOA_Spring.jpg" class="image-hover-effect" width="400px">
+        </a>
+        <div class="credit-text">1935 map of Austin, Texas, with redline demarcations</div>
+    </div>
+</td>
 <td valign="top">
 <strong><a href="/RedliningNRI" style="font-size: 15px;">
 Historical Redlining and Its Impact on Disaster Resilience</a></strong><br />

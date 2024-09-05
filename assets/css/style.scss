@@ -69,11 +69,29 @@ section {
 }
 
 
-// Image Hover Effect 
+// Research Images
+.image-container {
+  position: relative;
+  width: 400px;
+}
+
 .image-hover-effect {
   opacity: 1;                /* Image is fully visible initially */
   transition: opacity 0.5s;  /* Smooth transition when opacity changes */
+  border-radius: 15px; /* Adjust this value for more or less rounding */
 }
+
+.credit-text {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5); /* Transparent background */
+  padding: 5px;
+  font-size: 9px;
+  border-radius: 5px;
+}
+
 
 /* Change opacity on hover */
 .image-hover-effect:hover {
