@@ -37,9 +37,9 @@ Smart City Resilience, Environmental Equity, Environmental Health, Urban Data Sc
 
 ## Service 
 
-**Academic Service**
 <div class="text-colored">
-    <ul>
+    <h2 style="margin-bottom: 0; font-size: 15px">Academic Service</h2>
+    <ul style="margin-top: 0;">
         <li>Reviewer for journals: 
             <ul>
                 <li>Environment and Planning B: Urban Analytics and City Science (EPB)</li>
@@ -55,9 +55,9 @@ Smart City Resilience, Environmental Equity, Environmental Health, Urban Data Sc
     </ul> 
 </div>
 
-**Professional Service**
 <div class="text-colored">
-    <ul>
+    <h2 style="margin-bottom: 0; font-size: 15px">Professional Service</h2>
+    <ul style="margin-top: 0;">
         <li>Program Coordinator, <a href="https://smartcitiessymposium2024.splashthat.com/" target="_blank">Smart Cities and AI Innovations Symposium 2024</a>, UT Austin, Austin, TX, 2024.</li> 
         <li>Program Coordinator, <a href="https://smartcitiessymposium.splashthat.com/" target="_blank">Smart Cities and Generative AI Symposium 2023</a>, UT Austin, Austin, TX, 2023.</li>
         <li>Council Liaison, A Good System for Smart Cities Advisory Group, UT Austin, Austin, TX, 2023 - Present.</li>
