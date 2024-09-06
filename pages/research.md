@@ -35,14 +35,14 @@ Examining the influence of redlining on contemporary urban vulnerability and res
 <tr>
 <td style="width: 300px;" valign="top">
     <div class="image-container">
-        <a href="/RedliningNRI">
+        <a href="/HeatVulnerability">
         <img src="../files/Images/ResearchPic/HeatVul.jfif" class="image-hover-effect" width="400px">
         </a>
         <div class="credit-text">Image from Genaro Molina/Los Angeles Times</div>
     </div>
 </td>
 <td valign="top">
-<strong><a href="/EnvironEquity1" style="font-size: 15px;">
+<strong><a href="/HeatVulnerability" style="font-size: 15px;">
 Heat Vulnerability in Underserved Communities</a></strong><br />
 Studying the heightened exposure of low-income and minority communities to extreme heat and the role of urban design in mitigating these effects.<br /><br />
 </td>
@@ -53,14 +53,14 @@ Studying the heightened exposure of low-income and minority communities to extre
 <tr>
 <td style="width: 300px;" valign="top">
     <div class="image-container">
-        <a href="/RedliningNRI">
+        <a href="/LumbertonBuyouts">
         <img src="../files/Images/ResearchPic/BuyoutLumberton.jpeg" class="image-hover-effect" width="400px">
         </a>
         <div class="credit-text">A home abandoned after Hurricane Florence in 2018. Image Credit: Kijin Seong, 2019.</div>
     </div>
 </td>
 <td valign="top">
-<strong><a href="/EnvironEquity1" style="font-size: 15px;">
+<strong><a href="/LumbertonBuyouts" style="font-size: 15px;">
 Disaster Risk and Recovery Disparities</a></strong><br />
 Analyzing variations in disaster preparedness, response, and recovery across socio-economic and racial groups.<br /><br />
 </td>

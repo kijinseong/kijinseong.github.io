@@ -1,7 +1,7 @@
 ---
-title: EnvironEquity1
+title: RedliningNRI
 layout: default
-permalink: /EnvironEquity1/
+permalink: /RedliningNRI/
 ---
 
 ## TBD 
