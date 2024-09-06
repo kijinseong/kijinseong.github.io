@@ -16,7 +16,7 @@ permalink: /research/
 <td style="width: 300px;" valign="top">
     <div class="image-container">
         <a href="/RedliningNRI">
-        <img src="../files/Images/ResearchPic/Redlining_Thumb.jpg" class="image-hover-effect" style="width: 100%; height: 150px; object-fit: cover;">
+        <img src="../files/Images/ResearchPic/Redlining_Thumb.jpg" class="image-hover-effect" style="width: 100%; height: 200px; object-fit: cover;">
         </a>
         <div class="credit-text">Image from 1935 map of Austin, Texas, with redline demarcations</div>
     </div>
@@ -36,7 +36,7 @@ Examining the influence of redlining on contemporary urban vulnerability and res
 <td style="width: 300px;" valign="top">
     <div class="image-container">
         <a href="/HeatVulnerability">
-        <img src="../files/Images/ResearchPic/HeatVul.jfif" class="image-hover-effect" width="400px">
+        <img src="../files/Images/ResearchPic/HeatVul.jfif" class="image-hover-effect" style="width: 100%; height: 200px; object-fit: cover;">
         </a>
         <div class="credit-text">Image from Genaro Molina/Los Angeles Times</div>
     </div>
@@ -54,7 +54,7 @@ Studying the heightened exposure of low-income and minority communities to extre
 <td style="width: 300px;" valign="top">
     <div class="image-container">
         <a href="/LumbertonBuyouts">
-        <img src="../files/Images/ResearchPic/BuyoutLumberton.jpeg" class="image-hover-effect" width="400px">
+        <img src="../files/Images/ResearchPic/BuyoutLumberton.jpeg" class="image-hover-effect" style="width: 100%; height: 200px; object-fit: cover;">
         </a>
         <div class="credit-text">A home abandoned after Hurricane Florence in 2018. Image Credit: Kijin Seong, 2019.</div>
     </div>
@@ -77,7 +77,7 @@ Analyzing variations in disaster preparedness, response, and recovery across soc
 <td style="width: 300px;" valign="top">
     <div class="image-container">
         <a href="/RedliningNRI">
-        <img src="../files/Images/ResearchPic/Heat-relatedIllness.jpg" class="image-hover-effect" width="400px">
+        <img src="../files/Images/ResearchPic/Heat-relatedIllness.jpg" class="image-hover-effect" style="width: 100%; height: 200px; object-fit: cover;">
         </a>
         <div class="credit-text">Image from Jerry Lara/San Antonio Express-News.</div>
     </div>
@@ -96,7 +96,7 @@ Assessing how prolonged heatwaves affect vulnerable populations, with a focus on
 <td style="width: 300px;" valign="top">
     <div class="image-container">
         <a href="/RedliningNRI">
-        <img src="../files/Images/ResearchPic/Ambulance.jpg" class="image-hover-effect" width="400px">
+        <img src="../files/Images/ResearchPic/Ambulance.jpg" class="image-hover-effect" style="width: 100%; height: 200px; object-fit: cover;">
         </a>
         <div class="credit-text">Image from Provident (https://www.providentins.com/).</div>
     </div>
@@ -115,7 +115,7 @@ Exploring spatiotemporal patterns of EMS calls related to heat emergencies and t
 <td style="width: 300px;" valign="top">
     <div class="image-container">
         <a href="/RedliningNRI">
-        <img src="../files/Images/ResearchPic/Firefighter.jpg" class="image-hover-effect" width="400px">
+        <img src="../files/Images/ResearchPic/Firefighter.jpg" class="image-hover-effect" style="width: 100%; height: 200px; object-fit: cover;">
         </a>
         <div class="credit-text">Image from Dept. of Homeland Security Science & Technology Directorate.</div>
     </div>
@@ -139,7 +139,7 @@ Evaluating the risk of fire in densely populated urban areas and the deployment 
 <td style="width: 300px;" valign="top">
     <div class="image-container">
         <a href="/RedliningNRI">
-        <img src="../files/Images/ResearchPic/FoodPantry.jfif" class="image-hover-effect" width="400px">
+        <img src="../files/Images/ResearchPic/FoodPantry.jfif" class="image-hover-effect" style="width: 100%; height: 200px; object-fit: cover;">
         </a>
         <div class="credit-text">Image from What Bear Area Food Shelf (https://whitebearfoodshelf.org/).</div>
     </div>
@@ -158,7 +158,7 @@ Applying GeoAI to map and predict unhealthy food access, areas with limited acce
 <td style="width: 300px;" valign="top">
     <div class="image-container">
         <a href="/RedliningNRI">
-        <img src="../files/Images/ResearchPic/Mitchell_Fire.jpg" class="image-hover-effect" width="400px">
+        <img src="../files/Images/ResearchPic/Mitchell_Fire.jpg" class="image-hover-effect" style="width: 100%; height: 200px; object-fit: cover;">
         </a>
         <div class="credit-text">Image from Mitchell Stevenson. Urban Information Lab.</div>
     </div>
@@ -177,7 +177,7 @@ Developing and applying digital twin technologies to simulate urban environments
 <td style="width: 300px;" valign="top">
     <div class="image-container">
         <a href="/RedliningNRI">
-        <img src="../files/Images/ResearchPic/UrbanHeat.jpeg" class="image-hover-effect" width="400px">
+        <img src="../files/Images/ResearchPic/UrbanHeat.jpeg" class="image-hover-effect" style="width: 100%; height: 200px; object-fit: cover;">
         </a>
         <div class="credit-text">Image from Earth Economics (https://www.eartheconomics.org/uhi).</div>
     </div>
@@ -196,7 +196,7 @@ Analyzing social media data to understand sentiments around extreme heat events.
 <td style="width: 300px;" valign="top">
     <div class="image-container">
         <a href="/RedliningNRI">
-        <img src="../files/Images/ResearchPic/LitReview.jpg" class="image-hover-effect" width="400px">
+        <img src="../files/Images/ResearchPic/LitReview.jpg" class="image-hover-effect" style="width: 100%; height: 200px; object-fit: cover;">
         </a>
         <div class="credit-text">Image from Kijin Seong (https://doi.org/10.1177/08854122231199).</div>
     </div>
