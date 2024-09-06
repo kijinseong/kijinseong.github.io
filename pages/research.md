@@ -56,7 +56,7 @@ Studying the heightened exposure of low-income and minority communities to extre
         <a href="/LumbertonBuyouts">
         <img src="../files/Images/ResearchPic/BuyoutLumberton.jpeg" class="image-hover-effect" style="width: 100%; height: 200px; object-fit: cover;">
         </a>
-        <div class="credit-text">A home abandoned after Hurricane Florence in 2018. Image Credit: Kijin Seong, 2019.</div>
+        <div class="credit-text">Image Credit: Kijin Seong, 2019, Natural Hazards Center.</div>
     </div>
 </td>
 <td valign="top">
@@ -95,14 +95,14 @@ Assessing how prolonged heatwaves affect vulnerable populations, with a focus on
 <tr>
 <td style="width: 300px;" valign="top">
     <div class="image-container">
-        <a href="/RedliningNRI">
+        <a href="/Research/EMSDemand">
         <img src="../files/Images/ResearchPic/Ambulance.jpg" class="image-hover-effect" style="width: 100%; height: 200px; object-fit: cover;">
         </a>
         <div class="credit-text">Image from Provident (https://www.providentins.com/).</div>
     </div>
 </td>
 <td valign="top">
-<strong><a href="/EnvironEquity1" style="font-size: 15px;">
+<strong><a href="/Research/EMSDemand" style="font-size: 15px;">
 Heat-Related Emergency Medical Services (EMS) Demand</a></strong><br />
 
 Exploring spatiotemporal patterns of EMS calls related to heat emergencies and their relationship to environmental factors.<br />
@@ -139,9 +139,9 @@ Evaluating the risk of fire in densely populated urban areas and the deployment 
 <td style="width: 300px;" valign="top">
     <div class="image-container">
         <a href="/RedliningNRI">
-        <img src="../files/Images/ResearchPic/FoodPantry.jfif" class="image-hover-effect" style="width: 100%; height: 200px; object-fit: cover;">
+        <img src="../files/Images/ResearchPic/FoodPantry.jpg" class="image-hover-effect" style="width: 100%; height: 200px; object-fit: cover;">
         </a>
-        <div class="credit-text">Image from What Bear Area Food Shelf (https://whitebearfoodshelf.org/).</div>
+        <div class="credit-text">Image from Needham Community Council (https://needhamcouncil.org/food-pantry/).</div>
     </div>
 </td>
 <td valign="top">
