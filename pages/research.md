@@ -16,7 +16,7 @@ permalink: /research/
 <td style="width: 300px;" valign="top">
     <div class="image-container">
         <a href="/RedliningNRI">
-        <img src="../files/Images/ResearchPic/Redlining_Thumb.jpg" class="image-hover-effect" width="400px">
+        <img src="../files/Images/ResearchPic/Redlining_Thumb.jpg" class="image-hover-effect" style="width: 100%; height: 150px; object-fit: cover;">
         </a>
         <div class="credit-text">Image from 1935 map of Austin, Texas, with redline demarcations</div>
     </div>
