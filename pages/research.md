@@ -51,7 +51,14 @@ Studying the heightened exposure of low-income and minority communities to extre
 
 <table>
 <tr>
-<td style="width: 300px;" valign="top"><a href="/EnvironEquity1"><img src="../files/Images/SOA_Spring.jpg" class="image-hover-effect" width="400px"></a></td>
+<td style="width: 300px;" valign="top">
+    <div class="image-container">
+        <a href="/RedliningNRI">
+        <img src="../files/Images/ResearchPic/BuyoutLumberton.jpeg" class="image-hover-effect" width="400px">
+        </a>
+        <div class="credit-text">A home abandoned after Hurricane Florence in 2018. Image Credit: Kijin Seong, 2019.</div>
+    </div>
+</td>
 <td valign="top">
 <strong><a href="/EnvironEquity1" style="font-size: 15px;">
 Disaster Risk and Recovery Disparities</a></strong><br />
@@ -62,13 +69,19 @@ Analyzing variations in disaster preparedness, response, and recovery across soc
 
 <br />
 
-
 ## 2. Urban Environmental Health
 <p>Investigating the intersection of urban planning, public health, and smart technologies to enhance the well-being of urban populations, particularly in mitigating the effects of pollution, heat, fire and other environmental stressors.</p>
 
 <table>
 <tr>
-<td style="width: 300px;" valign="top"><a href="/EnvironEquity1"><img src="../files/Images/SOA_Spring.jpg" class="image-hover-effect" width="400px"></a></td>
+<td style="width: 300px;" valign="top">
+    <div class="image-container">
+        <a href="/RedliningNRI">
+        <img src="../files/Images/ResearchPic/Heat-relatedIllness.jpg" class="image-hover-effect" width="400px">
+        </a>
+        <div class="credit-text">Image from Jerry Lara/San Antonio Express-News.</div>
+    </div>
+</td>
 <td valign="top">
 <strong><a href="/EnvironEquity1" style="font-size: 15px;">
 Public Health Impacts of Extreme Heat Events</a></strong><br />
@@ -80,7 +93,14 @@ Assessing how prolonged heatwaves affect vulnerable populations, with a focus on
 
 <table>
 <tr>
-<td style="width: 300px;" valign="top"><a href="/EnvironEquity1"><img src="../files/Images/SOA_Spring.jpg" class="image-hover-effect" width="400px"></a></td>
+<td style="width: 300px;" valign="top">
+    <div class="image-container">
+        <a href="/RedliningNRI">
+        <img src="../files/Images/ResearchPic/Ambulance.jpg" class="image-hover-effect" width="400px">
+        </a>
+        <div class="credit-text">Image from Provident (https://www.providentins.com/).</div>
+    </div>
+</td>
 <td valign="top">
 <strong><a href="/EnvironEquity1" style="font-size: 15px;">
 Heat-Related Emergency Medical Services (EMS) Demand</a></strong><br />
@@ -92,7 +112,14 @@ Exploring spatiotemporal patterns of EMS calls related to heat emergencies and t
 
 <table>
 <tr>
-<td style="width: 300px;" valign="top"><a href="/EnvironEquity1"><img src="../files/Images/SOA_Spring.jpg" class="image-hover-effect" width="400px"></a></td>
+<td style="width: 300px;" valign="top">
+    <div class="image-container">
+        <a href="/RedliningNRI">
+        <img src="../files/Images/ResearchPic/Firefighter.jpg" class="image-hover-effect" width="400px">
+        </a>
+        <div class="credit-text">Image from Dept. of Homeland Security Science & Technology Directorate.</div>
+    </div>
+</td>
 <td valign="top">
 <strong><a href="/EnvironEquity1" style="font-size: 15px;">
 Urban Fire Risk and Vulnerability</a></strong><br />
@@ -109,7 +136,14 @@ Evaluating the risk of fire in densely populated urban areas and the deployment 
 
 <table>
 <tr>
-<td style="width: 300px;" valign="top"><a href="/EnvironEquity1"><img src="../files/Images/SOA_Spring.jpg" class="image-hover-effect" width="400px"></a></td>
+<td style="width: 300px;" valign="top">
+    <div class="image-container">
+        <a href="/RedliningNRI">
+        <img src="../files/Images/ResearchPic/FoodPantry.jfif" class="image-hover-effect" width="400px">
+        </a>
+        <div class="credit-text">Image from What Bear Area Food Shelf (https://whitebearfoodshelf.org/).</div>
+    </div>
+</td>
 <td valign="top">
 <strong><a href="/EnvironEquity1" style="font-size: 15px;">
 GeoAI for Food Security Monitoring and Risk Prediction</a></strong><br />
@@ -121,7 +155,14 @@ Applying GeoAI to map and predict unhealthy food access, areas with limited acce
 
 <table>
 <tr>
-<td style="width: 300px;" valign="top"><a href="/EnvironEquity1"><img src="../files/Images/SOA_Spring.jpg" class="image-hover-effect" width="400px"></a></td>
+<td style="width: 300px;" valign="top">
+    <div class="image-container">
+        <a href="/RedliningNRI">
+        <img src="../files/Images/ResearchPic/Mitchell_Fire.jpg" class="image-hover-effect" width="400px">
+        </a>
+        <div class="credit-text">Image from Mitchell Stevenson. Urban Information Lab.</div>
+    </div>
+</td>
 <td valign="top">
 <strong><a href="/EnvironEquity1" style="font-size: 15px;">
 Digital Twin for Smart City Resilience</a></strong><br />
@@ -133,7 +174,14 @@ Developing and applying digital twin technologies to simulate urban environments
 
 <table>
 <tr>
-<td style="width: 300px;" valign="top"><a href="/EnvironEquity1"><img src="../files/Images/SOA_Spring.jpg" class="image-hover-effect" width="400px"></a></td>
+<td style="width: 300px;" valign="top">
+    <div class="image-container">
+        <a href="/RedliningNRI">
+        <img src="../files/Images/ResearchPic/UrbanHeat.jpeg" class="image-hover-effect" width="400px">
+        </a>
+        <div class="credit-text">Image from Earth Economics (https://www.eartheconomics.org/uhi).</div>
+    </div>
+</td>
 <td valign="top">
 <strong><a href="/EnvironEquity1" style="font-size: 15px;">
 Topic and Sentiment Analysis on Extreme Heat Events </a></strong><br />
@@ -145,7 +193,14 @@ Analyzing social media data to understand sentiments around extreme heat events.
 
 <table>
 <tr>
-<td style="width: 300px;" valign="top"><a href="/EnvironEquity1"><img src="../files/Images/SOA_Spring.jpg" class="image-hover-effect" width="400px"></a></td>
+<td style="width: 300px;" valign="top">
+    <div class="image-container">
+        <a href="/RedliningNRI">
+        <img src="../files/Images/ResearchPic/LitReview.jpg" class="image-hover-effect" width="400px">
+        </a>
+        <div class="credit-text">Image from Kijin Seong (https://doi.org/10.1177/08854122231199).</div>
+    </div>
+</td>
 <td valign="top">
 <strong><a href="/EnvironEquity1" style="font-size: 15px;">
 Systematic Review of Smart City Frameworks for Disaster Resilience</a></strong><br />
