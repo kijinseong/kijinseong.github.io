@@ -16,7 +16,7 @@ permalink: /research/RedliningNRI/
 ![Redlining_Table2](../../files/Images/ProjectsPic/Redlining_Table2.jpg)
 <p>Table. Spatial error models of risk score, community resilience, expected annual loss, and social vulnerability score with redlining coverage, race/ethnicity, and urban characteristics.</p>
 
-<b>Keywords:</b> redlining; national risk index (NRI); community resilience; environmental justice; equity planning.
+<p style: font-size= "18px";><b>Keywords:</b> redlining; national risk index (NRI); community resilience; environmental justice; equity planning.</p>
 
 
 <strong><w>Problem, Research Strategy, and Findings</w></strong><br />
