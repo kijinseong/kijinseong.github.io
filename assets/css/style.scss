@@ -27,6 +27,13 @@ a:hover {
     text-decoration: underline; // Underline links on hover
 }
 
+w {
+  color: #4286f4; // Blue color for links
+  text-decoration: none; // Remove underline from links
+  font-size: 25px;
+  margin-bottom: 5px;
+}
+
 .text-colored {
     color: #3d3d3d; /* Replace with your desired text color */
 }

@@ -61,6 +61,9 @@ Smart City Resilience, Environmental Equity, Environmental Health, Urban Data Sc
         <li>Program Coordinator, <a href="https://smartcitiessymposium2024.splashthat.com/" target="_blank">Smart Cities and AI Innovations Symposium 2024</a>, UT Austin, Austin, TX, 2024.</li> 
         <li>Program Coordinator, <a href="https://smartcitiessymposium.splashthat.com/" target="_blank">Smart Cities and Generative AI Symposium 2023</a>, UT Austin, Austin, TX, 2023.</li>
         <li>Council Liaison, A Good System for Smart Cities Advisory Group, UT Austin, Austin, TX, 2023 - Present.</li>
+        <li>Program Organizer and Moderator, <a href="https://smartcity.tacc.utexas.edu/pages/events.html#E282128843" target="_blank">Good Systems Smart Cities Talk Series</a>, UT Austin, Austin, TX, 2022 - 2023.</li>
+        <li>Student Chair, LAUP Korean Student Association, Dept. of Landscape Architecture and Urban Planning, Texas A&M University, College Station, TX, 2016-2017.</li>
+        <li>Dean’s Ambassador, School of Architecture, UT Austin, Austin, TX, 2014-2015.</li>
     </ul>  
 </div>
 
