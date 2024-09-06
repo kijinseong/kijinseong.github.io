@@ -1,7 +1,7 @@
 ---
 title: FireDT
 layout: default
-permalink: /Research/FireDT/
+permalink: /research/FireDT/
 ---
 
 ## TBD 

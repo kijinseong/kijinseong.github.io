@@ -1,7 +1,7 @@
 ---
 title: SystemicReview
 layout: default
-permalink: /Research/SystemicReview/
+permalink: /research/SystemicReview/
 ---
 
 ## TBD 

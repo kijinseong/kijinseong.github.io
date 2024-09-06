@@ -1,7 +1,7 @@
 ---
 title: LumbertonBuyouts
 layout: default
-permalink: /Research/LumbertonBuyouts/
+permalink: /research/LumbertonBuyouts/
 ---
 
 ## TBD 

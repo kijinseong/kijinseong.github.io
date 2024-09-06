@@ -1,7 +1,7 @@
 ---
 title: TwitterHeat
 layout: default
-permalink: /Research/TwitterHeat/
+permalink: /research/TwitterHeat/
 ---
 
 ## TBD 

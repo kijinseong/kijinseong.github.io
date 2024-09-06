@@ -1,7 +1,7 @@
 ---
 title: EMSDemand
 layout: default
-permalink: /Research/EMSDemand/
+permalink: /research/EMSDemand/
 ---
 
 ## TBD 

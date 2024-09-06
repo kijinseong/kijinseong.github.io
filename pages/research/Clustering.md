@@ -1,7 +1,7 @@
 ---
 title: Clustering
 layout: default
-permalink: /Research/Clustering/
+permalink: /research/Clustering/
 ---
 
 ## TBD 

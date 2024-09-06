@@ -1,7 +1,7 @@
 ---
 title: AI-FEED
 layout: default
-permalink: /Research/AI-FEED/
+permalink: /research/AI-FEED/
 ---
 
 ## TBD 

@@ -1,7 +1,7 @@
 ---
 title: RedliningNRI
 layout: default
-permalink: /Research/RedliningNRI/
+permalink: /research/RedliningNRI/
 ---
 
 ## The Legacy of Redlining: Unveiling the Impact on Natural Hazard Risk and Community Resilience
@@ -27,3 +27,5 @@ In recent years, FEMA’s National Risk Index (NRI) has enhanced our understandi
 ### Takeaway for Practice
 <p>Spatial inequalities rooted in segregation and disinvestment highlight the need for focused urban planning and policy interventions. For FEMA’s NRI, this includes incorporating measures for long-term financial neglect, enhancing resilience initiatives in redlined communities, and improving data accuracy on social vulnerability and resilience. By augmenting the NRI, FEMA can ensure more equitable evaluations of risk and resilience, making disaster mitigation efforts more effective and just. This study offers practical strategies for urban planners and policymakers to address historical inequities.
 </P>
+
+
