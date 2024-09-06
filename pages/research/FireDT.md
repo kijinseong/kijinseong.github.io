@@ -1,7 +1,7 @@
 ---
-title: HeatVulnerability
+title: FireDT
 layout: default
-permalink: /HeatVulnerability/
+permalink: /Research/FireDT/
 ---
 
 ## TBD 

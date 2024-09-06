@@ -1,7 +1,7 @@
 ---
 title: RedliningNRI
 layout: default
-permalink: /RedliningNRI/
+permalink: /Research/RedliningNRI/
 ---
 
 ## TBD 

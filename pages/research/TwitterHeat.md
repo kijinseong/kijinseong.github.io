@@ -1,7 +1,7 @@
 ---
-title: HeatVulnerability
+title: TwitterHeat
 layout: default
-permalink: /HeatVulnerability/
+permalink: /Research/TwitterHeat/
 ---
 
 ## TBD 

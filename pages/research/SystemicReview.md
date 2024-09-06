@@ -1,7 +1,7 @@
 ---
-title: HeatVulnerability
+title: SystemicReview
 layout: default
-permalink: /HeatVulnerability/
+permalink: /Research/SystemicReview/
 ---
 
 ## TBD 
