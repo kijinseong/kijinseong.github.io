@@ -7,16 +7,17 @@ permalink: /research/RedliningNRI/
 # Historical Redlining and Its Impact on Disaster Resilience
 
 <br/>
-
-![Redlining](../../files/Images/ProjectsPic/Redlining.jpg)
-<p>Figure. Box plot of (a) risk index score, (b) resilience score, (c) social vulnerability score, and (d) expected annual loss by redlining levels across the United States. Source: University of Richmond Mapping Inequality project (Nelson & LaDale, 2023).</p>
-<br/>
+<div style="text-align: center;">
+    <img src="../../files/Images/ProjectsPic/Redlining.jpg" alt="Redlining" style="width: 400px;">
+</div>
+    <p style= "font-size: 12px";>Figure. Box plot of (a) risk index score, (b) resilience score, (c) social vulnerability score, and (d) expected annual loss by redlining levels across the United States. Source: University of Richmond Mapping Inequality project (Nelson & LaDale, 2023).</p>
+    <br/>
 
 ![Redlining_Table2](../../files/Images/ProjectsPic/Redlining_Table2.jpg)
-<p>Table. Spatial error models of risk score, community resilience, expected annual loss, and social vulnerability score with redlining coverage, race/ethnicity, and urban characteristics.</p>
+<p style= "font-size: 18px";>Table. Spatial error models of risk score, community resilience, expected annual loss, and social vulnerability score with redlining coverage, race/ethnicity, and urban characteristics.</p>
 
 <br/>
-<p style: font-size= "18px";><b>Keywords:</b> redlining; national risk index (NRI); community resilience; environmental justice; equity planning.</p>
+<p style= "font-size: 18px";><b>Keywords:</b> redlining; national risk index (NRI); community resilience; environmental justice; equity planning.</p>
 
 <br/>
 <strong><w>Problem, Research Strategy, and Findings</w></strong><br />
