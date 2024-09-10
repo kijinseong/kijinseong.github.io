@@ -17,7 +17,7 @@ Smart City Resilience, Environmental Equity, Environmental Health, Urban Data Sc
 
 ## Work Experience 
 <p>
-<span style="display:inline-block; width: 95px;">2024 -</span><b>Senior Research Fellow in Smart Cities</b><br />
+<span style="display:inline-block; width: 95px;">2024 -</span><b>Postdoctoral Researcher/ Senior Research Fellow in Smart Cities</b><br />
 <span style="display:inline-block; text-indent: 95px;">Urban Information Lab, UT Austin</span><br />
 <span style="display:inline-block; width: 95px;">2022 - 2024</span><b>Postdoctoral Researcher</b><br />
 <span style="display:inline-block; text-indent: 95px;">Urban Information Lab, UT Austin</span><br />
