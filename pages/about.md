@@ -15,7 +15,7 @@ I have served as a Postdoctoral Researcher at the Urban Information Lab at The U
 
 ## Research Interests
 
-Smart City Resilience, Environmental Equity, Environmental Health, Urban Data Science
+Smart City Resilience, Environmental Justice, Environmental Health, Urban Data Science, Disaster Resilience, Climate Change Adaptation, Ethical AI 
 
 <br />
 
