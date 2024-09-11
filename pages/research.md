@@ -28,7 +28,6 @@ permalink: /research/
         </div>
     </div>
 
-<div class="projects-grid">
     <div class="project-item">
         <div class="image-container">
             <a href="/research/RedliningNRI">
@@ -44,7 +43,6 @@ permalink: /research/
         </div>
     </div>
 
-<div class="projects-grid">
     <div class="project-item">
         <div class="image-container">
             <a href="/research/RedliningNRI">
@@ -60,6 +58,8 @@ permalink: /research/
         </div>
     </div>
 </div>
+
+
 
 <br />
 
