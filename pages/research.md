@@ -11,7 +11,6 @@ permalink: /research/
 ## 1. Environmental Equity and Justice
 <p>Investigating the potential of smart city technologies to mitigate environmental inequalities and resource access disparities, with an emphasis on developing equitable and inclusive urban resilience strategies.</p>
 
-
 <div class="projects-grid">
     <div class="project-item">
         <a href="/research/RedliningNRI">
@@ -21,7 +20,7 @@ permalink: /research/
         <div class="project-description">
             <strong><a href="/research/RedliningNRI">Historical Redlining and Its Impact on Disaster Resilience</a></strong><br />
             <b>A Spatial Analysis Using FEMA's National Risk Index</b><br />
-            Examining the influence of redlining on contemporary urban vulnerability and resilience to natural hazards.</p>
+            <p>Examining the influence of redlining on contemporary urban vulnerability and resilience to natural hazards.</p>
         </div>
     </div>
 
