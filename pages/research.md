@@ -19,8 +19,7 @@ permalink: /research/
         <div class="credit-text">Image from 1935 map of Austin, Texas, with redline demarcations</div>
         <div class="project-description">
             <strong><a href="/research/RedliningNRI">Historical Redlining and Its Impact on Disaster Resilience</a></strong><br />
-            <b>A Spatial Analysis Using FEMA's National Risk Index</b><br />
-            <p>Examining the influence of redlining on contemporary urban vulnerability and resilience to natural hazards.</p>
+            <p><text-align="left">Examining the influence of redlining on contemporary urban vulnerability and resilience to natural hazards.</p>
         </div>
     </div>
 
