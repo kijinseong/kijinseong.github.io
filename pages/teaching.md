@@ -7,8 +7,9 @@ permalink: /teaching/
 # Teaching 
 <br />
 
-<h2>Lecturer<h2>
-<p style="font-size: 15px;">Department of Landscape Architecture and Urban Planning, Texas A&M University, College Station, TX.</p> 
+<h2>Lecturer</h2>
+
+<p>Department of Landscape Architecture and Urban Planning, Texas A&M University, College Station, TX.</p> 
 
 <p style="font-size: 15px;"><b>URPN202 Building Better Cities (Fall 2021) [ <a href="javascript:void(0);" onclick="showdropinfo('URPN202_Fall2021');" style="font-size= 15px;">Course Description</a> ]</b></p>
 
@@ -17,7 +18,7 @@ permalink: /teaching/
     This course provides a strong foundation for students who wish to pursue advanced study in planning or related disciplines. For those choosing other career paths, this class also aims to provide students with the knowledge and skills that they can use in their desired fields of study and as active citizens in their respective communities. 
 </div>
 
-<p style="font-size: 15px;"><b>URPN340 Housing and Community (Fall 2021) [ <a href="javascript:void(0);" onclick="showdropinfo('URPN340_Fall2021');" style="font-size= 15px;">Course Description</a> ]<b></p> 
+<p style="font-size: 15px;"><b>URPN340 Housing and Community (Fall 2021) [ <a href="javascript:void(0);" onclick="showdropinfo('URPN340_Fall2021');" style="font-size= 15px;">Course Description</a> ]</b></p> 
 
 <div id='URPN340_Fall2021' class="abstractcollapsed" style="display:none; font-size: 15px;">
     This course is designed to help students explore the complexity of housing and housing-related issues from a planning perspective. You will develop a basic understanding of the housing market, its relationship to community development, its importance to communities and the U.S. economy and major housing challenges facing the US.  <br/>
@@ -27,8 +28,9 @@ permalink: /teaching/
 
 <br />
 
-<h2>Instructor<h2>
-<p style="font-size: 15px;">Department of Landscape Architecture and Urban Planning, Texas A&M University, College Station, TX.</p>
+<h2>Instructor</h2>
+
+<p>Department of Landscape Architecture and Urban Planning, Texas A&M University, College Station, TX.</p>
 
 <p style="font-size: 15px;"><b>URPN202-501 Building Better Cities (Fall 2018) [ <a href="javascript:void(0);" onclick="showdropinfo('URPN202-501_Fall2018');" style="font-size= 15px;">Course Description</a> ]</b></p>
 
