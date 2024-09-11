@@ -1,7 +1,7 @@
 ---
 title: Research
 layout: default
-permalink: /research/
+permalink: /research_2024-09/
 ---
 
 # Research Projects
