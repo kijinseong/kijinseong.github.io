@@ -32,7 +32,7 @@ permalink: /research/
             <div class="credit-text">Image from Genaro Molina/Los Angeles Times</div>
         </div>
         <div class="project-description">
-            <strong><a href="/research/HeatVulnerability">Heat Vulnerability in Underserved Communities</a></strong><br />
+            <strong><a href="/research/HeatVulnerability" style="font-size: 17px;">Heat Vulnerability in Underserved Communities</a></strong><br />
             <p style="text-align: left; font-size: 15px;">Studying the heightened exposure of low-income and minority communities to extreme heat and the role of urban design in mitigating these effects.</p>
         </div>
     </div>
@@ -45,7 +45,7 @@ permalink: /research/
             <div class="credit-text">Image Credit: Kijin Seong, 2019, Natural Hazards Center.</div>
         </div>
         <div class="project-description">
-            <strong><a href="/research/LumbertonBuyouts">Disaster Risk and Recovery Disparities</a></strong><br />
+            <strong><a href="/research/LumbertonBuyouts" style="font-size: 17px;">Disaster Risk and Recovery Disparities</a></strong><br />
             <p style="text-align: left; font-size: 15px;">Analyzing variations in disaster preparedness, response, and recovery across socio-economic and racial groups.</p>
         </div>
     </div>
@@ -65,7 +65,7 @@ permalink: /research/
             <div class="credit-text">Image from Jerry Lara/San Antonio Express-News.</div>
         </div>
         <div class="project-description">
-            <strong><a href="/research/Clustering">Public Health Impacts of Extreme Heat Events</a></strong><br />
+            <strong><a href="/research/Clustering" style="font-size: 17px;">Public Health Impacts of Extreme Heat Events</a></strong><br />
             <p style="text-align: left; font-size: 15px;">Assessing how prolonged heatwaves affect vulnerable populations, with a focus on cardiovascular, respiratory, neurological, and non-severe cases.</p>
         </div>
     </div>
@@ -78,7 +78,7 @@ permalink: /research/
             <div class="credit-text">Image from Provident (https://www.providentins.com/).</div>
         </div>
         <div class="project-description">
-            <strong><a href="/research/EMSDemand">Heat-Related Emergency Medical Services (EMS) Demand</a></strong><br />
+            <strong><a href="/research/EMSDemand" style="font-size: 17px;">Heat-Related Emergency Medical Services (EMS) Demand</a></strong><br />
             <p style="text-align: left; font-size: 15px;">Exploring spatiotemporal patterns of EMS calls related to heat emergencies and their relationship to environmental factors.</p>
         </div>
     </div>
@@ -91,7 +91,7 @@ permalink: /research/
             <div class="credit-text" style="text-align: left;">Image from Dept. of Homeland Security Science & Technology Directorate.</div>
         </div>
         <div class="project-description">
-            <strong><a href="/research/FireVulnerability">Urban Fire Risk and Vulnerability</a></strong><br />
+            <strong><a href="/research/FireVulnerability" style="font-size: 17px;">Urban Fire Risk and Vulnerability</a></strong><br />
             <p style="text-align: left; font-size: 15px;">Evaluating the risk of fire in densely populated urban areas and the deployment of smart technologies for early detection and mitigation.</p>
         </div>
     </div>
@@ -111,7 +111,7 @@ permalink: /research/
             <div class="credit-text" style="text-align: left;">Image from Needham Community Council (https://needhamcouncil.org/food-pantry/)</div>
         </div>
         <div class="project-description">
-            <strong><a href="/research/AI-FEED">GeoAI for Food Security Monitoring and Risk Prediction</a></strong><br />
+            <strong><a href="/research/AI-FEED" style="font-size: 17px;">GeoAI for Food Security Monitoring and Risk Prediction</a></strong><br />
             <p style="text-align: left; font-size: 15px;">Applying GeoAI to map and predict unhealthy food access, areas with limited access to nutritious food, and food distribution gaps.</p>
         </div>
     </div>
@@ -124,7 +124,7 @@ permalink: /research/
             <div class="credit-text" style="text-align: left;">Image from Mitchell Stevenson. Urban Information Lab</div>
         </div>
         <div class="project-description">
-            <strong><a href="/research/FireDT">Digital Twin for Smart City Resilience</a></strong><br />
+            <strong><a href="/research/FireDT" style="font-size: 17px;">Digital Twin for Smart City Resilience</a></strong><br />
             <p style="text-align: left; font-size: 15px;">Developing and applying digital twin technologies to simulate urban environments and enhance decision-making in fire risk management.</p>
         </div>
     </div>
@@ -137,7 +137,7 @@ permalink: /research/
             <div class="credit-text" style="text-align: left;">Image from Earth Economics (https://www.eartheconomics.org/uhi)</div>
         </div>
         <div class="project-description">
-            <strong><a href="/research/TwitterHeat">Topic and Sentiment Analysis on Extreme Heat Events</a></strong><br />
+            <strong><a href="/research/TwitterHeat" style="font-size: 17px;">Topic and Sentiment Analysis on Extreme Heat Events</a></strong><br />
             <p style="text-align: left; font-size: 15px;">Analyzing social media data to understand sentiments around extreme heat events.</p>
         </div>
     </div>
@@ -150,7 +150,7 @@ permalink: /research/
             <div class="credit-text" style="text-align: left;">Image from Kijin Seong (https://doi.org/10.1177/08854122231199)</div>
         </div>
         <div class="project-description">
-            <strong><a href="/research/SystemicReview">Systematic Review of Smart City Frameworks for Disaster Resilience</a></strong><br />
+            <strong><a href="/research/SystemicReview" style="font-size: 17px;">Systematic Review of Smart City Frameworks for Disaster Resilience</a></strong><br />
             <p style="text-align: left; font-size: 15px;">Conducting a comprehensive review of how smart city infrastructures improve disaster resilience, with a focus on identifying best practices and knowledge gaps.</p>
         </div>
     </div>
