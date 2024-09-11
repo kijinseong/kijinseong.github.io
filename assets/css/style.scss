@@ -52,7 +52,7 @@ w {
 .projects-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 20px;
+  gap: 10px;
 }
 
 .project-item {
@@ -60,8 +60,8 @@ w {
   flex-direction: column;
   align-items: center;
   text-align: center;
-  border: 1px solid #ddd;
-  padding: 15px;
+  border: 1px solid #ffffff;
+  padding: 10px;
   border-radius: 10px;
 }
 
@@ -73,17 +73,17 @@ w {
 }
 
 .project-description {
-  margin-top: 15px;
+  margin-top: 8px;
 }
 
 .project-description strong {
-  font-size: 18px;
+  font-size: 15px;
 }
 
 .project-description p {
   margin-top: 5px;
-  font-size: 14px;
-  color: #555;
+  font-size: 15px;
+  color: #3d3d3d;
 }
 
 // Newly added section widths.
