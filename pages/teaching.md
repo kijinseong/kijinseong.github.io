@@ -13,7 +13,7 @@ permalink: /teaching/
 
 <p style="padding-left: 40px; font-size: 15px;">
     <b>URPN202 Building Better Cities (Fall 2021) 
-            [ <a href="javascript:void(0);" onclick="showdropinfo('URPN202_Fall2021');" style="font-size= 15px;">Course Description</a> ]
+            [<a href="javascript:void(0);" onclick="showdropinfo('URPN202_Fall2021');" style="font-size= 15px;">Course Description</a>]
     </b>
 </p>
 
@@ -24,7 +24,7 @@ permalink: /teaching/
 
 <p style="padding-left: 40px; font-size: 15px;">
     <b>URPN340 Housing and Community (Fall 2021) 
-        [ <a href="javascript:void(0);" onclick="showdropinfo('URPN340_Fall2021');" style="font-size= 15px;">Course Description</a> ]
+        [<a href="javascript:void(0);" onclick="showdropinfo('URPN340_Fall2021');" style="font-size= 15px;">Course Description</a>]
     </b>
 </p>
 
@@ -42,7 +42,7 @@ permalink: /teaching/
 
 <p style="padding-left: 40px; font-size: 15px;">
     <b>URPN202-501 Building Better Cities (Fall 2018) 
-        [ <a href="javascript:void(0);" onclick="showdropinfo('URPN202-501_Fall2018');" style="font-size= 15px;">Course Description</a> ]
+        [<a href="javascript:void(0);" onclick="showdropinfo('URPN202-501_Fall2018');" style="font-size= 15px;">Course Description</a>]
     </b>
 </p>
 
