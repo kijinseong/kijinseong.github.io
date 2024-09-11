@@ -5,7 +5,11 @@ permalink: /about/
 ---
        
 # About
-_TBD_
+<p>
+My research bridges urban planning, environmental justice, and climate resilience with cutting-edge data science and AI technologies to address pressing challenges in urban areas. Focusing on smart city resilience, my research investigates how environmental health, climate change adaptation, and urban data science intersect to improve public safety and disaster response in communities. Through projects like the Austin Digital Twin and Emergency Medical Service (EMS) response prediction, I aim to provide actionable insights for improving climate resilience and equitable access to essential services. My work has been published in top academic journals such as <i>Sustainable Cities and Society, Environment and Planning B: Urban Analytics and City Science</i>, and <i>the Journal of Planning Literature</i>, and presented at both national and international conferences. I am particularly interested in how technologies, such as AI and IoT sensors, can support climate adaptation and resilience strategies for vulnerable populations.<br />
+<br />
+I have served as a Postdoctoral Researcher at the Urban Information Lab at The University of Texas at Austin, where I lead and contribute to research projects focused on urban data science and climate resilience, including AI-driven solutions for heat vulnerability and EMS response strategies. I have collaborated with a range of academic fields, including geoscience, environmental engineering, data science, civil engineering, social science, computer science, and economics, as well as industry partners and government organizations, such as the National Institute of Standards and Technology (NIST), the City of Austin, Austin-Travis EMS, and Tackle Hunger Food Charity. I hold a Ph.D. in Urban and Regional Sciences from Texas A&M University, and I am an American Institute of Certified Planners (AICP) certified professional.
+</p>
 
 <br />
 
