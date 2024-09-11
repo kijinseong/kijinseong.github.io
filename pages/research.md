@@ -21,7 +21,7 @@ permalink: /research/
         </div>
         <div class="project-description">
             <strong><a href="/research/RedliningNRI">Historical Redlining and Its Impact on Disaster Resilience</a></strong><br />
-            <p style="text-align: justify;">Examining the influence of redlining on contemporary urban vulnerability and resilience to natural hazards.</p>
+            <p style="text-align: left;">Examining the influence of redlining on contemporary urban vulnerability and resilience to natural hazards.</p>
         </div>
     </div>
 
