@@ -48,6 +48,44 @@ w {
 }
 
 
+// Project Tables
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.project-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.project-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.project-description {
+  margin-top: 15px;
+}
+
+.project-description strong {
+  font-size: 18px;
+}
+
+.project-description p {
+  margin-top: 5px;
+  font-size: 14px;
+  color: #555;
+}
+
 // Newly added section widths.
 
 .wrapper {
