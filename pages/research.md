@@ -15,11 +15,12 @@ permalink: /research/
 <div class="projects-grid">
     <div class="project-item">
         <a href="/research/RedliningNRI">
-            <img src="../files/Images/ResearchPic/Redlining_Thumb.jpg" alt="Redlining Project" class="project-image">
+            <img src="../files/Images/ResearchPic/Redlining_Thumb.jpg" class="image-hover-effect" style="width: 100%; height: 200px; object-fit: cover;">
         </a>
+        <div class="credit-text">Image from 1935 map of Austin, Texas, with redline demarcations</div>
         <div class="project-description">
             <strong><a href="/research/RedliningNRI">Historical Redlining and Its Impact on Disaster Resilience</a></strong><br />
-            <p>A Spatial Analysis Using FEMA's National Risk Index.<br />
+            <b>A Spatial Analysis Using FEMA's National Risk Index</b><br />
             Examining the influence of redlining on contemporary urban vulnerability and resilience to natural hazards.</p>
         </div>
     </div>
