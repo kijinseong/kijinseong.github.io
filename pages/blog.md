@@ -10,4 +10,4 @@ permalink: /blog/
 <br/>
 
 
-![Eugene and I](..\files\Images\Eugene_and_I.jpg){: width="100"}
+![Eugene and I](..\files\Images\Eugene_and_I.jpg){: width="300"}
