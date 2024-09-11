@@ -28,6 +28,7 @@ A wide variety of topics will be discussed, including the use and meaning of hou
 <br/>
 
 ## Instructor
+
 ### Department of Landscape Architecture and Urban Planning, Texas A&M University, College Station, TX. 
 
 <h3> URPN202-501 Building Better Cities (Fall 2018)<h3> 
