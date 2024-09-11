@@ -11,6 +11,25 @@ permalink: /research/
 ## 1. Environmental Equity and Justice
 <p>Investigating the potential of smart city technologies to mitigate environmental inequalities and resource access disparities, with an emphasis on developing equitable and inclusive urban resilience strategies.</p>
 
+
+<div class="projects-grid">
+    <div class="project-item">
+        <div class="image-container">
+            <a href="/research/RedliningNRI">
+                <img src="../files/Images/ResearchPic/Redlining_Thumb.jpg" class="image-hover-effect" style="width: 100%; height: 200px; object-fit: cover;">
+            </a>
+            <div class="credit-text">
+                Image from 1935 map of Austin, Texas, with redline demarcations
+            </div>
+        </div>
+        <div class="project-description">
+            <strong><a href="/research/RedliningNRI">Historical Redlining and Its Impact on Disaster Resilience</a></strong><br />
+            <p style="text-align: left;">Examining the influence of redlining on contemporary urban vulnerability and resilience to natural hazards.</p>
+        </div>
+    </div>
+</div>
+
+
 <div class="projects-grid">
     <div class="project-item" style="position: relative;">
         <a href="/research/RedliningNRI">
