@@ -1,7 +1,7 @@
 ---
 title: Research
 layout: default
-permalink: /research_2024-09/
+permalink: /research/
 ---
 
 # Research Projects
@@ -16,10 +16,10 @@ permalink: /research_2024-09/
             <a href="/research/RedliningNRI">
                 <img src="../files/Images/ResearchPic/Redlining_Thumb.jpg" class="image-hover-effect" style="width: 100%; height: 200px; object-fit: cover;">
             </a>
-            <div class="credit-text">Image from 1935 map of Austin, Texas, with redline demarcations</div>
+            <div class="credit-text" style="text-align: left;">Image from 1935 map of Austin, Texas, with redline demarcations</div>
         </div>
         <div class="project-description">
-            <strong><a href="/research/RedliningNRI">Historical Redlining and Its Impact on Disaster Resilience</a></strong><br />
+            <strong><a href="/research/RedliningNRI" style="font-size: 17px;">Historical Redlining and Its Impact on Disaster Resilience</a></strong><br />
             <p style="text-align: left; font-size: 15px;"><b>A Spatial Analysis Using FEMA's National Risk Index</b><br />Examining the influence of redlining on contemporary urban vulnerability and resilience to natural hazards.</p>
         </div>
     </div>
@@ -88,7 +88,7 @@ permalink: /research_2024-09/
             <a href="/research/FireVulnerability">
                 <img src="../files/Images/ResearchPic/Firefighter.jpg" class="image-hover-effect" style="width: 100%; height: 200px; object-fit: cover;">
             </a>
-            <div class="credit-text">Image from Dept. of Homeland Security Science & Technology Directorate.</div>
+            <div class="credit-text" style="text-align: left;">Image from Dept. of Homeland Security Science & Technology Directorate.</div>
         </div>
         <div class="project-description">
             <strong><a href="/research/FireVulnerability">Urban Fire Risk and Vulnerability</a></strong><br />
@@ -108,7 +108,7 @@ permalink: /research_2024-09/
             <a href="/research/AI-FEED">
                 <img src="../files/Images/ResearchPic/FoodPantry.jpg" class="image-hover-effect" style="width: 100%; height: 200px; object-fit: cover;">
             </a>
-            <div class="credit-text">Image from Needham Community Council (https://needhamcouncil.org/food-pantry/)</div>
+            <div class="credit-text" style="text-align: left;">Image from Needham Community Council (https://needhamcouncil.org/food-pantry/)</div>
         </div>
         <div class="project-description">
             <strong><a href="/research/AI-FEED">GeoAI for Food Security Monitoring and Risk Prediction</a></strong><br />
@@ -121,40 +121,7 @@ permalink: /research_2024-09/
             <a href="/research/FireDT">
                 <img src="../files/Images/ResearchPic/Mitchell_Fire.jpg" class="image-hover-effect" style="width: 100%; height: 200px; object-fit: cover;">
             </a>
-            <div class="credit-text">Image from Mitchell Stevenson. Urban Information Lab</div>
-        </div>
-        <div class="project-description">
-            <strong><a href="/research/FireDT">Digital Twin for Smart City Resilience</a></strong><br />
-            <p style="text-align: left; font-size: 15px;">Developing and applying digital twin technologies to simulate urban environments and enhance decision-making in fire risk management.</p>
-        </div>
-    </div>
-</div>
-
-<br />
-
-## 3. Urban Data Science and Resilience Analytics
-<p>Utilizing advanced data science techniques, including AI and machine learning, to model and optimize urban resilience systems, focusing on real-time data collection, analysis, and decision-making for enhancing the resilience of smart cities.</p>
-
-<div class="projects-grid">
-    <div class="project-item">
-        <div class="image-container">
-            <a href="/research/AI-FEED">
-                <img src="../files/Images/ResearchPic/FoodPantry.jpg" class="image-hover-effect" style="width: 100%; height: 200px; object-fit: cover;">
-            </a>
-            <div class="credit-text">Image from Needham Community Council (https://needhamcouncil.org/food-pantry/)</div>
-        </div>
-        <div class="project-description">
-            <strong><a href="/research/AI-FEED">GeoAI for Food Security Monitoring and Risk Prediction</a></strong><br />
-            <p style="text-align: left; font-size: 15px;">Applying GeoAI to map and predict unhealthy food access, areas with limited access to nutritious food, and food distribution gaps.</p>
-        </div>
-    </div>
-
-    <div class="project-item">
-        <div class="image-container">
-            <a href="/research/FireDT">
-                <img src="../files/Images/ResearchPic/Mitchell_Fire.jpg" class="image-hover-effect" style="width: 100%; height: 200px; object-fit: cover;">
-            </a>
-            <div class="credit-text">Image from Mitchell Stevenson. Urban Information Lab</div>
+            <div class="credit-text" style="text-align: left;">Image from Mitchell Stevenson. Urban Information Lab</div>
         </div>
         <div class="project-description">
             <strong><a href="/research/FireDT">Digital Twin for Smart City Resilience</a></strong><br />
@@ -167,7 +134,7 @@ permalink: /research_2024-09/
             <a href="/research/TwitterHeat">
                 <img src="../files/Images/ResearchPic/UrbanHeat.jpeg" class="image-hover-effect" style="width: 100%; height: 200px; object-fit: cover;">
             </a>
-            <div class="credit-text">Image from Earth Economics (https://www.eartheconomics.org/uhi)</div>
+            <div class="credit-text" style="text-align: left;">Image from Earth Economics (https://www.eartheconomics.org/uhi)</div>
         </div>
         <div class="project-description">
             <strong><a href="/research/TwitterHeat">Topic and Sentiment Analysis on Extreme Heat Events</a></strong><br />
@@ -180,7 +147,7 @@ permalink: /research_2024-09/
             <a href="/research/SystemicReview">
                 <img src="../files/Images/ResearchPic/LitReview.jpg" class="image-hover-effect" style="width: 100%; height: 200px; object-fit: cover;">
             </a>
-            <div class="credit-text">Image from Kijin Seong (https://doi.org/10.1177/08854122231199)</div>
+            <div class="credit-text" style="text-align: left;">Image from Kijin Seong (https://doi.org/10.1177/08854122231199)</div>
         </div>
         <div class="project-description">
             <strong><a href="/research/SystemicReview">Systematic Review of Smart City Frameworks for Disaster Resilience</a></strong><br />
