@@ -229,6 +229,7 @@ permalink: /publications/
         </li>
     </ol>
 
+### 2020 
     <ol start="2">
         <li>
             <b>Seong, K.</b> and Losey, C. (2020). To Remain or Relocate? Mobility Decisions of Homeowners Exposed to Recurrent Hurricanes. Natural Hazards Center Quick Response Grant Report Series, 303. Boulder, CO: <i>Natural Hazards Center, University of Colorado Boulder</i>. [ <a href="https://hazards.colorado.edu/quick-response-report/to-remain-or-relocate-mobility-decisions-of-homeowners-exposed-to-recurrent-hurricanes" target="_blank">official link</a> ]
