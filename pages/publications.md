@@ -228,6 +228,7 @@ permalink: /publications/
             <b>Seong, K.</b> and Choi, S. (2022). Spatiotemporal Climate Risk Vulnerability Assessment to Extreme Heat and Particulate Matter: Combining Realtime Concentration of De Facto Population. Small Research Project Competition Final Report. Seoul, South Korea: <i>Seoul Institute</i>. [ <a href="https://www.si.re.kr/sites/default/files/small%2022-14.pdf" target="_blank">official link</a> ]
         </li>
     </ol>
+</div>
 
 ### 2020 
     <ol start="2">
