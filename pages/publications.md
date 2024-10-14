@@ -28,16 +28,13 @@ permalink: /publications/
             <b>Seong, K.*</b>, Van Zandt, S., Peacock, W. G., Newman, G. Racial and Ethnic Change in Floodplain Buyout Neighborhoods: Twenty-five Years of Evidence from Houston. (Under Review: <i>Journal of Planning Education and Research</i>)
         </li>
         <li>
-            Sammer, M., <b>Seong, K.</b>, Olvera N., Gronseth S. L., Anderson-Fletcher, E., Jiao, J., Reese, A., Kakadiaris, I. A*. AI-FEED: Prototyping an AI-Powered Platform for the Food Charity Ecosystem. (Under Review: <i>International Journal of Computational Intelligence Systems</i>)
-        </li>
-        <li>
             <b>Seong, K.*</b>, Jiao, J., and Mandalapu, A. The Legacy of Redlining: Unveiling the Impact on Natural Hazard Risk and Community Resilience (Under Review: <i>Journal of American Planning Association</i>)
         </li>
         <li>   
-            Jiao, J., <b>Seong, K.*</b>, Sammer, M., Kakadiaris, I. A., Reese, A., Olvera N., Gronseth S. L., Anderson-Fletcher, E. Mapping Healthy Food Access and Suggesting AI-Driven Solutions: Development of a Healthy Food Access Index (HFAI) and Urban Planning Strategies (Plan to submit it in Sep 2024: <i>Cities</i>)
+            Jiao, J., <b>Seong, K.*</b>, Sammer, M., Kakadiaris, I. A., Reese, A., Olvera N., Gronseth S. L., Anderson-Fletcher, E. Mapping Healthy Food Access and Suggesting AI-Driven Solutions: Development of a Healthy Food Access Index (HFAI) and Urban Planning Strategies (Under Review: <i>Cities</i>)
         </li>
         <li>    
-            <b>Seong, K.*</b>, Kota, S., Jiao, J. Assessing the Impact of Heat Vulnerability on Heat Discomfort through Twitter Data Analysis in Austin-Travis County. (Plan to submit it in Sep 2024: <i>PLOS One</i>)
+            <b>Seong, K.*</b>, Kota, S., Jiao, J. Assessing the Impact of Heat Vulnerability on Heat Discomfort through Twitter Data Analysis in Austin-Travis County. (Plan to submit it in Oct 2024: <i>PLOS One</i>)
         </li>
     </ol>
 </div>
@@ -48,6 +45,17 @@ permalink: /publications/
 
 ### 2024 
 <div class="text-colored">
+    <ol start="15">
+        <li>
+            Sammer, M., <b>Seong, K.</b>, Olvera N., Gronseth S. L., Anderson-Fletcher, E., Jiao, J., Reese, A., & Kakadiaris, I. A. (2024). AI-FEED: Prototyping an AI-Powered Platform for the Food Charity Ecosystem. International Journal of Computational Intelligence Systems, 17(259). [ <a href="javascript:void(0);" onclick="showdropinfo('AIFEED_Prototype2024')">abstract</a> | <a href="https://doi.org/10.1007/s44196-024-00656-9" target="_blank">official link</a> ]
+        </li>
+    </ol>
+
+    <div id='AIFEED_Prototype2024' class="abstractcollapsed" style="display:none;">
+        This paper presents the development and functionalities of the AI-FEED web-based platform (ai-feed.ai), designed to address food and nutrition insecurity challenges within the food charity ecosystem. AI-FEED leverages advancements in artificial intelligence (AI) and blockchain technology to facilitate improved access to nutritious food and efficient resource allocation, aiming to reduce food waste and bolster community health. The initial phase involved comprehensive interviews with various stakeholders to gather insights into the ecosystem’s unique challenges and requirements. This informed the design of four distinct modules in the AI-FEED platform, each targeting the needs of one of four stakeholder groups (food charities, donors, clients, and community leaders). Prototyping and iterative feedback processes were integral to refining these modules. The food charity module assists charities in generating educational content and predicting client needs through AI-driven tools. Based on blockchain technology, the food donor module streamlines donation processes, enhances donor engagement, and provides donor recognition. The client module provides real-time information on food charity services and offers a centralized repository for nutritional information. The platform includes a comprehensive mapping and proposal system for community leaders to strategically address local food insecurity issues. AI-FEED’s integrated platform approach allows data sharing across modules, enhancing overall functionality and impact. The paper also discusses ethical considerations, potential biases in AI systems, and the transformation of AI-FEED from a research project to a sustainable entity. The AI-FEED platform exemplifies the potential of interdisciplinary collaboration and technological innovation in addressing societal challenges, particularly in improving food security and community health.
+        <br><br>
+    </div>    
+    
     <ol start="14">
         <li>
             Mandalapu, A., <b>Seong, K.*</b>, & Jiao, J. (2024). Evaluating urban fire vulnerability and accessibility to fire stations and hospitals in Austin, Texas. <i>PLOS Climate</i>, 3(7), e0000448. [ <a href="javascript:void(0);" onclick="showdropinfo('FireVulnerability2024')">abstract</a> | <a href="https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000448" target="_blank">official link</a>]
