@@ -19,6 +19,11 @@ layout: default
 ### What' new
 <p>
   <strong style="color: #b76ca8;">Oct, 2024</strong><br />
+  Presented <a href="https://bridgingbarriers.utexas.edu/good-systems/projects/a-good-system-for-smart-cities" target="_blank">the Good Systems for Smart Cities projects</a> at the Good Systems Core Research Project Kickoff.  
+</p>
+
+<p>
+  <strong style="color: #b76ca8;">Oct, 2024</strong><br />
   A new paper, <a href="https://link.springer.com/article/10.1007/s44196-024-00656-9" target="_blank">"AI-FEED: Prototyping an AI-Powered Platform for the Food Charity Ecosystem,"</a> has been published. Huge thanks to the <a href="https://ai-feed.ai/team.html" target="_blank">team</a> for leading this project.  
 </p>
 
