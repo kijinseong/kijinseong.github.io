@@ -18,6 +18,11 @@ layout: default
         
 ### What' new
 <p>
+  <strong style="color: #b76ca8;">Nov, 2024</strong><br />
+  Presented at the ACSP<a href="https://www.acsp.org/page/ConfAllAbout2024" target="_blank"> conference on the project "The Legacy Effect of Redlining on Disaster Risk and Community Resilience" at Seattle, WA, USA.  
+</p>
+
+<p>
   <strong style="color: #b76ca8;">Oct, 2024</strong><br />
   Presented <a href="https://bridgingbarriers.utexas.edu/good-systems/projects/a-good-system-for-smart-cities" target="_blank">the Good Systems for Smart Cities projects</a> at the Good Systems Core Research Project Kickoff.  
 </p>
