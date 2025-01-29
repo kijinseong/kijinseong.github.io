@@ -8,8 +8,8 @@ layout: default
 
 ### Education 
 <p>
-<span style="display:inline-block; width: 42px;">Ph.D.</span>Urban and Regional Science, Texas A&M University<br />
-<span style="display:inline-block; width: 42px;">M.S.</span>Community & Regional Planning, The University of Texas at Austin<br />
+<span style="display:inline-block; width: 42px;">Ph.D.</span>Urban and Regional Science, Texas A&M University, USA<br />
+<span style="display:inline-block; width: 42px;">M.S.</span>Community & Regional Planning, The University of Texas at Austin, USA<br />
 <span style="display:inline-block; width: 42px;">M.S.</span>Architecture, Seoul National University, South Korea<br />
 <span style="display:inline-block; width: 42px;">B.S.</span>Architecture, Yonsei University, South Korea
 </p>
