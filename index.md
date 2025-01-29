@@ -24,7 +24,7 @@ layout: default
 
 <p>
   <strong style="color: #b76ca8;">Oct, 2024</strong><br />
-  Presented <a href="https://bridgingbarriers.utexas.edu/good-systems/projects/a-good-system-for-smart-cities" target="_blank">the Good Systems for Smart Cities projects</a> at the Good Systems Core Research Project Kickoff.  
+  Presented <a href="https://bridgingbarriers.utexas.edu/good-systems/projects/a-good-system-for-smart-cities" target="_blank">the Good Systems for Smart Cities projects</a> at the 2024 Good Systems Core Research Project Kickoff.  
 </p>
 
 <p>
