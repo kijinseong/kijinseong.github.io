@@ -19,7 +19,7 @@ layout: default
 ### What' new
 <p>
   <strong style="color: #b76ca8;">Nov, 2024</strong><br />
-  Presented at the ACSP<a href="https://www.acsp.org/page/ConfAllAbout2024" target="_blank"> conference on the project "The Legacy Effect of Redlining on Disaster Risk and Community Resilience" at Seattle, WA, USA.  
+  Presented at the <a href="https://www.acsp.org/page/ConfAllAbout2024" target="_blank">ACSP</a> conference on the project "The Legacy Effect of Redlining on Disaster Risk and Community Resilience" at Seattle, WA, USA.  
 </p>
 
 <p>
