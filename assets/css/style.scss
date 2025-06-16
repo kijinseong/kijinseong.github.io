@@ -47,6 +47,14 @@ w {
   font-size: 15px;
 }
 
+//Wrapper 
+  //Footer
+.footer {
+  flex: 0 0 auto;     /* footer stays its own size */
+  margin-top: 1rem;   /* 위쪽 여유도 살짝 추가 */
+  padding-top: 60px;
+}
+
 
 // Project Tables
 .projects-grid {
