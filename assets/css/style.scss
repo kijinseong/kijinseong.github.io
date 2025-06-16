@@ -89,15 +89,15 @@ w {
 
 // Newly added section widths.
 
-.wrapper {
-  width:90%;
+//.wrapper {
+//  width:90%;
   // max-width: 1100px;
   // left side is 270
   // 1200-270 = 930
   // 30px free room
-  margin:20px auto;
-  padding: 0 1rem;
-}
+//  margin:20px auto;
+//  padding: 0 1rem;
+//}
 
 /* Sidebar styles */
 //.sidebar {
@@ -109,16 +109,16 @@ w {
 
 
 
-.sidebar {
+.wrapper {
   display: flex;                /* turn the sidebar into a flex container */
   flex-direction: column;       /* stack children vertically */
   height: 100vh;                /* area fills full viewport height */
 }
-.sidebar > nav {
+.wrapper > nav {
   flex: 1 1 auto;               /* nav takes all remaining space */
   overflow-y: auto;             /* scroll if your link list is tall */
 }
-.sidebar > .site-footer {
+.wrapper > .footer {
   flex: 0 0 auto;               /* footer stays its own size */
   margin-top: 1rem;             /* small gap above copyright */
 }
