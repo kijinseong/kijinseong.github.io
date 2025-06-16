@@ -120,9 +120,9 @@ w {
   overflow-y: auto;             /* scroll if your link list is tall */
 }
 .wrapper > .footer {
-  flex: 0 0 auto;               /* footer stays its own size */
-  margin-top: 1rem; 
-  padding-top: 60px;            /* small gap above copyright */
+  position: static;   /* 절대/고정 배치 해제 */
+  clear: both;        /* 떠 있는 float 요소들 아래로 강제 배치 */
+  margin-top: 2rem;   /* 위쪽 여유도 살짝 추가 */
 }
 
 
