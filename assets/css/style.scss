@@ -48,11 +48,19 @@ w {
 }
 
 //Wrapper 
-  //Footer
-.footer {
-  flex: 0 0 auto;     /* footer stays its own size */
-  margin-top: 1rem;   /* 위쪽 여유도 살짝 추가 */
-  padding-top: 60px;
+
+.wrapper {
+  width: 100%;        // span the full viewport
+  max-width: none;    // remove any upper cap
+}
+
+header  { width: 25%; float: left; }
+section { width: 75%; float: left; }
+
+.wrapper::after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 
