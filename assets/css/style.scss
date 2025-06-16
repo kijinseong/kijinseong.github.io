@@ -90,12 +90,13 @@ w {
 // Newly added section widths.
 
 .wrapper {
-  max-width:1100px;
-  width:100%;
+  width:90%;
+  // max-width: 1100px;
   // left side is 270
   // 1200-270 = 930
   // 30px free room
   margin:20px auto;
+  padding: 0 1rem;
 }
 
 /* Sidebar styles */
@@ -107,8 +108,8 @@ w {
   }
 
 section {
-  max-width:750px;
-  width: 100%;
+  //max-width:750px;
+  width: 90%;
   float:right;
   padding-bottom:50px;
   margin-left:20px;
