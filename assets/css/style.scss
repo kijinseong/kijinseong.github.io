@@ -87,51 +87,12 @@ w {
   color: #3d3d3d;
 }
 
-// Newly added section widths.
-
-//.wrapper {
-//  width:90%;
-  // max-width: 1100px;
-  // left side is 270
-  // 1200-270 = 930
-  // 30px free room
-//  margin:20px auto;
-//  padding: 0 1rem;
-//}
-
-/* Sidebar styles */
-//.sidebar {
-//  flex-basis: 270px;       /* Fix the sidebar width */
-//  min-width: 250px;        /* Ensure the sidebar doesn't get too small */
-// max-width: 300px;        /* Optional max width */
-//  padding: 10px;
-//  }
-
-
-
-.wrapper {
-  display: flex;                /* turn the sidebar into a flex container */
-  flex-direction: column;       /* stack children vertically */
-  height: 100vh; 
-  padding-bottom: 60px;               /* area fills full viewport height */
-}
-.wrapper > nav {
-  flex: 1 1 auto;               /* nav takes all remaining space */
-  overflow-y: auto;             /* scroll if your link list is tall */
-}
-.wrapper > .footer {
-  position: static;   /* 절대/고정 배치 해제 */
-  clear: both;        /* 떠 있는 float 요소들 아래로 강제 배치 */
-  margin-top: 2rem;   /* 위쪽 여유도 살짝 추가 */
-}
-
-
 section {
   //max-width:750px;
   width: 90%;
   float:right;
   padding-bottom:50px;
-  margin-left:20px;
+  margin-left:0px;
 }
 
 
