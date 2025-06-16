@@ -56,6 +56,12 @@ w {
 
 header  { width: 25%; float: left; }
 section { width: 75%; float: left; }
+footer { 
+  width: 25%; 
+  float: left; 
+  clear: both;        /* 떠 있는 float 요소들 아래로 강제 배치 */
+  margin-top: 2rem;
+}
 
 .wrapper::after {
   content: "";
