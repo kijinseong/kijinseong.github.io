@@ -100,12 +100,30 @@ w {
 }
 
 /* Sidebar styles */
-.sidebar {
+//.sidebar {
   flex-basis: 270px;       /* Fix the sidebar width */
   min-width: 250px;        /* Ensure the sidebar doesn't get too small */
   max-width: 300px;        /* Optional max width */
   padding: 10px;
   }
+//
+
+
+
+.sidebar {
+  display: flex;                /* turn the sidebar into a flex container */
+  flex-direction: column;       /* stack children vertically */
+  height: 100vh;                /* area fills full viewport height */
+}
+.sidebar > nav {
+  flex: 1 1 auto;               /* nav takes all remaining space */
+  overflow-y: auto;             /* scroll if your link list is tall */
+}
+.sidebar > .site-footer {
+  flex: 0 0 auto;               /* footer stays its own size */
+  margin-top: 1rem;             /* small gap above copyright */
+}
+
 
 section {
   //max-width:750px;
