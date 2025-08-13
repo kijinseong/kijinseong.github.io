@@ -8,7 +8,7 @@ permalink: /research/RedliningNRI/
 
 <br/>
 <div style="text-align: center;">
-    <img src="../../files/Images/ProjectsPic/Redlining.jpg" alt="Redlining" style="width: 600px;">
+    <img src="../../files/Images/ProjectsPic/Boxplot.jpg" alt="Boxplot" style="width: 600px;">
 </div>
 
 <p style= "font-size: 13px;">Figure. Box plot of (a) risk index score, (b) resilience score, (c) social vulnerability score, and (d) expected annual loss by redlining levels across the United States. Source: University of Richmond Mapping Inequality project (Nelson & LaDale, 2023).</p>

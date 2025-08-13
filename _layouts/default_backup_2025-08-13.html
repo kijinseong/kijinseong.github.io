@@ -10,60 +10,17 @@
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <!-- 수정된 viewport meta 태그 -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width">
 
     <style>
-      /* 수정된 스타일 태그 - 제대로 닫힘 */
-      .header-title {
-        font-size: 20px;
-        background: linear-gradient(to right, #003399 0%, #9900cc 100%);
-        -webkit-background-clip: text;
-        background-clip: text;
-        color: transparent;
-        text-align: center;
-        margin: 5px 0;
-        font-weight: bold;
-      }
-      
-      /* 추가된 반응형 스타일 */
-      @media screen and (max-width: 768px) {
-        .wrapper {
-          width: 100% !important;
-          padding: 10px;
-        }
-        
-        header {
-          width: 100% !important;
-          position: relative !important;
-          padding: 10px 0;
-        }
-        
-        section {
-          width: 100% !important;
-          margin-left: 0 !important;
-          padding: 10px;
-        }
-        
-        #logo {
-          width: 150px !important;
-        }
-        
-        .header-title {
-          font-size: 18px;
-        }
-      }
-      
-      /* 기본 박스 사이징 */
-      * {
-        box-sizing: border-box;
-      }
-      
-      /* 컨테이너 오버플로우 방지 */
-      .wrapper {
-        max-width: 100%;
-        overflow-x: hidden;
-      }
+          .header-title {
+            font-size: 20px; /* Smaller font size */
+            background: linear-gradient(to right, #003399 0%, #9900cc 100%);
+            -webkit-background-clip: text;
+            color: transparent;
+            text-align: center;
+            margin: 5px 0;
+            font-weight: bold;
     </style>
     
     <script>
@@ -85,11 +42,9 @@
         
       <a href="/" style="display: block; text-align: center;"><img id="logo" src="/files/Images/KijinSeong_headshot_sq.jpg" style="width:200px; display: block; margin: 0 auto; border-radius: 50%;"/></a>
      
-      <!-- 수정된 부분: 닫히지 않은 span 태그 수정 -->
       <div class="header-title">
-        Kijin Seong, PhD, AICP
+        Kijin Seong, PhD, AICP</span>
       </div>
-      
           <p align="center">
         <i class="fas fa-map-marker-alt"></i> Austin, TX, USA
         <br> kijin.seong@austin.utexas.edu
