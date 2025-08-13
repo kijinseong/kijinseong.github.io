@@ -47,20 +47,36 @@ w {
   font-size: 15px;
 }
 
-//Wrapper 
-
+// Wrapper - 수정된 레이아웃
 .wrapper {
-  width: 100%;        // span the full viewport
-  max-width: none;    // remove any upper cap
+  width: 100%;
+  max-width: 1200px; // 최대 너비 설정으로 너무 넓어지는 것 방지
+  margin: 0 auto;    // 중앙 정렬
+  overflow: hidden;  // float clearfix
 }
 
-header  { width: 25%; float: left; }
-section { width: 75%; float: left; }
-footer { 
-  width: 25%; 
-  float: left; 
-  clear: both;        /* 떠 있는 float 요소들 아래로 강제 배치 */
+// 데스크톱 레이아웃
+header {
+  width: 25%;
+  float: left;
+  position: relative;
+  padding-right: 20px; // 여백 추가
+}
+
+section {
+  width: 75%;
+  float: right;
+  padding-left: 20px;  // 여백 추가
+  padding-bottom: 50px;
+  // 이전의 90% width와 margin-left 제거
+}
+
+footer {
+  width: 100%;         // 전체 너비로 변경
+  float: none;         // float 제거
+  clear: both;
   margin-top: 2rem;
+  text-align: center;  // 중앙 정렬
 }
 
 .wrapper::after {
@@ -68,7 +84,6 @@ footer {
   display: table;
   clear: both;
 }
-
 
 // Project Tables
 .projects-grid {
@@ -107,14 +122,6 @@ footer {
   margin-top: 5px;
   font-size: 15px;
   color: #3d3d3d;
-}
-
-section {
-  //max-width:750px;
-  width: 90%;
-  float:right;
-  padding-bottom:50px;
-  margin-left:0px;
 }
 
 
@@ -157,29 +164,59 @@ section {
 }
 
 
+// 수정된 반응형 미디어 쿼리
 @media (max-width: 1100px) {
   .wrapper {
-    flex-direction: column; /* Stack items vertically on small screens */
-    width: 100%;            /* Use full width for small devices */
-    padding: 10px;          /* Reduce padding for smaller screens */
+    width: 100%;
+    padding: 10px;
   }
   
-  .sidebar {
-    width: 100%;            /* Sidebar takes full width */
-    max-width: none;        /* Remove maximum width constraint */
-    order: 2;               /* Display sidebar below the main content */
-    padding: 10px 0;        /* Adjust padding */
+  header {
+    width: 100%;        // 전체 너비
+    float: none;        // float 제거
+    padding-right: 0;   // 패딩 리셋
+    margin-bottom: 20px; // 아래 여백 추가
+    text-align: center; // 중앙 정렬
   }
   
-  .section {
-    width: 100%;            /* Section takes full width */
-    max-width: none;        /* Remove maximum width constraint */
-    order: 1;               /* Display section above the sidebar */
-    padding-bottom: 20px;   /* Adjust padding */
+  section {
+    width: 100%;        // 전체 너비
+    float: none;        // float 제거
+    padding-left: 0;    // 패딩 리셋
+    padding-bottom: 20px;
+  }
+  
+  footer {
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  // 프로젝트 그리드도 모바일에서 1열로
+  .projects-grid {
+    grid-template-columns: 1fr;
   }
 }
 
-//Collapse
+// 더 작은 화면을 위한 추가 미디어 쿼리
+@media (max-width: 768px) {
+  .wrapper {
+    padding: 5px;
+  }
+  
+  header {
+    margin-bottom: 15px;
+  }
+  
+  p {
+    font-size: 14px;
+  }
+  
+  .project-item {
+    padding: 15px;
+  }
+}
+
+// Collapse
 .abstractcollapsed {
-  display: none; /* Ensures the element is hidden by default */
+  display: none;
 }
