@@ -47,6 +47,28 @@ w {
   font-size: 15px;
 }
 
+//Wrapper 
+
+.wrapper {
+  width: 100%;        // span the full viewport
+  max-width: none;    // remove any upper cap
+}
+
+header  { width: 25%; float: left; }
+section { width: 75%; float: left; }
+footer { 
+  width: 25%; 
+  float: left; 
+  clear: both;        /* 떠 있는 float 요소들 아래로 강제 배치 */
+  margin-top: 2rem;
+}
+
+.wrapper::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 
 // Project Tables
 .projects-grid {
@@ -87,31 +109,12 @@ w {
   color: #3d3d3d;
 }
 
-// Newly added section widths.
-
-.wrapper {
-  max-width:1100px;
-  width:100%;
-  // left side is 270
-  // 1200-270 = 930
-  // 30px free room
-  margin:20px auto;
-}
-
-/* Sidebar styles */
-.sidebar {
-  flex-basis: 270px;       /* Fix the sidebar width */
-  min-width: 250px;        /* Ensure the sidebar doesn't get too small */
-  max-width: 300px;        /* Optional max width */
-  padding: 10px;
-  }
-
 section {
-  max-width:750px;
-  width: 100%;
+  //max-width:750px;
+  width: 90%;
   float:right;
   padding-bottom:50px;
-  margin-left:20px;
+  margin-left:0px;
 }
 
 
