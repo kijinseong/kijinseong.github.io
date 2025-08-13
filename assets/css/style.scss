@@ -47,28 +47,31 @@ w {
   font-size: 15px;
 }
 
-// Wrapper - 수정된 레이아웃
+/ Wrapper - 수정된 레이아웃
 .wrapper {
   width: 100%;
-  max-width: 1200px; // 최대 너비 설정으로 너무 넓어지는 것 방지
+  max-width: 1400px; // 더 넓은 최대 너비로 확장
   margin: 0 auto;    // 중앙 정렬
   overflow: hidden;  // float clearfix
+  padding: 0 20px;   // 전체 컨테이너에 좌우 패딩
 }
 
-// 데스크톱 레이아웃
+// 데스크톱 레이아웃 - 겹침 방지를 위한 수정
 header {
-  width: 25%;
+  width: 22%;        // 너비를 줄여서 여백 확보
   float: left;
   position: relative;
-  padding-right: 20px; // 여백 추가
+  padding-right: 30px; // 더 넉넉한 오른쪽 여백
+  box-sizing: border-box; // 패딩 포함한 박스 사이징
 }
 
 section {
-  width: 75%;
+  width: 75%;        // 너비 유지
   float: right;
-  padding-left: 20px;  // 여백 추가
+  padding-left: 40px;  // 더 넉넉한 왼쪽 여백
   padding-bottom: 50px;
-  // 이전의 90% width와 margin-left 제거
+  box-sizing: border-box; // 패딩 포함한 박스 사이징
+  margin-left: 3%;    // 추가 여백으로 완전히 분리
 }
 
 footer {
@@ -123,7 +126,6 @@ footer {
   font-size: 15px;
   color: #3d3d3d;
 }
-
 
 // Research Images
 .image-container {
@@ -183,6 +185,7 @@ footer {
     width: 100%;        // 전체 너비
     float: none;        // float 제거
     padding-left: 0;    // 패딩 리셋
+    margin-left: 0;     // 마진 리셋
     padding-bottom: 20px;
   }
   
@@ -194,6 +197,24 @@ footer {
   // 프로젝트 그리드도 모바일에서 1열로
   .projects-grid {
     grid-template-columns: 1fr;
+  }
+}
+
+// 더 넓은 화면을 위한 추가 미디어 쿼리
+@media (min-width: 1400px) {
+  .wrapper {
+    max-width: 1600px; // 매우 넓은 화면에서 더 넓게
+  }
+  
+  header {
+    width: 20%;        // 더 좁은 사이드바
+    padding-right: 40px;
+  }
+  
+  section {
+    width: 75%;
+    padding-left: 50px;
+    margin-left: 5%;   // 더 넓은 여백
   }
 }
 
