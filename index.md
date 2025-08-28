@@ -24,7 +24,7 @@ layout: default
 
 <p>
   <strong style="color: #b76ca8;">Mar 26, 2025</strong><br />
-  Paloma Carollo Toscan presented our collaborative research titled, "Advancing Urban Climate Analysis with Remote Sensing: Evaluating the Impact of Nature-Based Solutions on Surface Temperatures in Guimarães, Portugal," at the 
+  Paloma, our exchange research intern, presented our collaborative research titled, "Advancing Urban Climate Analysis with Remote Sensing: Evaluating the Impact of Nature-Based Solutions on Surface Temperatures in Guimarães, Portugal," at the 
   <a href="https://sciforum.net/event/ICARS2025" target="_blank">International Conference on Advanced Remote Sensing (ICARS2025)</a>.  
 </p>
 
@@ -55,7 +55,7 @@ layout: default
 
 <p>
   <strong style="color: #b76ca8;">Nov 8, 2024</strong><br />
-  Presented at the <a href="https://www.acsp.org/page/ConfAllAbout2024" target="_blank">ACSP</a> conference on the project "The Legacy Effect of Redlining on Disaster Risk and Community Resilience" at Seattle, WA, USA.  
+  Presented at the <a href="https://www.acsp.org/page/ConfArchive2023-2024" target="_blank">ACSP</a> conference on the project "The Legacy Effect of Redlining on Disaster Risk and Community Resilience" at Seattle, WA, USA.  
 </p>
 
 <p>
@@ -77,13 +77,15 @@ layout: default
   <strong style="color: #b76ca8;">Aug, 2024</strong><br />
   Excited to launch <a href="http://kijinseong.github.io/" target="_blank">Kijin Seong's personal website!</a>  
 </p>
+
 <p>
   <strong style="color: #b76ca8;">July 2024</strong><br />
-  Virtually attended the <a href="/files/Documents/2024-JAPA-Writing-Workshop-for-Emerging-Scholarsv2.pdf">2024 JAPA Writing Workshop for Emerging Scholars</a>
+  Virtually attended the <a href="/files/Documents/2024-JAPA-Writing-Workshop-for-Emerging-Scholarsv2.pdf" target="_blank">2024 JAPA Writing Workshop for Emerging Scholars</a>
 </p>
+
 <p>
   <strong style="color: #b76ca8;">July 2024</strong><br />
-  Paper on <a href="https://doi.org/10.1371/journal.pclm.0000448">Evaluating urban fire vulnerability and accessibility to fire stations and hospitals in Austin, Texas</a> accepted to <a href="https://journals.plos.org/climate/">PLOS Climate</a> 
+  Paper on <a href="https://doi.org/10.1371/journal.pclm.0000448" target="_blank">Evaluating urban fire vulnerability and accessibility to fire stations and hospitals in Austin, Texas</a> accepted to <a href="https://journals.plos.org/climate/" target="_blank">PLOS Climate</a> 
 </p>
 
 
