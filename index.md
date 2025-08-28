@@ -18,6 +18,11 @@ layout: default
         
 ### What' new
 <p>
+  <strong style="color: #b76ca8;">Aug 27, 2025</strong><br />
+  My citation count on <a href="https://scholar.google.com/citations?hl=en&user=GcRv_SUAAAAJ&view_op=list_works&sortby=pubdate/" target="_blank">Google Scholar</a> has surpassed last year's total. Yay!  
+</p>
+
+<p>
   <strong style="color: #b76ca8;">Jun 3, 2025</strong><br />
   Served as a senior program coordinator for the <a href="https://gssmartcitiessymp06-03.splashthat.com/" target="_blank">3rd Annual Good Systems Smart Cities and AI Innovations Symposium</a>.
 </p>
