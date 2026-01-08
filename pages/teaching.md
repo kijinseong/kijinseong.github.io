@@ -37,6 +37,20 @@ permalink: /teaching/
 <br />
 
 <h2>Instructor</h2>
+<p>School of Architecture, The University of Texas at Austin, Austin, TX.</p>
+
+<p style="padding-left: 40px; font-size: 15px;">
+    <b>CRP381Q Quantitative Methods (Spring 2026) 
+        [<a href="javascript:void(0);" onclick="showdropinfo('CRP381Q_Spring2026');" style="font-size= 15px;">Course Description</a>]
+    </b>
+</p>
+
+<div id='CRP381Q_Spring2026' class="abstractcollapsed" style="display:none; font-size: 15px;">
+    This course introduces the quantitative reasoning and computational techniques that underpin contemporary planning analysis. Rather than approaching statistics as a set of abstract formulas, it emphasizes how planners can use data to think critically, test hypotheses, and inform practical decision-making. The class integrates the logic of statistical reasoning with the hands-on practice of computational analysis using Python, equipping students with both conceptual understanding and applied analytical skills essential for evidence-based planning. <br/>
+    <br/>
+    The first part of the semester focuses on understanding and working with key data sources used in planning practice—particularly the U.S. Census and related demographic, economic, and housing datasets. Students learn how to acquire, clean, and interpret data using Python (e.g., pandas, matplotlib) and Census APIs. The second part introduces core statistical analysis techniques (i.e., descriptive statistics, correlation, visualization, hypothesis testing, and sampling distributions) anchored in real planning questions. Students apply these techniques in Python to explore patterns, evaluate relationships, and critically assess quantitative evidence. The final part of the course centers on applied regression modeling and data-driven planning analysis. We will design and test hypotheses related to Austin’s urban and regional context, practicing how to link quantitative analysis to planning decisions. Throughout the course, the ability to communicate data insights clearly and persuasively to technical and non-technical audiences is stressed. By the end of the semester, students will understand the logic behind key statistical methods and have the hands-on skills to execute, interpret, and present analytical results relevant to urban and regional planning.<br/>
+    <br><br>
+</div>
 
 <p>Department of Landscape Architecture and Urban Planning, Texas A&M University, College Station, TX.</p>
 

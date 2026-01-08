@@ -22,19 +22,25 @@ permalink: /publications/
 <div class="text-colored">
     <ol>
         <li>
-            <b>Seong, K.*</b>, Jiao, J., Lewis, R. H., Farahi, A., Navratil, P., Casebeer, N., Jones, J., and Niyogi, D.  Towards a Digital Twin for Smart Resilient Cities: Real-time fire and smoke tracking and prediction platform for community awareness (FireCom). (Under Review: <i>Journal of Urban Technology</i>)
+            <b>Seong, K.</b>, Mandalapu, A, & Jiao, J*. The Legacy of Redlining: Unveiling the Impact on Natural Hazard Risk and Community Resilience. (Under Review: <i>Applied Geography</i>)
         </li>
         <li>
-            <b>Seong, K.*</b>, Van Zandt, S., Peacock, W. G., Newman, G. Racial and Ethnic Change in Floodplain Buyout Neighborhoods: Twenty-five Years of Evidence from Houston. (Under Review: <i>Journal of Planning Education and Research</i>)
+            <b>Seong, K.</b>, Mandalapu, A., & Jiao, J*. Urban–Rural Disparities in Heat-Related Illness: Place-Based Vulnerabilities and Health System Implications in Texas. (Under Review: <i>Journal of Urban Health</i>)
         </li>
         <li>
-            <b>Seong, K.*</b>, Jiao, J., and Mandalapu, A. The Legacy of Redlining: Unveiling the Impact on Natural Hazard Risk and Community Resilience (Under Review: <i>Journal of American Planning Association</i>)
-        </li>
-        <li>   
-            Jiao, J., <b>Seong, K.*</b>, Sammer, M., Kakadiaris, I. A., Reese, A., Olvera N., Gronseth S. L., Anderson-Fletcher, E. Mapping Healthy Food Access and Suggesting AI-Driven Solutions: Development of a Healthy Food Access Index (HFAI) and Urban Planning Strategies (Under Review: <i>Cities</i>)
-        </li>
-        <li>    
-            <b>Seong, K.*</b>, Kota, S., Jiao, J. Assessing the Impact of Heat Vulnerability on Heat Discomfort through Twitter Data Analysis in Austin-Travis County. (Plan to submit it in Oct 2024: <i>PLOS One</i>)
+            <b>Choi, S.</b>, Seong, K.*, & Jiao, J. Unveiling the Secret: Investigating Data Center Site Planning at Major ICT Companies in the U.S. (Under Review: <i>Cities</i>) 
+        </li>   
+        <li>
+            <b>Choi, S.*</b>, Lee, H., & Seong, K. Assessing the Flood Resilience of Electric Vehicle Charging Stations in Seoul: Evidence from Utilization Data and Accessibility Analysis. (Under Review: <i>Transportation Research Part D: Transport and Environment</i>)  
+        </li>             
+        <li>
+            <b>Seong, K.</b>, & Jiao, J.*. Predicting Heat-Related Emergency Department Visits: A GeoAI Approach to Assessing Extreme Heat Vulnerability in Texas. (Plan to submit it in February 2026: <i>Sustainable Cities and Society</i>) 
+        </li> 
+        <li>
+            <b>Seong, K.</b>, Ortega, N, & Jiao, J*. Modeling the Health Impacts of Electric Vehicle Adoption: A SEM–XGBoost Approach to Environmental Stressors and Public Health Burden. (Plan to submit in December 2025: <i>Journal of Transport & Health</i>) 
+        </li> 
+        <li>
+            Jiao, J. & <b>Seong, K</b>. Smart Cities with AI. Edited Book contracted with Taylor & Francis/CRC Press. (Planned publication:  March 2026.) 
         </li>
     </ol>
 </div>
@@ -43,31 +49,69 @@ permalink: /publications/
 
 ## Peer-reviewed Journal Articles  
 
-### 2024 
+### 2026
 <div class="text-colored">
-    <ol start="15">
+    <ol start="19">
         <li>
-            Sammer, M., <b>Seong, K.</b>, Olvera N., Gronseth S. L., Anderson-Fletcher, E., Jiao, J., Reese, A., & Kakadiaris, I. A. (2024). AI-FEED: Prototyping an AI-Powered Platform for the Food Charity Ecosystem. International Journal of Computational Intelligence Systems, 17(259). [ <a href="javascript:void(0);" onclick="showdropinfo('AIFEED_Prototype2024')">abstract</a> | <a href="https://doi.org/10.1007/s44196-024-00656-9" target="_blank">official link</a> ]
+            <b>Seong, K.*</b>, Van Zandt, S., Peacock, W. G., & Newman, G. Racial and Ethnic Change in Floodplain Buyout Neighborhoods: Twenty-five Years of Evidence from Houston. <i>Journal of Planning Education and Research</i>. [ <a href="javascript:void(0);" onclick="showdropinfo('HMGP2025')">abstract</a> | <a href="https://doi.org/10.1177/0739456X251397310" target="_blank">official link</a> ]
         </li>
     </ol>
 
-    <div id='AIFEED_Prototype2024' class="abstractcollapsed" style="display:none;">
-        This paper presents the development and functionalities of the AI-FEED web-based platform (ai-feed.ai), designed to address food and nutrition insecurity challenges within the food charity ecosystem. AI-FEED leverages advancements in artificial intelligence (AI) and blockchain technology to facilitate improved access to nutritious food and efficient resource allocation, aiming to reduce food waste and bolster community health. The initial phase involved comprehensive interviews with various stakeholders to gather insights into the ecosystem’s unique challenges and requirements. This informed the design of four distinct modules in the AI-FEED platform, each targeting the needs of one of four stakeholder groups (food charities, donors, clients, and community leaders). Prototyping and iterative feedback processes were integral to refining these modules. The food charity module assists charities in generating educational content and predicting client needs through AI-driven tools. Based on blockchain technology, the food donor module streamlines donation processes, enhances donor engagement, and provides donor recognition. The client module provides real-time information on food charity services and offers a centralized repository for nutritional information. The platform includes a comprehensive mapping and proposal system for community leaders to strategically address local food insecurity issues. AI-FEED’s integrated platform approach allows data sharing across modules, enhancing overall functionality and impact. The paper also discusses ethical considerations, potential biases in AI systems, and the transformation of AI-FEED from a research project to a sustainable entity. The AI-FEED platform exemplifies the potential of interdisciplinary collaboration and technological innovation in addressing societal challenges, particularly in improving food security and community health.
-        <br><br>
-    </div>    
-    
-    <ol start="14">
-        <li>
-            Mandalapu, A., <b>Seong, K.*</b>, & Jiao, J. (2024). Evaluating urban fire vulnerability and accessibility to fire stations and hospitals in Austin, Texas. <i>PLOS Climate</i>, 3(7), e0000448. [ <a href="javascript:void(0);" onclick="showdropinfo('FireVulnerability2024')">abstract</a> | <a href="https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000448" target="_blank">official link</a>]
-        </li>
-    </ol>
-
-    <div id='FireVulnerability2024' class="abstractcollapsed" style="display:none;">
-        Anthropogenic climate change has increased the frequency and intensity of fires. Despite their widespread consequences, current research has largely overlooked urban fires and their associated vulnerability. This study seeks to identify patterns of fire vulnerability, map out areas with high fire vulnerability and limited access to fire stations and hospitals, and ultimately determine the factors contributing to increased fire incidents. Principal Component Analysis was used to develop a fire vulnerability index comprising variables capturing health status and socio-environmental factors. Enhanced 2-step floating catchment area (E2SFCA) analysis was conducted to determine relative accessibility to resources such as hospitals and fire stations. Ordinary least squares (OLS) regression and geographically weighted regression (GWR) were utilized to determine factors associated with higher fire incident counts. The results of the fire vulnerability analysis highlight areas of high fire vulnerability in the eastern periphery and the north-central parts of Austin. Moreover, the eastern periphery experiences decreased accessibility to fire stations and hospitals. Finally, the results of the GWR analysis highlight a varied negative relationship between health vulnerability and fire incidents and a positive relationship with socio-environmental vulnerability. The GWR model (R2: 0.332) was able to predict a greater extent of the variance compared to OLS (R2: 0.056). Results of this study underscore that areas with socio-environmental vulnerabilities are likely to face a higher number of fire incidents and have reduced access to hospitals and fire stations. These findings can inform public health officials, city planners, and emergency services departments in developing targeted strategies to mitigate the harm caused by fire incidents.
+    <div id='HMGP2025' class="abstractcollapsed" style="display:none;"> 
+        In the face of growing impacts from climate change, particularly in flood-prone areas, buyouts have become critical for mitigating disaster risks. While the environmental and financial benefits of buyouts are well-documented, their broader sociocultural implications—especially their effects on the racial and ethnic composition of communities—have received less attention. Understanding the influence of floodplain buyouts on these demographic shifts is important not only for comprehending urban dynamics but also for crafting equitable planning policies. This study examines long-term racial and ethnic shifts following floodplain buyouts over twenty-five years in Houston, Texas, USA. Using smaller neighborhood units in analysis and a mixed-method approach, the study enables a nuanced understanding of the interplay between buyout policies and racial dynamics, filling a significant gap both in urban planning literature and practice. By uncovering the patterns and consequences of racial turnover following floodplain buyouts, this research provides planners and policymakers with insights necessary for developing strategies that mitigate environmental risks while enhancing the social fabric of urban communities.
         <br><br>
     </div>
 
-    <ol start="13">
+### 2025
+<div class="text-colored">
+    <ol start="18">
+        <li>
+            <b>Seong, K.*</b>, Jiao, J., Lewis, R. H., Farahi, A., Navratil, P., Casebeer, N., Jones, J., & Niyogi, D. (2025). Towards a Digital Twin for Smart Resilient Cities: Real-time fire and smoke tracking and prediction platform for community awareness (FireCom). <i>Computational Urban Science</i>, 5, 49.  [ <a href="javascript:void(0);" onclick="showdropinfo('FIRECOM2025')">abstract</a> | <a href="https://doi.org/10.1007/s43762-025-00212-x" target="_blank">official link</a> ]
+        </li>
+    </ol>
+
+    <div id='FIRECOM2025' class="abstractcollapsed" style="display:none;"> 
+        This paper discusses the development and application of a digital twin (DT) for urban resilience, focusing on an integrated platform for real-time fire and smoke. The proposed platform, FireCom, adapts DT concepts for the unique challenges of urban fire management, which differ significantly from regional wildfire systems. Through an exploratory case study in Austin, Texas, in the United States, this research bridges the theoretical foundations of 3D DT with their practical application in fire and smoke management. By fusing diverse data sources, ranging from air quality sensors and meteorological data to 3D urban infrastructure, FireCom supports both emergency response and public awareness through a publicly accessible dashboard. Unlike platforms developed primarily for wildland fire applications, FireCom is specifically designed to account for urban complexities such as building canyon effects on smoke dispersion and the heightened exposure risks associated with dense populations. This study contributes a scalable, replicable framework for municipalities seeking data-driven tools for proactive disaster management, with implications for broader climate resilience planning in urban areas.
+        <br><br>
+    </div>
+
+    <ol start="17">
+        <li>
+            Toscan, P. C.*, <b>Seong, K.</b>, Jiao, J., Ribeiro, C. A. L. R., Carvalho, F. A. C., Oliveira, M. L., & Pereira, E. B. (2025). Impact of Nature-Based Solutions (NBS) on urban surface temperatures and land cover changes using remote sensing and machine learning. <i>Remote Sensing Applications: Society and Environment</i>, 101721.  [ <a href="javascript:void(0);" onclick="showdropinfo('NBS2025')">abstract</a> | <a href="https://doi.org/10.1016/j.rsase.2025.101721" target="_blank">official link</a> ]
+        </li>
+    </ol>
+
+    <div id='NBS2025' class="abstractcollapsed" style="display:none;"> 
+        Urban areas are increasingly vulnerable to climate change, with rising urban heat driven by the replacement of vegetation with impervious surfaces. Nature-Based Solutions (NBS) provide promising strategies to mitigate urban heat while promoting environmental sustainability. This study analyzes the spatiotemporal dynamics of Land Cover (LC) and Land Surface Temperature (LST) in Guimarães, Portugal, from 2013 to 2023, and forecasts scenarios for 2028 using advanced machine learning techniques. Key methodologies included supervised LC classification via Random Forest (RF), LC prediction using the MOLUSCE plugin, and LST prediction using ensemble models such as XGBoost, Bagging, and AdaBoost, with XGBoost demonstrating the highest performance (R2 = 0.9543). The results highlight significant transitions from barren and built-up areas to vegetation, reflecting localized environmental recovery. NBS interventions, such as green roofs and urban gardens, achieved measurable cooling effects, reducing temperatures by up to 2.49 °C in their surroundings. Projections for 2028 indicate a slight decline in vegetation (−0.35 %), underscoring the urgent need for strengthened conservation efforts. Identified thermal hotspots, particularly in urban and industrial zones, further emphasize the importance of expanding NBS strategies. This research advances the integration of remote sensing and machine learning for urban climate analysis, offering practical insights for urban planning and climate mitigation policies. Future studies should incorporate additional variables to refine prediction models, assess large-scale impacts of distributed NBS, and leverage high-resolution data for broader applications. These findings provide a scalable framework for sustainable urban development worldwide.
+        <br><br>
+    </div>
+
+    <ol start="16">
+        <li>
+            <b>Seong, K.*</b>, Choi, S., and Jiao, J. (2024). IoT sensors as a tool for assessing spatiotemporal risk to extreme heat.  <i>Journal of Environmental Planning and Management</i>. 1-23. [ <a href="javascript:void(0);" onclick="showdropinfo('IoT2024')">abstract</a> | <a href="https://www.tandfonline.com/doi/full/10.1080/09640568.2024.2320257" target="_blank">official link</a> ]
+        </li>
+    </ol>
+
+    <div id='IoT2024' class="abstractcollapsed" style="display:none;">
+        The safety of urban populations sensitive to extreme heat is under increasing threat. Few studies examine the potential benefits of deploying IoT environmental sensors in the urban context and their integration with large-scale human activity data. This paper examines the deployment of IoT sensors in high-resolution extreme heat risk assessment in the case of Seoul, South Korea. This study conducted spatiotemporal analysis on heat exposure with IoT sensors, compared it with an existing land surface temperature map for validation, combined it with human activity data for risk assessment, and finally discussed the benefits of IoTs in detecting abnormal weather events. The results show that extreme heat risks and characteristics vary by age group, and socio-demographic nature overlaps with contextual factors concerning climate risk. This paper discussed possible policy implications to better deal with recurring climate hazards using IoT sensors.
+        <br><br>
+    </div>
+
+    <ol start="15">
+        <li>
+            Jiao, J., <b>Seong, K.*</b>, Sammer, M., Lewis, R. H., Reese, A., Olvera, N., Gronseth, SL., Anderson-Fletcher, E. & Kakadiaris, I. (2025). Developing a healthy food access index (HFAI): Web-based mapping and future directions for AI integrations. <i>Cities</i>, 161, 105908. [ <a href="javascript:void(0);" onclick="showdropinfo('Food2025')">abstract</a> | <a href="https://doi.org/10.1016/j.cities.2025.105908" target="_blank">official link</a> ]
+        </li>
+    </ol>
+
+    <div id='Food2025' class="abstractcollapsed" style="display:none;">
+        Food insecurity remains a pressing issue in urban communities, particularly in underserved areas with limited access to healthy and affordable food. This study introduces a comprehensive approach to assessing and addressing food access challenges in the Greater Houston region by developing a Healthy Food Access Index (HFAI). The HFAI incorporates a wide range of data sources, including economic and sociocultural deprivation indices, retail food environment measures, physical access indicators, and accommodation access data, that offer a multidimensional understanding of food access. Using GIS-based mapping and hot spot analysis, we identify areas of critical need, highlighting significant disparities in food access and health across the region. We also present the web-based platform, “AI-FEED,” designed to support community leaders and urban planners by visualizing food access challenges and providing AI-driven suggestions for optimizing food pantry placements, incentivizing healthy options at dollar stores, and improving public transit routes. This platform integrates real-time data, offering dynamic and proactive solutions to enhance food security and improve public health outcomes. Our study introduces the importance of targeted, data-driven interventions in addressing food insecurity and demonstrates the potential of AI and digital platforms in supporting sustainable urban food systems.
+        <br><br>
+    </div>    
+
+
+### 2024 
+<div class="text-colored">
+    <ol start="14">
         <li>
             <b>Seong, K.*</b>, Jiao, J., Mandalapu, A., and Niyogi, D. (2024). Spatio-Temporal Patterns of Heat Index and Heat-Related Emergency Medical Services (EMS). <i>Sustainable Cities and Society</i>, 111, 105562. [ <a href="javascript:void(0);" onclick="showdropinfo('Spatio-temporal2024')">abstract</a> | <a href="https://linkinghub.elsevier.com/retrieve/pii/S2210670724003883" target="_blank">official link</a>]
         </li>
@@ -78,7 +122,29 @@ permalink: /publications/
         <br><br>
     </div>
 
+    <ol start="13">
+        <li>
+            Mandalapu, A., <b>Seong, K.*</b>, & Jiao, J. (2024). Evaluating urban fire vulnerability and accessibility to fire stations and hospitals in Austin, Texas. <i>PLOS Climate</i>, 3(7), e0000448. [ <a href="javascript:void(0);" onclick="showdropinfo('FireVulnerability2024')">abstract</a> | <a href="https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000448" target="_blank">official link</a>]
+        </li>
+    </ol>
+
+    <div id='FireVulnerability2024' class="abstractcollapsed" style="display:none;">
+        Anthropogenic climate change has increased the frequency and intensity of fires. Despite their widespread consequences, current research has largely overlooked urban fires and their associated vulnerability. This study seeks to identify patterns of fire vulnerability, map out areas with high fire vulnerability and limited access to fire stations and hospitals, and ultimately determine the factors contributing to increased fire incidents. Principal Component Analysis was used to develop a fire vulnerability index comprising variables capturing health status and socio-environmental factors. Enhanced 2-step floating catchment area (E2SFCA) analysis was conducted to determine relative accessibility to resources such as hospitals and fire stations. Ordinary least squares (OLS) regression and geographically weighted regression (GWR) were utilized to determine factors associated with higher fire incident counts. The results of the fire vulnerability analysis highlight areas of high fire vulnerability in the eastern periphery and the north-central parts of Austin. Moreover, the eastern periphery experiences decreased accessibility to fire stations and hospitals. Finally, the results of the GWR analysis highlight a varied negative relationship between health vulnerability and fire incidents and a positive relationship with socio-environmental vulnerability. The GWR model (R2: 0.332) was able to predict a greater extent of the variance compared to OLS (R2: 0.056). Results of this study underscore that areas with socio-environmental vulnerabilities are likely to face a higher number of fire incidents and have reduced access to hospitals and fire stations. These findings can inform public health officials, city planners, and emergency services departments in developing targeted strategies to mitigate the harm caused by fire incidents.
+        <br><br>
+    </div>
+
     <ol start="12">
+        <li>
+            Sammer, M., <b>Seong, K.</b>, Olvera N., Gronseth S. L., Anderson-Fletcher, E., Jiao, J., Reese, A., & Kakadiaris, I. A. (2024). AI-FEED: Prototyping an AI-Powered Platform for the Food Charity Ecosystem. International Journal of Computational Intelligence Systems, 17(259). [ <a href="javascript:void(0);" onclick="showdropinfo('AIFEED_Prototype2024')">abstract</a> | <a href="https://doi.org/10.1007/s44196-024-00656-9" target="_blank">official link</a> ]
+        </li>
+    </ol>
+
+    <div id='AIFEED_Prototype2024' class="abstractcollapsed" style="display:none;">
+        This paper presents the development and functionalities of the AI-FEED web-based platform (ai-feed.ai), designed to address food and nutrition insecurity challenges within the food charity ecosystem. AI-FEED leverages advancements in artificial intelligence (AI) and blockchain technology to facilitate improved access to nutritious food and efficient resource allocation, aiming to reduce food waste and bolster community health. The initial phase involved comprehensive interviews with various stakeholders to gather insights into the ecosystem’s unique challenges and requirements. This informed the design of four distinct modules in the AI-FEED platform, each targeting the needs of one of four stakeholder groups (food charities, donors, clients, and community leaders). Prototyping and iterative feedback processes were integral to refining these modules. The food charity module assists charities in generating educational content and predicting client needs through AI-driven tools. Based on blockchain technology, the food donor module streamlines donation processes, enhances donor engagement, and provides donor recognition. The client module provides real-time information on food charity services and offers a centralized repository for nutritional information. The platform includes a comprehensive mapping and proposal system for community leaders to strategically address local food insecurity issues. AI-FEED’s integrated platform approach allows data sharing across modules, enhancing overall functionality and impact. The paper also discusses ethical considerations, potential biases in AI systems, and the transformation of AI-FEED from a research project to a sustainable entity. The AI-FEED platform exemplifies the potential of interdisciplinary collaboration and technological innovation in addressing societal challenges, particularly in improving food security and community health.
+        <br><br>
+    </div>   
+
+    <ol start="11">
         <li>
             Lewis, R. H.*, Jiao, J., <b>Seong, K.</b>, Farahi, A., Navrátil, P., Casebeer, N., and Niyogi, D. (2024). Fire and smoke digital twin – A computational framework for modeling fire incident outcomes. <i>Computers, Environment and Urban Systems</i>, 110, 102093. [ <a href="javascript:void(0);" onclick="showdropinfo('FireDT2024')">abstract</a> | <a href="https://linkinghub.elsevier.com/retrieve/pii/S019897152400022X" target="_blank">official link</a> ]
         </li>
@@ -86,17 +152,6 @@ permalink: /publications/
 
     <div id='FireDT2024' class="abstractcollapsed" style="display:none;">
         Fires and burning are the chief causes of particulate matter (PM2.5), a key measurement of air quality in communities and cities worldwide. This work develops a live fire tracking platform to show active reported fires from over twenty cities in the U.S., as well as predict their smoke paths and impacts on the air quality of regions within their range. Specifically, our close to real-time tracking and predictions culminates in a digital twin to protect public health and inform the public of fire and air quality risk. This tool tracks fire incidents in real-time, utilizes the 3D building footprints of Austin to simulate smoke outputs, and predicts fire incident smoke falloffs within the complex city environment. Results from this study include a complete fire and smoke digital twin model for Austin. We work in cooperation with the City of Austin Fire Department to ensure the accuracy of our forecast and also show that air quality sensor density within our cities cannot validate urban fire presence. We additionally release code and methodology to replicate these results for any city in the world. This work paves the path for similar digital twin models to be developed and deployed to better protect the health and safety of citizens.
-        <br><br>
-    </div>
-
-    <ol start="11">
-        <li>
-            <b>Seong, K.*</b>, Choi, S., and Jiao, J. (2024). IoT sensors as a tool for assessing spatiotemporal risk to extreme heat.  <i>Journal of Environmental Planning and Management</i>. 1-23. [ <a href="javascript:void(0);" onclick="showdropinfo('IoT2024')">abstract</a> | <a href="https://www.tandfonline.com/doi/full/10.1080/09640568.2024.2320257" target="_blank">official link</a> ]
-        </li>
-    </ol>
-
-    <div id='IoT2024' class="abstractcollapsed" style="display:none;">
-        The safety of urban populations sensitive to extreme heat is under increasing threat. Few studies examine the potential benefits of deploying IoT environmental sensors in the urban context and their integration with large-scale human activity data. This paper examines the deployment of IoT sensors in high-resolution extreme heat risk assessment in the case of Seoul, South Korea. This study conducted spatiotemporal analysis on heat exposure with IoT sensors, compared it with an existing land surface temperature map for validation, combined it with human activity data for risk assessment, and finally discussed the benefits of IoTs in detecting abnormal weather events. The results show that extreme heat risks and characteristics vary by age group, and socio-demographic nature overlaps with contextual factors concerning climate risk. This paper discussed possible policy implications to better deal with recurring climate hazards using IoT sensors.
         <br><br>
     </div>
 
