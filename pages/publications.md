@@ -61,6 +61,7 @@ permalink: /publications/
         In the face of growing impacts from climate change, particularly in flood-prone areas, buyouts have become critical for mitigating disaster risks. While the environmental and financial benefits of buyouts are well-documented, their broader sociocultural implications—especially their effects on the racial and ethnic composition of communities—have received less attention. Understanding the influence of floodplain buyouts on these demographic shifts is important not only for comprehending urban dynamics but also for crafting equitable planning policies. This study examines long-term racial and ethnic shifts following floodplain buyouts over twenty-five years in Houston, Texas, USA. Using smaller neighborhood units in analysis and a mixed-method approach, the study enables a nuanced understanding of the interplay between buyout policies and racial dynamics, filling a significant gap both in urban planning literature and practice. By uncovering the patterns and consequences of racial turnover following floodplain buyouts, this research provides planners and policymakers with insights necessary for developing strategies that mitigate environmental risks while enhancing the social fabric of urban communities.
         <br><br>
     </div>
+</div>
 
 ### 2025
 <div class="text-colored">
@@ -107,7 +108,7 @@ permalink: /publications/
         Food insecurity remains a pressing issue in urban communities, particularly in underserved areas with limited access to healthy and affordable food. This study introduces a comprehensive approach to assessing and addressing food access challenges in the Greater Houston region by developing a Healthy Food Access Index (HFAI). The HFAI incorporates a wide range of data sources, including economic and sociocultural deprivation indices, retail food environment measures, physical access indicators, and accommodation access data, that offer a multidimensional understanding of food access. Using GIS-based mapping and hot spot analysis, we identify areas of critical need, highlighting significant disparities in food access and health across the region. We also present the web-based platform, “AI-FEED,” designed to support community leaders and urban planners by visualizing food access challenges and providing AI-driven suggestions for optimizing food pantry placements, incentivizing healthy options at dollar stores, and improving public transit routes. This platform integrates real-time data, offering dynamic and proactive solutions to enhance food security and improve public health outcomes. Our study introduces the importance of targeted, data-driven interventions in addressing food insecurity and demonstrates the potential of AI and digital platforms in supporting sustainable urban food systems.
         <br><br>
     </div>    
-
+</div>
 
 ### 2024 
 <div class="text-colored">
