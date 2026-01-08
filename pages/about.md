@@ -53,7 +53,13 @@ Smart City Resilience, Environmental Justice, Environmental Health, Urban Data S
                 <li>International Journal of Environmental Research and Public Health (IJERPH)</li> 
                 <li>Journal of Planning Literature (JPL)</li> 
                 <li>International Journal of Disaster Risk Reduction (IJDRR)</li> 
-                <li>Journal of Planning Education and Research (JPER)</li>            
+                <li>Journal of Planning Education and Research (JPER)</li>
+                <li>Sustainable Cities and Society (SCS)</li>
+                <li>npj Natural Hazards</li>
+                <li>Annals of the American Association of Geographers (AAG)</li>
+                <li>Health and Place (JHAP)</li>
+                <li>International Journal of Mass Emergencies and Disasters (IJMED)</li>
+                <li>Cities</li>
             </ul>
         </li>
     </ul> 
@@ -62,7 +68,7 @@ Smart City Resilience, Environmental Justice, Environmental Health, Urban Data S
 <div class="text-colored">
     <h2 style="margin-bottom: 5; font-size: 17px">Professional Service</h2>
     <ul style="margin-top: 0;">
-        <li>Program Coordinator, <a href="https://smartcitiessymposium2024.splashthat.com/" target="_blank">Smart Cities and AI Innovations Symposium 2024</a>, UT Austin, Austin, TX, 2024.</li> 
+        <li>Program Coordinator, <a href="https://gssmartcitiessymp06-03.splashthat.com/" target="_blank">3rd Annual Good Systems Smart Cities and AI Innovations Symposium 2025</a>, UT Austin, Austin, TX, 2025.</li> 
         <li>Program Coordinator, <a href="https://smartcitiessymposium.splashthat.com/" target="_blank">Smart Cities and Generative AI Symposium 2023</a>, UT Austin, Austin, TX, 2023.</li>
         <li>Council Liaison, A Good System for Smart Cities Advisory Group, UT Austin, Austin, TX, 2023 - Present.</li>
         <li>Program Organizer and Moderator, <a href="https://smartcity.tacc.utexas.edu/pages/events.html#E282128843" target="_blank">Good Systems Smart Cities Talk Series</a>, UT Austin, Austin, TX, 2022 - 2023.</li>
