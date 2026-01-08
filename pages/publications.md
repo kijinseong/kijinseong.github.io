@@ -28,10 +28,10 @@ permalink: /publications/
             <b>Seong, K.</b>, Mandalapu, A., & Jiao, J*. Urban–Rural Disparities in Heat-Related Illness: Place-Based Vulnerabilities and Health System Implications in Texas. (Under Review: <i>Journal of Urban Health</i>)
         </li>
         <li>
-            <b>Choi, S.</b>, Seong, K.*, & Jiao, J. Unveiling the Secret: Investigating Data Center Site Planning at Major ICT Companies in the U.S. (Under Review: <i>Cities</i>) 
+            Choi, S., <b>Seong, K.*</b>, & Jiao, J. Unveiling the Secret: Investigating Data Center Site Planning at Major ICT Companies in the U.S. (Under Review: <i>Cities</i>) 
         </li>   
         <li>
-            <b>Choi, S.*</b>, Lee, H., & Seong, K. Assessing the Flood Resilience of Electric Vehicle Charging Stations in Seoul: Evidence from Utilization Data and Accessibility Analysis. (Under Review: <i>Transportation Research Part D: Transport and Environment</i>)  
+            Choi, S.*, Lee, H., & <b>Seong, K.</b> Assessing the Flood Resilience of Electric Vehicle Charging Stations in Seoul: Evidence from Utilization Data and Accessibility Analysis. (Under Review: <i>Transportation Research Part D: Transport and Environment</i>)  
         </li>             
         <li>
             <b>Seong, K.</b>, & Jiao, J.*. Predicting Heat-Related Emergency Department Visits: A GeoAI Approach to Assessing Extreme Heat Vulnerability in Texas. (Plan to submit it in February 2026: <i>Sustainable Cities and Society</i>) 
