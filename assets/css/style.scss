@@ -271,13 +271,15 @@ footer {
 .course-item {
   padding-left: 40px;
   font-size: 15px;
+  line-height: 1.35;
   margin: 0 0 4px 0;
 }
 
 // 소속 기관 줄 — 아래 여백은 좁게(바로 아래 과목과 붙임),
 // 위 여백은 넓게(앞 그룹과 분리)
 .institution {
-  margin: 20px 0 2px 0;
+  line-height: 1.35;
+  margin: 20px 0 0 0;
 }
 
 // h2 바로 다음에 오는 기관 줄은 위 여백 제거

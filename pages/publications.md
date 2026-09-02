@@ -25,22 +25,24 @@ permalink: /publications/
             <b>Seong, K.</b>, Mandalapu, A, & Jiao, J*. The Legacy of Redlining: Unveiling the Impact on Natural Hazard Risk and Community Resilience. (Under Review: <i>Applied Geography</i>)
         </li>
         <li>
-            <b>Seong, K.</b>, Mandalapu, A., & Jiao, J*. Urban–Rural Disparities in Heat-Related Illness: Place-Based Vulnerabilities and Health System Implications in Texas. (Under Review: <i>Journal of Urban Health</i>)
+            <b>Seong, K.</b>, Mandalapu, A., & Jiao, J*. Uneven Heat Vulnerability across Urban and Rural Texas: Emergency Care Burdens, Built Environment, and Planning Implications. (Under Review: <i>Cities</i>)
         </li>
         <li>
-            Choi, S., <b>Seong, K.*</b>, & Jiao, J. Unveiling the Secret: Investigating Data Center Site Planning at Major ICT Companies in the U.S. (Under Review: <i>Cities</i>) 
+           Rouhi Rad, M.*, Abella-Gutiérrez, J., Banner, J., Nielsen-Gammon, J., <b>Seong, K.</b>, Dessler, A. E., Bahrami, S., Kang, N., Mace, R. E., Medina, N., Wyatt, B. M., Mieno, T., Cook, M., Fares, A., & Schlichting, L. Economic costs and mechanism of the summer 2023 heat wave and drought on Texas. (Under Review: <i>Texas Water Journal</i>) 
         </li>   
         <li>
-            Choi, S.*, Lee, H., & <b>Seong, K.</b> Assessing the Flood Resilience of Electric Vehicle Charging Stations in Seoul: Evidence from Utilization Data and Accessibility Analysis. (Under Review: <i>Transportation Research Part D: Transport and Environment</i>)  
-        </li>             
+            Choi, S.*, Lee, H., & <b>Seong, K.</b> Assessing the Flood Resilience of Electric Vehicle Charging Stations in Seoul: Evidence from Utilization Data and Accessibility Analysis. (Under Review: <i>Transportation Research Interdisciplinary Perspectives</i>)  
+        </li>
         <li>
-            <b>Seong, K.</b>, & Jiao, J.*. Predicting Heat-Related Emergency Department Visits: A GeoAI Approach to Assessing Extreme Heat Vulnerability in Texas. (Plan to submit it in February 2026: <i>Sustainable Cities and Society</i>) 
+            Toscan, P. C., Mai, G., Liu Z., <b>Seong, K.</b>, Jiao, J. Oliveira, M., Pereira, E. Automated Identification of Nature-Based Solutions in Urban Environments Using Remote Sensing and GeoAI: A Systematic Review. (Under Review: <i>Geoscience Frontiers</i>)
+        <li>
+            <b>Seong, K.</b>, Planning for Urban Power Resilience after Winter Storm Uri: Nighttime Light-Based Recovery Patterns and Spatial Strategies in Harris County, Texas. (Plan to submit in Sep 2026: <i>International Journal of Disaster Risk Reduction</i>)  
         </li> 
         <li>
-            <b>Seong, K.</b>, Ortega, N, & Jiao, J*. Modeling the Health Impacts of Electric Vehicle Adoption: A SEM–XGBoost Approach to Environmental Stressors and Public Health Burden. (Plan to submit in December 2025: <i>Journal of Transport & Health</i>) 
+            <b>Seong, K.</b> & Jiao, J.*. Predicting Heat-Related Emergency Department Visits: A GeoAI Approach to Assessing Extreme Heat Vulnerability in Texas. (Plan to submit in February 2027: Sustainable Cities and Society) 
         </li> 
         <li>
-            Jiao, J. & <b>Seong, K</b>. Smart Cities with AI. Edited Book contracted with Taylor & Francis/CRC Press. (Planned publication:  March 2026.) 
+            Jiao, J. & <b>Seong, K</b>. Smart Cities with AI. Edited Book contracted with Taylor & Francis/CRC Press. (Planned publication:  December 2026) 
         </li>
     </ol>
 </div>
@@ -51,9 +53,20 @@ permalink: /publications/
 
 ### 2026
 <div class="text-colored">
+    <ol start="20">
+        <li>
+            Choi, S., <b>Seong, K.*</b>, & Jiao, J. (2026). Investigating data center site planning of major ICT companies in the US: A spatial and methodological framework. <i>Cities</i>, 107509. [ <a href="javascript:void(0);" onclick="showdropinfo('DataCenter2026')">abstract</a> | <a href="https://doi.org/10.1016/j.cities.2026.107509" target="_blank">official link</a> ]
+        </li>
+    </ol>
+
+    <div id='DataCenter2026' class="abstractcollapsed" style="display:none;"> 
+        As AI becomes more embedded in urban systems, the demand for data centers continues to rise. This study analyzes 212 data centers in the U.S., focusing on those operated by major ICT enterprises. We examined key site-selection factors using clustering, suitability scoring, graph-based network analysis, and conditional logistic regression. K-means was selected for clustering. Variables were grouped into environmental and locational site-level factors to generate separate suitability indices. To identify siting determinants, we then estimated conditional logistic regression models, comparing each data center against spatially comparable control locations. The results highlight the complexity of selecting a site for a data center. In general, data centers exhibit spatial agglomeration and gain operational advantages from economies of scale. Clustering analysis grouped sites into six categories, each reflecting distinct locational and environmental patterns. The graph-based network analysis further illustrates the trade-offs companies must make between environmental suitability and operational site-level advantages. Regression results revealed that land use structure, particularly land use diversity and was the most powerful determinant of data center siting. Infrastructural factors, including substation density and proximity to primary roads, as well as the concentration of IT workers, also exhibited strong positive effects. Among environmental factors, lower wind speeds and PM2.5 concentrations positively influenced data center siting, while state-level policy incentives remained statistically insignificant. Our findings highlight the distinctive infrastructural characteristics of these facilities. Acknowledging their widespread operational footprint across diverse urban landscapes, planners must proactively engage with the physical and spatial dimensions of digital infrastructure.
+        <br><br>
+    </div>
+
     <ol start="19">
         <li>
-            <b>Seong, K.*</b>, Van Zandt, S., Peacock, W. G., & Newman, G. Racial and Ethnic Change in Floodplain Buyout Neighborhoods: Twenty-five Years of Evidence from Houston. <i>Journal of Planning Education and Research</i>. [ <a href="javascript:void(0);" onclick="showdropinfo('HMGP2025')">abstract</a> | <a href="https://doi.org/10.1177/0739456X251397310" target="_blank">official link</a> ]
+            <b>Seong, K.*</b>, Van Zandt, S., Peacock, W. G., & Newman, G. (2026) Racial and Ethnic Change in Floodplain Buyout Neighborhoods: Twenty-five Years of Evidence from Houston. <i>Journal of Planning Education and Research</i>. [ <a href="javascript:void(0);" onclick="showdropinfo('HMGP2025')">abstract</a> | <a href="https://doi.org/10.1177/0739456X251397310" target="_blank">official link</a> ]
         </li>
     </ol>
 
