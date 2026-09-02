@@ -8,7 +8,7 @@ permalink: /teaching/
 <br />
 
 <h2>Instructor</h2>
-<p>The University of Oklahoma, Norman, OK.</p>
+<p class="institution">The University of Oklahoma, Norman, OK.</p>
 
 <p class="course-item">
     <b>RCPL4463/5463 Geographic Information Systems for Land Use Planning (Fall 2026) 
@@ -25,7 +25,7 @@ permalink: /teaching/
     <br><br>
 </div>
 
-<p>The University of Texas at Austin, Austin, TX.</p>
+<p class="institution">The University of Texas at Austin, Austin, TX.</p>
 
 <p class="course-item">
     <b>CRP381Q Quantitative Methods (Spring 2026) 
@@ -40,7 +40,7 @@ permalink: /teaching/
     <br><br>
 </div>
 
-<p>Department of Landscape Architecture and Urban Planning, Texas A&M University, College Station, TX.</p>
+<p class="institution">Department of Landscape Architecture and Urban Planning, Texas A&M University, College Station, TX.</p>
 
 <p class="course-item">
     <b>URPN202-501 Building Better Cities (Fall 2018) 
@@ -58,7 +58,7 @@ permalink: /teaching/
 
 <h2>Lecturer</h2>
 
-<p>Department of Landscape Architecture and Urban Planning, Texas A&M University, College Station, TX.</p> 
+<p class="institution">Department of Landscape Architecture and Urban Planning, Texas A&M University, College Station, TX.</p> 
 
 <p class="course-item">
     <b>URPN202 Building Better Cities (Fall 2021) 
