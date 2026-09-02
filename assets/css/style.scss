@@ -264,4 +264,12 @@ footer {
 // Collapse
 .abstractcollapsed {
   display: none;
+  margin: 0 0 10px 40px; // 펼쳤을 때만 적용되는 여백
+}
+
+// Course list (Teaching page)
+.course-item {
+  padding-left: 40px;
+  font-size: 15px;
+  margin: 0 0 4px 0;
 }
