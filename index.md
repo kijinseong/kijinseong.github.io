@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p style="font-size:110%;">Hello! I am <b>Kijin Seong</b>, an Assistant Professor in the <a href="https://www.ou.edu/gibbs/divisions/planning-landscape-architecture-and-design" target="_blank">Division of Planning, Landscape Architecture, and Design</a> at the University of Oklahoma. I am an urban planner and resilience researcher whose work explores the intersections of <b>urban informatics</b>, <b>emerging technologies</b>, and <b>climate resilience</b>. My research investigates how data, computational methods, and technological innovations can help us better understand the complex challenges facing cities and develop more resilient and adaptive urban systems. Ultimately, I aim to bridge data-driven research and planning practice to support more sustainable, equitable, and resilient communities.</p>
+<p style="font-size:110%;">Hello! I am <b>Kijin Seong</b>, an Assistant Professor in the <a href="https://www.ou.edu/gibbs/divisions/planning-landscape-architecture-and-design" target="_blank">Division of Planning, Landscape Architecture, and Design</a> at the <a href="https://www.ou.edu/" target="_blank">University of Oklahoma</a>. I am an urban planner and resilience researcher whose work explores the intersections of <b>urban informatics</b>, <b>emerging technologies</b>, and <b>climate resilience</b>. My research investigates how data, computational methods, and technological innovations can help us better understand the complex challenges facing cities and develop more resilient and adaptive urban systems. Ultimately, I aim to bridge data-driven research and planning practice to support more sustainable, equitable, and resilient communities.</p>
 
 <br />
 

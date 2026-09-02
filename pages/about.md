@@ -15,26 +15,35 @@ I have served as a Postdoctoral Researcher at the Urban Information Lab at The U
 
 ## Research Interests
 
-Smart City Resilience, Environmental Justice, Environmental Health, Urban Data Science, Disaster Resilience, Climate Change Adaptation, Ethical AI 
+Urban Resilience, Disaster Resilience, Climate Change Adaptation, Environmental Justice, Environmental Health, Urban Data Science, Ethical AI 
 
 <br />
 
 ## Work Experience 
 <p>
-<span style="display:inline-block; width: 95px;">2024 -</span><b>Postdoctoral Researcher/ Senior Research Fellow in Smart Cities</b><br />
-<span style="display:inline-block; text-indent: 95px;">Urban Information Lab, UT Austin</span><br />
+<span style="display:inline-block; width: 95px;">2026 - </span><b>Assistant Professor</b><br />
+<span style="display:inline-block; text-indent: 95px;">Division of Planning, Landscape Architecture, and Design (PLAD), University of Oklahoma</span><br />
+
+<span style="display:inline-block; width: 95px;">2024 - 2026</span><b>Postdoctoral Researcher/ Senior Research Fellow in Smart Cities</b><br />
+<span style="display:inline-block; text-indent: 95px;">Urban Information Lab, The University of Texas at Austin</span><br />
+
 <span style="display:inline-block; width: 95px;">2022 - 2024</span><b>Postdoctoral Researcher</b><br />
-<span style="display:inline-block; text-indent: 95px;">Urban Information Lab, UT Austin</span><br />
+<span style="display:inline-block; text-indent: 95px;">Urban Information Lab, The University of Texas at Austin</span><br />
+
 <span style="display:inline-block; width: 95px;">2021 </span><b>Lecturer</b><br />
-<span style="display:inline-block; text-indent: 95px;">Dept. of Landscape Arch. & Urban Planning, TAMU</span><br />
+<span style="display:inline-block; text-indent: 95px;">Dept. of Landscape Arch. & Urban Planning, Texas A&M University</span><br />
+
 <span style="display:inline-block; width: 95px;">2021 </span><b>Researcher Fellow</b><br />
-<span style="display:inline-block; text-indent: 95px;">Hazard Reduction & Recovery Center, TAMU</span><br />                                  
+<span style="display:inline-block; text-indent: 95px;">Hazard Reduction & Recovery Center, Texas A&M University</span><br />        
+
 <span style="display:inline-block; width: 95px;">2018 </span><b>Instructor of Record</b><br />
-<span style="display:inline-block; text-indent: 95px;">Dept. of Landscape Arch. & Urban Planning, TAMU</span><br />
+<span style="display:inline-block; text-indent: 95px;">Dept. of Landscape Arch. & Urban Planning, Texas A&M University</span><br />
+
 <span style="display:inline-block; width: 95px;">2017 - 2021</span><b>Graduate Research Assistant</b><br />
-<span style="display:inline-block; text-indent: 95px;">Dept. of Landscape Arch. & Urban Planning, TAMU</span><br />
+<span style="display:inline-block; text-indent: 95px;">Dept. of Landscape Arch. & Urban Planning, Texas A&M University</span><br />
+
 <span style="display:inline-block; width: 95px;">2015 - 2016</span><b>Graduate Teaching Assistant</b><br />
-<span style="display:inline-block; text-indent: 95px;">Dept. of Landscape Arch. & Urban Planning, TAMU</span>
+<span style="display:inline-block; text-indent: 95px;">Dept. of Landscape Arch. & Urban Planning, Texas A&M University</span>
 </p>
 
 <br />
@@ -68,9 +77,8 @@ Smart City Resilience, Environmental Justice, Environmental Health, Urban Data S
 <div class="text-colored">
     <h2 style="margin-bottom: 5; font-size: 17px">Professional Service</h2>
     <ul style="margin-top: 0;">
-        <li>Program Coordinator, <a href="https://gssmartcitiessymp06-03.splashthat.com/" target="_blank">3rd Annual Good Systems Smart Cities and AI Innovations Symposium 2025</a>, UT Austin, Austin, TX, 2025.</li> 
-        <li>Program Coordinator, <a href="https://smartcitiessymposium.splashthat.com/" target="_blank">Smart Cities and Generative AI Symposium 2023</a>, UT Austin, Austin, TX, 2023.</li>
-        <li>Council Liaison, A Good System for Smart Cities Advisory Group, UT Austin, Austin, TX, 2023 - Present.</li>
+        <li>Program Coordinator, <a href="https://4gssmartcities.splashthat.com/" target="_blank">Annual Good Systems Smart Cities and AI Innovations Symposium</a>, UT Austin, Austin, TX, 2023-2026.</li> 
+        <li>Council Liaison, <a href="https://bridgingbarriers.utexas.edu/good-systems/projects/a-good-system-for-smart-cities" target="_blank"> A Good System for Smart Cities</a> Advisory Group, UT Austin, Austin, TX, 2023 - 2026.</li>
         <li>Program Organizer and Moderator, <a href="https://smartcity.tacc.utexas.edu/pages/events.html#E282128843" target="_blank">Good Systems Smart Cities Talk Series</a>, UT Austin, Austin, TX, 2022 - 2023.</li>
         <li>Student Chair, LAUP Korean Student Association, Dept. of Landscape Architecture and Urban Planning, Texas A&M University, College Station, TX, 2016-2017.</li>
         <li>Dean’s Ambassador, School of Architecture, UT Austin, Austin, TX, 2014-2015.</li>
