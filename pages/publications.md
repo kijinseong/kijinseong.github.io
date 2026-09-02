@@ -66,7 +66,7 @@ permalink: /publications/
 
     <ol start="19">
         <li>
-            <b>Seong, K.*</b>, Van Zandt, S., Peacock, W. G., & Newman, G. (2026) Racial and Ethnic Change in Floodplain Buyout Neighborhoods: Twenty-five Years of Evidence from Houston. <i>Journal of Planning Education and Research</i>. [ <a href="javascript:void(0);" onclick="showdropinfo('HMGP2025')">abstract</a> | <a href="https://doi.org/10.1177/0739456X251397310" target="_blank">official link</a> ]
+            <b>Seong, K.*</b>, Van Zandt, S., Peacock, W. G., & Newman, G. (2026) Racial and Ethnic Change in Floodplain Buyout Neighborhoods: Twenty-five Years of Evidence from Houston. <i>Journal of Planning Education and Research</i>. 0739456X251397310. [ <a href="javascript:void(0);" onclick="showdropinfo('HMGP2025')">abstract</a> | <a href="https://doi.org/10.1177/0739456X251397310" target="_blank">official link</a> ]
         </li>
     </ol>
 
