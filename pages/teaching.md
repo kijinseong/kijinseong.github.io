@@ -11,7 +11,8 @@ permalink: /teaching/
 <p class="institution">The University of Oklahoma, Norman, OK.</p>
 
 <p class="course-item">
-    <b>RCPL4463/5463 Geographic Information Systems for Land Use Planning (Fall 2026)</b>[<a href="javascript:void(0);" onclick="showdropinfo('RCPL4463_5463_Fall2026');" style="font-size= 15px;">Course Description</a>]
+    <b>RCPL4463/5463 Geographic Information Systems for Land Use Planning (Fall 2026)</b> 
+        [<a href="javascript:void(0);" onclick="showdropinfo('RCPL4463_5463_Fall2026');" style="font-size= 15px;">Course Description</a>]
 </p>
 
 <div id='RCPL4463_5463_Fall2026' class="abstractcollapsed" style="display:none; font-size: 15px;">
@@ -26,9 +27,9 @@ permalink: /teaching/
 <p class="institution">The University of Texas at Austin, Austin, TX.</p>
 
 <p class="course-item">
-    <b>CRP381Q Quantitative Methods (Spring 2026) 
+    <b>CRP381Q Quantitative Methods (Spring 2026)</b> 
         [<a href="javascript:void(0);" onclick="showdropinfo('CRP381Q_Spring2026');" style="font-size= 15px;">Course Description</a>]
-    </b>
+    
 </p>
 
 <div id='CRP381Q_Spring2026' class="abstractcollapsed" style="display:none; font-size: 15px;">
@@ -41,9 +42,9 @@ permalink: /teaching/
 <p class="institution">Department of Landscape Architecture and Urban Planning, Texas A&M University, College Station, TX.</p>
 
 <p class="course-item">
-    <b>URPN202-501 Building Better Cities (Fall 2018) 
+    <b>URPN202-501 Building Better Cities (Fall 2018)</b> 
         [<a href="javascript:void(0);" onclick="showdropinfo('URPN202-501_Fall2018');" style="font-size= 15px;">Course Description</a>]
-    </b>
+    
 </p>
 
 <div id='URPN202-501_Fall2018' class="abstractcollapsed" style="display:none; font-size: 15px;">
@@ -59,9 +60,9 @@ permalink: /teaching/
 <p class="institution">Department of Landscape Architecture and Urban Planning, Texas A&M University, College Station, TX.</p> 
 
 <p class="course-item">
-    <b>URPN202 Building Better Cities (Fall 2021) 
+    <b>URPN202 Building Better Cities (Fall 2021)</b> 
             [<a href="javascript:void(0);" onclick="showdropinfo('URPN202_Fall2021');" style="font-size= 15px;">Course Description</a>]
-    </b>
+    
 </p>
 
 <div id='URPN202_Fall2021' class="abstractcollapsed" style="display:none; font-size: 15px;">
@@ -70,9 +71,9 @@ permalink: /teaching/
 </div>
 
 <p class="course-item">
-    <b>URPN340 Housing and Community (Fall 2021) 
+    <b>URPN340 Housing and Community (Fall 2021)</b> 
         [<a href="javascript:void(0);" onclick="showdropinfo('URPN340_Fall2021');" style="font-size= 15px;">Course Description</a>]
-    </b>
+    
 </p>
 
 <div id='URPN340_Fall2021' class="abstractcollapsed" style="display:none; font-size: 15px;">

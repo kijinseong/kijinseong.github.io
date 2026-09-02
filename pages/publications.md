@@ -35,6 +35,7 @@ permalink: /publications/
         </li>
         <li>
             Toscan, P. C., Mai, G., Liu Z., <b>Seong, K.</b>, Jiao, J. Oliveira, M., Pereira, E. Automated Identification of Nature-Based Solutions in Urban Environments Using Remote Sensing and GeoAI: A Systematic Review. (Under Review: <i>Geoscience Frontiers</i>)
+        </li>
         <li>
             <b>Seong, K.</b>, Planning for Urban Power Resilience after Winter Storm Uri: Nighttime Light-Based Recovery Patterns and Spatial Strategies in Harris County, Texas. (Plan to submit in Sep 2026: <i>International Journal of Disaster Risk Reduction</i>)  
         </li> 
@@ -350,6 +351,5 @@ permalink: /publications/
             Sutley, E., Dillard, M., Hamideh, S., Peacock, W., Tobin, J., Peek, L., <b>Seong, K.</b>, Barbosa, A., Tomiczek, T., van de Lindt, J., and Gu, D. (2020)."Household Survey Instrument, January 19, 2018: Wave 2", in A Longitudinal Community Resilience Focused Technical Investigation of the Lumberton, North Carolina Flood of 2016. [ <a href="https://doi.org/10.17603/ds2-db3h-gy28" target="_blank">DesignSafe-CI</a> ]
         </li>
     </ol>
-
-
+</div>
 
