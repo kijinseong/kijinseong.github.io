@@ -10,7 +10,7 @@ permalink: /publications/
     }
 
     ol li {
-        margin-bottom: 10px; /* Adjust the margin value as needed */
+        margin-bottom: 5px; /* Adjust the margin value as needed */
     }
 </style>
 
