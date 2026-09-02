@@ -11,9 +11,7 @@ permalink: /teaching/
 <p class="institution">The University of Oklahoma, Norman, OK.</p>
 
 <p class="course-item">
-    <b>RCPL4463/5463 Geographic Information Systems for Land Use Planning (Fall 2026) 
-        [<a href="javascript:void(0);" onclick="showdropinfo('RCPL4463_5463_Fall2026');" style="font-size= 15px;">Course Description</a>]
-    </b>
+    <b>RCPL4463/5463 Geographic Information Systems for Land Use Planning (Fall 2026)</b>[<a href="javascript:void(0);" onclick="showdropinfo('RCPL4463_5463_Fall2026');" style="font-size= 15px;">Course Description</a>]
 </p>
 
 <div id='RCPL4463_5463_Fall2026' class="abstractcollapsed" style="display:none; font-size: 15px;">
